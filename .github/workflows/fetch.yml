@@ -1,0 +1,66 @@
+name: fetch-originals
+
+# 用法：Actions → fetch-originals → Run workflow → 在 urls 里每行填一个网址
+# GitHub 的服务器在境外，能打开你这边打不开的站点；下载完会自动提交到本仓库 files/ 目录
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: '要下载的网址，每行一个'
+        required: true
+        default: |
+          https://www.mofa.go.jp/mofaj/toko/kaigai/index.html
+          https://www.anzen.mofa.go.jp/
+          https://www.smartraveller.gov.au/
+          https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download
+        env:
+          URLS: ${{ inputs.urls }}
+        run: |
+          mkdir -p files
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36'
+          i=0
+          echo "$URLS" | while read -r u; do
+            [ -z "$u" ] && continue
+            i=$((i+1))
+            # 用域名+序号命名，避免中文文件名
+            host=$(echo "$u" | sed -E 's#https?://([^/]+)/.*#\1#')
+            out="files/${host}_${i}"
+            code=$(curl -sSL --max-time 60 -A "$UA" -o "${out}.bin" -w '%{http_code}' "$u" || echo 000)
+            size=$(stat -c%s "${out}.bin" 2>/dev/null || echo 0)
+            # 根据内容判断扩展名
+            ext="html"
+            if head -c 4 "${out}.bin" 2>/dev/null | grep -q '%PDF'; then ext="pdf"; fi
+            if [ "$code" = "200" ] && [ "$size" -gt 2000 ]; then
+              mv "${out}.bin" "${out}.${ext}"
+              echo "OK   $code $size $u -> ${out}.${ext}"
+            else
+              rm -f "${out}.bin"
+              echo "FAIL $code $size $u"
+            fi
+          done
+          echo "---"
+          ls -lh files || true
+
+      - name: Commit
+        run: |
+          git config user.name "fetch-bot"
+          git config user.email "fetch-bot@users.noreply.github.com"
+          git add files
+          if git diff --cached --quiet; then
+            echo "没有新文件"
+          else
+            git commit -m "fetch: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
