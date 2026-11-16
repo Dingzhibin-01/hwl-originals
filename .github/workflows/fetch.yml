@@ -1,7 +1,7 @@
 name: fetch-originals
 
-# 用法：Actions → fetch-originals → Run workflow → 在 urls 里每行填一个网址
-# GitHub 的服务器在境外，能打开你这边打不开的站点；下载完会自动提交到本仓库 files/ 目录
+# 用法：Actions → fetch-originals → Run workflow → urls 每行一个网址
+# 直连失败时自动改用 r.jina.ai 阅读代理重试（可绕过 Akamai/Cloudflare 的 403）
 
 on:
   workflow_dispatch:
@@ -11,9 +11,6 @@ on:
         required: true
         default: |
           https://www.mofa.go.jp/mofaj/toko/kaigai/index.html
-          https://www.anzen.mofa.go.jp/
-          https://www.smartraveller.gov.au/
-          https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html
 
 permissions:
   contents: write
@@ -34,33 +31,34 @@ jobs:
           echo "$URLS" | while read -r u; do
             [ -z "$u" ] && continue
             i=$((i+1))
-            # 用域名+序号命名，避免中文文件名
-            host=$(echo "$u" | sed -E 's#https?://([^/]+)/.*#\1#')
-            out="files/${host}_${i}"
-            code=$(curl -sSL --max-time 60 -A "$UA" -o "${out}.bin" -w '%{http_code}' "$u" || echo 000)
-            size=$(stat -c%s "${out}.bin" 2>/dev/null || echo 0)
-            # 根据内容判断扩展名
+            host=$(echo "$u" | sed -E 's#https?://([^/]+)/?.*#\1#')
+            base="files/${host}_${i}"
+            # 1) 直连
+            code=$(curl -sSL --max-time 60 -A "$UA" -H 'Accept: text/html,application/xhtml+xml,application/pdf,*/*' \
+                   -H 'Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8' -o "${base}.bin" -w '%{http_code}' "$u" || echo 000)
+            size=$(stat -c%s "${base}.bin" 2>/dev/null || echo 0)
+            # 2) 直连失败 → r.jina.ai 代理
+            if [ "$code" != "200" ] || [ "$size" -lt 3000 ]; then
+              echo "direct $code/$size, retry via r.jina.ai"
+              code2=$(curl -sSL --max-time 90 -H 'Accept: text/plain' -o "${base}.bin" -w '%{http_code}' "https://r.jina.ai/$u" || echo 000)
+              size2=$(stat -c%s "${base}.bin" 2>/dev/null || echo 0)
+              if [ "$code2" = "200" ] && [ "$size2" -gt 500 ]; then code=$code2; size=$size2; fi
+            fi
             ext="html"
-            if head -c 4 "${out}.bin" 2>/dev/null | grep -q '%PDF'; then ext="pdf"; fi
-            if [ "$code" = "200" ] && [ "$size" -gt 2000 ]; then
-              mv "${out}.bin" "${out}.${ext}"
-              echo "OK   $code $size $u -> ${out}.${ext}"
+            head -c 4 "${base}.bin" 2>/dev/null | grep -q '%PDF' && ext="pdf"
+            if [ "$size" -gt 2000 ]; then
+              mv "${base}.bin" "${base}.${ext}"
+              echo "OK   $code $size $u -> ${base}.${ext}"
             else
-              rm -f "${out}.bin"
-              echo "FAIL $code $size $u"
+              rm -f "${base}.bin"; echo "FAIL $code $size $u"
             fi
           done
-          echo "---"
           ls -lh files || true
 
       - name: Commit
         run: |
           git config user.name "fetch-bot"
           git config user.email "fetch-bot@users.noreply.github.com"
-          git add files
-          if git diff --cached --quiet; then
-            echo "没有新文件"
-          else
-            git commit -m "fetch: $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
-          fi
+          git add -A files
+          if git diff --cached --quiet; then echo "no new files"; else
+            git commit -m "fetch: $(date -u +%Y-%m-%dT%H:%MZ)"; git push; fi
