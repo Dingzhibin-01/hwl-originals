@@ -1,0 +1,46 @@
+name: search-links
+
+# 用 DuckDuckGo 的 HTML 版做检索，把结果里的链接抽出来存成 results.txt
+on:
+  workflow_dispatch:
+    inputs:
+      queries:
+        description: '检索词，每行一个'
+        required: true
+        default: |
+          对外投资管理办法 发改委 全文
+
+permissions:
+  contents: write
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Search
+        env:
+          QS: ${{ inputs.queries }}
+        run: |
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36'
+          : > results.txt
+          echo "$QS" | while read -r q; do
+            [ -z "$q" ] && continue
+            echo "### $q" >> results.txt
+            enc=$(printf '%s' "$q" | jq -sRr @uri)
+            curl -sSL --max-time 40 -A "$UA" "https://html.duckduckgo.com/html/?q=$enc" \
+              | grep -oE 'uddg=[^&"]+' | sed 's/^uddg=//' \
+              | while read -r e; do
+                  python3 -c "import sys,urllib.parse;print(urllib.parse.unquote(sys.argv[1]))" "$e"
+                done | grep -E '^https?://' | sort -u | head -12 >> results.txt
+            echo >> results.txt
+          done
+          echo "---- 共 $(wc -l < results.txt) 行 ----"
+          head -60 results.txt
+      - name: Commit
+        run: |
+          git config user.name "search-bot"
+          git config user.email "search-bot@users.noreply.github.com"
+          git add results.txt
+          git commit -m "search: $(date -u +%Y-%m-%dT%H:%MZ)" || echo "no change"
+          git push || true
