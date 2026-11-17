@@ -1,21 +1,21 @@
 ﻿url,domain,kind,country,lang,status,final_url,is_feed,items,last_item_date,elapsed_ms,error,content_type,bytes
-https://www.state.gov/rss-feed/press-releases/feed/,state.gov,gov,US,en,405,https://www.state.gov/rss-feed/press-releases/feed/,0,0,,173,,text/html; charset=UTF-8,2379
-https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom,usgs.gov,data,US,en,200,https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom,1,7,2026-11-17,132,,application/atom+xml; charset=utf-8,10445
-https://news.un.org/feed/subscribe/en/news/all/rss.xml,un.org,igorg,GLOBAL,en,200,https://news.un.org/feed/subscribe/en/news/all/rss.xml,1,30,2026-11-16,147,,application/rss+xml; charset=utf-8,34372
-https://www.who.int/rss-feeds/news-english.xml,who.int,igorg,GLOBAL,en,200,https://www.who.int/rss-feeds/news-english.xml,1,83,2026-10-10,1260,,application/rss+xml,772225
-https://feeds.bbci.co.uk/news/world/rss.xml,bbc.co.uk,news,GB,en,200,https://feeds.bbci.co.uk/news/world/rss.xml,1,21,2026-11-17,152,,text/xml; charset=utf-8,16726
-https://www.theguardian.com/world/rss,theguardian.com,news,GB,en,200,https://www.theguardian.com/world/rss,1,45,2026-11-17,95,,text/xml; charset=UTF-8,152020
-https://www.aljazeera.com/xml/rss/all.xml,aljazeera.com,news,QA,en,200,https://www.aljazeera.com/xml/rss/all.xml,1,25,2026-11-17,238,,application/rss+xml; charset=UTF-8,17204
-https://rss.dw.com/rdf/rss-en-all,dw.com,news,DE,en,200,https://rss.dw.com/rdf/rss-en-all,1,134,2026-11-17,637,,text/xml; charset=UTF-8,122660
-https://www.france24.com/en/rss,france24.com,news,FR,en,200,https://www.france24.com/en/rss,1,24,2026-11-17,251,,application/rss+xml; charset=utf-8,27303
-https://www.cbc.ca/webfeed/rss/rss-world,cbc.ca,news,CA,en,200,https://www.cbc.ca/webfeed/rss/rss-world,1,20,2026-11-17,154,,application/xml;charset=UTF-8,26735
-https://feeds.npr.org/1004/rss.xml,npr.org,news,US,en,200,https://feeds.npr.org/1004/rss.xml,1,10,2026-11-17,221,,text/xml;charset=UTF-8,13961
-https://www.economist.com/international/rss.xml,economist.com,news,GB,en,200,https://www.economist.com/international/rss.xml,1,300,2026-11-16,216,,text/xml,151828
-https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom,gov.uk,gov,GB,en,200,https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom,1,20,2026-11-17,390,,application/atom+xml; charset=utf-8,12451
-https://www.iaea.org/feeds/topstories,iaea.org,igorg,GLOBAL,en,404,https://www.iaea.org/feeds/topstories,0,0,,447,,text/html; charset=UTF-8,48057
-https://www.crisisgroup.org/rss,crisisgroup.org,thinktank,BE,en,200,https://www.crisisgroup.org/rss,1,10,,238,,application/rss+xml; charset=utf-8,8050
-https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10,defense.gov,gov,US,en,200,https://www.war.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10,1,10,2026-11-17,247,,text/xml; charset=utf-8,9581
-https://www.cisa.gov/cybersecurity-advisories/all.xml,cisa.gov,gov,US,en,200,https://www.cisa.gov/cybersecurity-advisories/all.xml,1,29,2026-11-13,1222,,application/rss+xml; charset=utf-8,2000000
-https://www.japantimes.co.jp/feed/,japantimes.co.jp,news,JP,en,200,https://www.japantimes.co.jp/feed/,1,30,2026-11-17,367,,application/rss+xml; charset=utf-8,40153
-https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml,channelnewsasia.com,news,SG,en,200,https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml,1,20,2026-11-17,229,,application/rss+xml; charset=utf-8,17934
-https://www.scmp.com/rss/91/feed,scmp.com,news,HK,en,200,https://www.scmp.com/rss/91/feed/,1,50,2026-11-17,774,,text/xml; charset=utf-8,81645
+https://www.state.gov/rss-feed/press-releases/feed/,state.gov,gov,US,en,405,https://www.state.gov/rss-feed/press-releases/feed/,0,0,,215,,text/html; charset=UTF-8,2379
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom,usgs.gov,data,US,en,200,https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom,1,7,2026-11-17,181,,application/atom+xml; charset=utf-8,10445
+https://news.un.org/feed/subscribe/en/news/all/rss.xml,un.org,igorg,GLOBAL,en,200,https://news.un.org/feed/subscribe/en/news/all/rss.xml,1,30,2026-11-16,164,,application/rss+xml; charset=utf-8,34372
+https://www.who.int/rss-feeds/news-english.xml,who.int,igorg,GLOBAL,en,200,https://www.who.int/rss-feeds/news-english.xml,1,83,2026-10-10,994,,application/rss+xml,772225
+https://feeds.bbci.co.uk/news/world/rss.xml,bbc.co.uk,news,GB,en,200,https://feeds.bbci.co.uk/news/world/rss.xml,1,21,2026-11-17,289,,text/xml; charset=utf-8,16726
+https://www.theguardian.com/world/rss,theguardian.com,news,GB,en,200,https://www.theguardian.com/world/rss,1,45,2026-11-17,137,,text/xml; charset=UTF-8,152020
+https://www.aljazeera.com/xml/rss/all.xml,aljazeera.com,news,QA,en,200,https://www.aljazeera.com/xml/rss/all.xml,1,25,2026-11-17,165,,application/rss+xml; charset=UTF-8,17223
+https://rss.dw.com/rdf/rss-en-all,dw.com,news,DE,en,200,https://rss.dw.com/rdf/rss-en-all,1,134,2026-11-17,563,,text/xml; charset=UTF-8,122580
+https://www.france24.com/en/rss,france24.com,news,FR,en,200,https://www.france24.com/en/rss,1,24,2026-11-17,158,,application/rss+xml; charset=utf-8,27303
+https://www.cbc.ca/webfeed/rss/rss-world,cbc.ca,news,CA,en,200,https://www.cbc.ca/webfeed/rss/rss-world,1,20,2026-11-17,214,,application/xml;charset=UTF-8,26735
+https://feeds.npr.org/1004/rss.xml,npr.org,news,US,en,200,https://feeds.npr.org/1004/rss.xml,1,10,2026-11-17,173,,text/xml;charset=UTF-8,13961
+https://www.economist.com/international/rss.xml,economist.com,news,GB,en,200,https://www.economist.com/international/rss.xml,1,300,2026-11-16,223,,text/xml,151828
+https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom,gov.uk,gov,GB,en,200,https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom,1,20,2026-11-17,225,,application/atom+xml; charset=utf-8,12451
+https://www.iaea.org/feeds/topstories,iaea.org,igorg,GLOBAL,en,404,https://www.iaea.org/feeds/topstories,0,0,,304,,text/html; charset=UTF-8,48057
+https://www.crisisgroup.org/rss,crisisgroup.org,thinktank,BE,en,200,https://www.crisisgroup.org/rss,1,10,,334,,application/rss+xml; charset=utf-8,8050
+https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10,defense.gov,gov,US,en,200,https://www.war.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10,1,10,2026-11-17,417,,text/xml; charset=utf-8,9581
+https://www.cisa.gov/cybersecurity-advisories/all.xml,cisa.gov,gov,US,en,200,https://www.cisa.gov/cybersecurity-advisories/all.xml,1,29,2026-11-13,837,,application/rss+xml; charset=utf-8,2000000
+https://www.japantimes.co.jp/feed/,japantimes.co.jp,news,JP,en,200,https://www.japantimes.co.jp/feed/,1,30,2026-11-17,752,,application/rss+xml; charset=utf-8,40153
+https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml,channelnewsasia.com,news,SG,en,200,https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml,1,20,2026-11-17,342,,application/rss+xml; charset=utf-8,17934
+https://www.scmp.com/rss/91/feed,scmp.com,news,HK,en,200,https://www.scmp.com/rss/91/feed/,1,50,2026-11-17,711,,text/xml; charset=utf-8,81645
