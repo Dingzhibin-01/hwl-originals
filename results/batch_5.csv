@@ -1,0 +1,31 @@
+﻿url,domain,kind,country,lang,status,final_url,is_feed,items,last_item_date,elapsed_ms,error,content_type,bytes
+https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json,cisa.gov,official,US,en,200,https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json,0,0,,103,,application/json,1863915
+https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml,nist.gov,official,US,en,404,https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml,0,0,,339,empty body (status 404),,0
+https://www.state.gov/feed/,state.gov,official,US,en,405,https://www.state.gov/feed/,0,0,,118,,text/html; charset=UTF-8,2379
+https://operationalenvironmentwatch.army.mil/feed/,army.mil,official,XX,en,0,,0,0,,242,"ConnectionError: HTTPSConnectionPool(host='operationalenvironmentwatch.army.mil', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(""HTTPSConnection(host='operationale",,0
+https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss,nasa.gov,official,XX,en,200,https://www.nasa.gov/feeds/iotd-feed,1,60,2026-11-18,387,,application/rss+xml; charset=UTF-8,49132
+https://www.news.navy.mil/DesktopModules/ArticleCS/RSS.ashx,navy.mil,official,XX,en,0,,0,0,,224,"ConnectionError: HTTPSConnectionPool(host='www.news.navy.mil', port=443): Max retries exceeded with url: /DesktopModules/ArticleCS/RSS.ashx (Caused by NameResolutionError(""HTTPSConnection(host='www",,0
+http://www.us-cert.gov/channels/alerts.rdf,us-cert.gov,official,XX,en,404,https://www.cisa.gov/channels/alerts.rdf,0,0,,311,,text/html; charset=utf-8,46889
+https://dgap.org/en/rss.xml,dgap.org,thinktank,DE,en,200,https://dgap.org/en/rss.xml,0,0,,485,,text/html; charset=utf-8,4311
+https://www.realinstitutoelcano.org/en/feed/,realinstitutoelcano.org,thinktank,ES,es,403,https://www.realinstitutoelcano.org/en/feed/,0,0,,961,,text/html,520
+https://www.chathamhouse.org/rss.xml,chathamhouse.org,thinktank,GB,en,403,https://www.chathamhouse.org/rss.xml,0,0,,97,,text/html; charset=UTF-8,5741
+https://www.iiss.org/rss,iiss.org,thinktank,GB,en,403,https://www.iiss.org/rss,0,0,,128,,text/html; charset=UTF-8,4543
+https://rusi.org/rss/upcoming-events.xml,rusi.org,thinktank,GB,en,200,https://www.rusi.org/rss/upcoming-events.xml,1,0,,323,,application/xml,466
+https://www.bruegel.org/rss.xml,bruegel.org,thinktank,INT,en,403,https://www.bruegel.org/rss.xml,0,0,,120,,text/html; charset=UTF-8,5736
+https://carnegieeurope.eu/rss,carnegieeurope.eu,thinktank,INT,en,200,https://carnegieendowment.org/europe/rss,0,0,,621,,text/html; charset=utf-8,71311
+https://www.crisisgroup.org/rss,crisisgroup.org,thinktank,INT,en,200,https://www.crisisgroup.org/rss,1,10,,316,,application/rss+xml; charset=utf-8,8050
+https://ecfr.eu/feed/,ecfr.eu,thinktank,INT,en,403,https://ecfr.eu/feed/,0,0,,166,,text/html; charset=UTF-8,4542
+https://www.sipri.org/rss/combined.xml,sipri.org,thinktank,SE,en,200,https://www.sipri.org/rss/combined.xml,1,10,2026-11-19,821,,application/rss+xml; charset=utf-8,6825
+https://rsis.edu.sg/feed/,rsis.edu.sg,thinktank,SG,en,200,https://rsis.edu.sg/feed/,1,0,,105,,application/rss+xml; charset=UTF-8,804
+https://www.americanprogress.org/feed/,americanprogress.org,thinktank,US,en,200,https://www.americanprogress.org/,0,0,,315,,text/html; charset=UTF-8,451183
+https://www.atlanticcouncil.org/feed/,atlanticcouncil.org,thinktank,US,en,200,https://www.atlanticcouncil.org/feed/,1,100,2026-11-19,270,,application/rss+xml; charset=UTF-8,173971
+https://carnegieendowment.org/rss,carnegieendowment.org,thinktank,US,en,200,https://carnegieendowment.org/rss,0,0,,180,,text/html; charset=utf-8,69534
+https://www.cfr.org/rss/index.xml,cfr.org,thinktank,US,en,404,https://www.cfr.org/rss/index.xml,0,0,,507,,text/html; charset=utf-8,211073
+https://www.cnas.org/rss.xml,cnas.org,thinktank,US,en,404,https://www.cnas.org/rss.xml,0,0,,713,,text/html; charset=UTF-8,54401
+https://cset.georgetown.edu/feed/,cset.georgetown.edu,thinktank,US,en,200,https://cset.georgetown.edu/feed/,1,10,2026-11-14,351,,application/rss+xml; charset=UTF-8,139178
+https://www.csis.org/rss.xml,csis.org,thinktank,US,en,200,https://www.csis.org/rss.xml,1,10,2016-03-03,290,,application/rss+xml; charset=utf-8,95426
+https://www.newamerica.org/feed/,newamerica.org,thinktank,US,en,200,https://www.newamerica.org/feed/,1,0,,944,,application/rss+xml; charset=UTF-8,989
+https://www.rand.org/news/rss.xml,rand.org,thinktank,US,en,200,https://www.rand.org/news/press.xml,1,20,2026-11-12,305,,application/xml,18637
+https://www.understandingwar.org/rss.xml,understandingwar.org,thinktank,US,en,403,https://www.understandingwar.org/rss.xml,0,0,,173,,text/html,548
+https://www.usip.org/feed/,usip.org,thinktank,US,en,200,https://www.usip.org/feed/,1,10,2026-06-25,290,,application/rss+xml; charset=UTF-8,81090
+https://issafrica.org/rss,issafrica.org,thinktank,ZA,en,200,https://issafrica.org/rss,0,0,,566,,text/html; charset=utf-8,1221
