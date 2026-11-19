@@ -1,0 +1,401 @@
+﻿site_url,feed_url,http_status,title,kind,country,method,items,last_item_date,elapsed_ms,error
+https://www.dominica.gov.dm,https://www.dominica.gov.dm/?format=feed&amp;type=rss,200,Home - Government of Dominica Web Portal,official,DM,autodiscover,0,,2081,
+https://www.bancentral.gov.do,,200,Banco Central de la República Dominicana,official,DO,,,,5487,no feed found
+http://do.mofcom.gov.cn,,0,,official,DO,,,,364,"ConnectionError: HTTPConnectionPool(host='do.mofcom.gov.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.gob.do,,200,Portal Único de Servicios del Gobierno Dominicano | www.gob.do,official,DO,,,,1919,no feed found
+http://dz.mofcom.gov.cn,,0,,official,DZ,,,,12418,timeout
+https://www.mdn.gov.dz/,,0,,official,DZ,,,,10012,"ConnectionError: HTTPSConnectionPool(host='www.mdn.gov.dz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.premier-ministre.gov.dz,,0,,official,DZ,,,,1285,"SSLError: HTTPSConnectionPool(host='www.premier-ministre.gov.dz', port=443): Max retries exceeded with url: / (Caused by SSLError("
+https://www.sante.gov.dz,,0,,official,DZ,,,,12352,timeout
+https://www.defensa.gob.ec/,https://www.defensa.gob.ec/feed/,200,Ministerio de Defensa Nacional &#8211; Instancia político-administrativa del Gobierno de Ecuador encargada de dirigir la,official,EC,autodiscover,20,2026-11-18,2023,
+http://ec.mofcom.gov.cn,,0,,official,EC,,,,561,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://www.gestionderiesgos.gob.ec/,https://www.gestionderiesgos.gob.ec/feed/,200,Secretaría Nacional de Gestión de Riesgos &#8211; Institución del Estado ecuatoriano encargada de liderar el Sistema Nac,official,EC,autodiscover,10,2026-11-16,3031,
+https://www.policia.gob.ec/,,403,Sucuri Website Firewall - Access Denied,official,EC,,,,231,no feed found
+https://www.presidencia.gob.ec,https://www.presidencia.gob.ec/feed/,200,Presidencia de la República del Ecuador,official,EC,autodiscover,10,2026-11-11,5300,
+https://www.sri.gob.ec,,200,Portal - intersri - Servicio de Rentas Internas,official,EC,,,,9782,no feed found
+http://ee.mofcom.gov.cn,,0,,official,EE,,,,12532,timeout
+https://www.eestipank.ee,,200,Eesti Pank,official,EE,,,,2523,no feed found
+https://www.valitsus.ee,,200,Avaleht | Eesti Vabariigi Valitsus,official,EE,,,,3941,no feed found
+https://www.cbe.org.eg,,200,الصفحة الرئيسية,official,EG,,,,8018,no feed found
+http://eg.mofcom.gov.cn,,200,中华人民共和国驻阿拉伯埃及共和国大使馆经济商务处,official,EG,,,,2077,no feed found
+https://www.egov.gov.eg,,0,,official,EG,,,,223,"ConnectionError: HTTPSConnectionPool(host='www.egov.gov.eg', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("""
+https://www.eta.gov.eg,,200,الصفحة الرئيسية | مصلحة الضرائب المصرية,official,EG,,,,7315,no feed found
+https://www.interior.gov.eg/,,0,,official,EG,,,,213,"ConnectionError: HTTPSConnectionPool(host='www.interior.gov.eg', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+https://www.mod.gov.eg/,,0,,official,EG,,,,779,"SSLError: HTTPSConnectionPool(host='www.mod.gov.eg', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.mof.gov.eg,,200,Ministry of Finance — Arab Republic of Egypt,official,EG,,,,3854,no feed found
+https://www.mohp.gov.eg,,0,,official,EG,,,,24629,timeout
+https://www.presidency.eg,,200,الموقع الرسمي لرئاسة الجمهورية-جمهورية مصر العربية,official,EG,,,,4904,no feed found
+http://er.mofcom.gov.cn,,200,中华人民共和国驻厄立特里亚国大使馆经济商务处,official,ER,,,,2726,no feed found
+https://www.shabait.com,,202,,official,ER,,,,692,no feed found
+https://www.agenciatributaria.es,,200,Agencia Tributaria: Inicio,official,ES,,,,3242,no feed found
+https://www.defensa.gob.es/,,200,Página principal - Ministerio de Defensa de España,official,ES,,,,2034,no feed found
+http://es.mofcom.gov.cn,,200,中华人民共和国驻西班牙王国大使馆经济商务处,official,ES,,,,2256,no feed found
+https://www.exteriores.gob.es,,200,"Ministerio de Asuntos exteriores, Unión Europea y Cooperación",official,ES,,,,2432,no feed found
+https://www.hacienda.gob.es,,0,,official,ES,,,,12022,timeout
+https://www.lamoncloa.gob.es,https://www.lamoncloa.gob.es/Paginas/rss.aspx?tipo=1,200,La Moncloa. Gobierno de España,official,ES,autodiscover,4,2026-11-17,3719,
+https://www.sanidad.gob.es,,200,Ministerio de Sanidad,official,ES,,,,1943,no feed found
+http://et.mofcom.gov.cn,,200,中华人民共和国驻埃塞俄比亚联邦民主共和国大使馆经济商务处,official,ET,,,,2849,no feed found
+https://www.mfa.gov.et,,0,,official,ET,,,,1327,"SSLError: HTTPSConnectionPool(host='www.mfa.gov.et', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.nbe.gov.et,https://nbe.gov.et/feed/,200,Home - National Bank of Ethiopia,official,ET,autodiscover,9,2026-07-12,6011,
+https://www.pmo.gov.et,,200,FDRE Office of Prime Minister,official,ET,,,,3423,no feed found
+http://fi.mofcom.gov.cn,,200,中华人民共和国驻芬兰共和国大使馆经济商务处,official,FI,,,,3698,no feed found
+https://www.suomenpankki.fi,,200,Suomen Pankin verkkopalvelu,official,FI,,,,2230,no feed found
+https://um.fi,,200,Etusivu - Ulkoministeriö,official,FI,,,,11940,no feed found
+https://valtioneuvosto.fi,,403,Just a moment...,official,FI,,,,3991,no feed found
+https://www.vero.fi,,200,Henkil&#xF6;asiakkaat - vero.fi,official,FI,,,,2019,no feed found
+https://www.fiji.gov.fj,https://www.fiji.gov.fj/feed/,200,Fiji Government |,official,FJ,autodiscover,10,2026-11-18,3234,
+https://fj.china-embassy.gov.cn/,,200,中华人民共和国驻斐济共和国大使馆,official,FJ,,,,8718,no feed found
+http://fj.mofcom.gov.cn,,200,中华人民共和国驻斐济共和国大使馆经济商务处,official,FJ,,,,1914,no feed found
+https://www.rbf.gov.fj,,403,Sucuri Website Firewall - Access Denied,official,FJ,,,,460,no feed found
+http://fm.mofcom.gov.cn,,200,中华人民共和国驻密克罗尼西亚联邦大使馆经贸之窗,official,FM,,,,1858,no feed found
+https://www.fsmgov.org,,200,FSM Government redirect,official,FM,,,,1829,no feed found
+https://www.banque-france.fr,,403,Access Denied,official,FR,,,,435,no feed found
+https://www.defense.gouv.fr/,,200,Page d&#039;accueil du ministère des Armées et des Anciens combattants | Ministère des Armées et des Anciens combattants,official,FR,,,,2781,no feed found
+https://www.douane.gouv.fr,,200,Portail de secours | Portail de secours de la Direction Générale des Douanes et Droits Indirects,official,FR,,,,2634,no feed found
+https://www.economie.gouv.fr,,403,Just a moment...,official,FR,,,,4161,no feed found
+https://www.elysee.fr,https://www.elysee.fr/feed,200,Bienvenue sur le site de l&#039;Élysée,official,FR,suffix/feed,50,2026-11-17,215,
+http://fr.mofcom.gov.cn,,200,中华人民共和国驻法兰西共和国大使馆经济商务处,official,FR,,,,2317,no feed found
+https://www.gouvernement.fr,,403,Just a moment...,official,FR,,,,4436,no feed found
+https://www.impots.gouv.fr,,200,Impôts.gouv.fr – site en maintenance,official,FR,,,,1061,no feed found
+https://sante.gouv.fr,,200,,official,FR,,,,1483,no feed found
+http://ga.mofcom.gov.cn,,200,中华人民共和国驻加蓬共和国大使馆经济商务处,official,GA,,,,1866,no feed found
+http://gb.mofcom.gov.cn,,200,中华人民共和国驻大不列颠及北爱尔兰联合王国大使馆经济商务处,official,GB,,,,2478,no feed found
+https://www.gov.uk,,200,Welcome to GOV.UK,official,GB,,,,3470,no feed found
+https://www.metoffice.gov.uk,,200,Weather and climate change - Met Office,official,GB,,,,2996,no feed found
+https://www.parliament.uk,,403,Just a moment...,official,GB,,,,311,no feed found
+https://www.police.uk/,,403,Just a moment...,official,GB,,,,308,no feed found
+http://gd.mofcom.gov.cn,,200,中华人民共和国驻格林纳达大使馆经贸之窗,official,GD,,,,1965,no feed found
+https://www.gov.gd,,200,"One moment, please...",official,GD,,,,547,no feed found
+http://ge.mofcom.gov.cn,,200,中华人民共和国驻格鲁吉亚大使馆经济商务处,official,GE,,,,2806,no feed found
+https://www.gov.ge,,0,,official,GE,,,,12250,timeout
+https://www.mfa.gov.ge,,200,საქართველოს საგარეო საქმეთა სამინისტრო,official,GE,,,,3038,no feed found
+https://www.nbg.gov.ge,,200,საქართველოს ეროვნული ბანკი,official,GE,,,,5473,no feed found
+http://gh.mofcom.gov.cn,,200,中华人民共和国驻加纳共和国大使馆经济商务处,official,GH,,,,1908,no feed found
+https://www.ghana.gov.gh,,200,Ghana.GOV : The Ghana Government Official Web Portal | Ghana.GOV,official,GH,,,,1806,no feed found
+https://gra.gov.gh,,200,"One moment, please...",official,GH,,,,2707,no feed found
+https://www.mfa.gov.gh,,200,"One moment, please...",official,GH,,,,6306,no feed found
+https://www.moh.gov.gh,,200,"One moment, please...",official,GH,,,,5993,no feed found
+https://africacdc.org,https://africacdc.org/feed/,200,Home &#8211; Africa CDC,official,GL,autodiscover,10,2026-11-17,2858,
+https://www.afro.who.int,https://www.afro.who.int/rss.xml,200,WHO | Regional Office for Africa,official,GL,suffix/rss.xml,10,2026-11-19,1655,
+https://ahfao.ah.gov.cn,,403,403 Forbidden,official,GL,,,,3442,no feed found
+https://api.reliefweb.int/v2,,400,,official,GL,,,,567,no feed found
+https://www.asean-china-center.org,,0,,official,GL,,,,12238,timeout
+https://www.audit.gov.cn,,200,中华人民共和国审计署,official,GL,,,,4745,no feed found
+https://www.bds-cn.com,,0,,official,GL,,,,13999,timeout
+https://beian.miit.gov.cn,,521,,official,GL,,,,2681,no feed found
+https://www.bis.org,https://www.bis.org/rss.xml,200,Welcome to the BIS | Bank for International Settlements,official,GL,suffix/rss.xml,5,2026-11-12,1522,
+https://btwql.xjbt.gov.cn,,200,兵团外事办公室,official,GL,,,,10434,no feed found
+https://bzdt.ch.mnr.gov.cn,,0,,official,GL,,,,10012,"ConnectionError: HTTPSConnectionPool(host='bzdt.ch.mnr.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+https://www.caac.gov.cn,,200,中国民用航空局,official,GL,,,,4684,no feed found
+https://www.cae.cn,,200,中国工程院,official,GL,,,,4261,no feed found
+https://www.cas.cn,,200,中国科学院,official,GL,,,,2157,no feed found
+https://www.cass.cn,,200,中国社会科学院,official,GL,,,,4745,no feed found
+https://www.cccme.org.cn,,200,中国机电产品进出口商会,official,GL,,,,3618,no feed found
+https://www.ccdi.gov.cn,,200,中央纪委国家监委网站,official,GL,,,,6126,no feed found
+https://ccfao.changchun.gov.cn,,0,,official,GL,,,,6882,"SSLError: HTTPSConnectionPool(host='ccfao.changchun.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEr"
+https://www.ccpit.org,,200,中国国际贸易促进委员会,official,GL,,,,5069,no feed found
+https://www.ccps.gov.cn,,403,WAF拦截页面,official,GL,,,,7241,no feed found
+https://cdfao.chengdu.gov.cn,,412,,official,GL,,,,2618,no feed found
+https://www.chinamine-safety.gov.cn,,200,国家矿山安全监察局,official,GL,,,,3971,no feed found
+https://www.chinca.org,,200,,official,GL,,,,4930,no feed found
+https://www.cidca.gov.cn,,0,,official,GL,,,,13873,timeout
+https://www.cieca.org.cn,,0,,official,GL,,,,240,"ConnectionError: HTTPSConnectionPool(host='www.cieca.org.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("
+https://clep.org.cn,,0,,official,GL,,,,785,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://www.cma.gov.cn,,200,中国气象网-中国气象局政府门户网站,official,GL,,,,3626,no feed found
+https://www.cn-celac-forum.org.cn,,0,,official,GL,,,,437,"SSLError: HTTPSConnectionPool(host='www.cn-celac-forum.org.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SS"
+https://www.cnipa.gov.cn,,200,国家知识产权局,official,GL,,,,3859,no feed found
+https://www.counsellor.gov.cn,,0,,official,GL,,,,1007,"SSLError: HTTPSConnectionPool(host='www.counsellor.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCer"
+https://www.court.gov.cn,,200,首页 - 中华人民共和国最高人民法院,official,GL,,,,6231,no feed found
+https://www.cppcc.gov.cn,,0,,official,GL,,,,1698,"SSLError: HTTPSConnectionPool(host='www.cppcc.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVeri"
+https://cs.mfa.gov.cn,,200,中国领事服务网,official,GL,,,,3551,no feed found
+https://www.csrc.gov.cn,,200,中国证券监督管理委员会,official,GL,,,,7630,no feed found
+https://data.humdata.org,,202,,official,GL,,,,567,no feed found
+https://dfoca.hainan.gov.cn,,403,403 Forbidden,official,GL,,,,5523,no feed found
+https://www.drc.gov.cn,,200,,official,GL,,,,6808,no feed found
+https://earthquake.usgs.gov,,200,USGS Earthquake Hazards Program,official,GL,,,,1223,no feed found
+https://www.ecdc.europa.eu,,200,Homepage | European Centre for Disease Prevention and Control,official,GL,,,,2676,no feed found
+https://www.emdat.be,https://www.emdat.be/index.xml,200,EM-DAT - The international disaster database,official,GL,suffix/index.xml,163,2026-07-22,2551,
+https://emergency.copernicus.eu,,200,Home | Copernicus EMS,official,GL,,,,2892,no feed found
+https://www.emro.who.int,,200,WHO EMRO - Home,official,GL,,,,17763,autodiscover invalid: timeout
+https://fad.zj.gov.cn,,200,浙江省人民政府外事办公室（浙江省人民政府港澳事务办公室）,official,GL,,,,3551,no feed found
+https://fao.hangzhou.gov.cn,,0,,official,GL,,,,12570,timeout
+https://fao.hlj.gov.cn,,200,黑龙江省人民政府外事办公室,official,GL,,,,5455,no feed found
+https://fao.ningbo.gov.cn,,0,,official,GL,,,,12613,timeout
+https://fao.nx.gov.cn,,0,,official,GL,,,,2930,"SSLError: HTTPSConnectionPool(host='fao.nx.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerific"
+https://fao.sz.gov.cn,,0,,official,GL,,,,2627,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://fao.tj.gov.cn,,403,,official,GL,,,,3035,no feed found
+https://fao.xinjiang.gov.cn,,200,新疆维吾尔自治区人民政府外事办公室,official,GL,,,,3895,no feed found
+https://www.fatf-gafi.org,,403,Just a moment...,official,GL,,,,321,no feed found
+http://fec.mofcom.gov.cn,,200,国家层面海外综合服务平台,official,GL,,,,6779,no feed found
+https://fews.net,,200,HOME | FEWS NET,official,GL,,,,3375,no feed found
+https://www.fohb.gov.cn,,200,中共湖北省委外事工作委员会办公室,official,GL,,,,2676,no feed found
+https://www.forestry.gov.cn,,200,国家林业和草原局政府网,official,GL,,,,12676,no feed found
+https://www.gdacs.org,,200,,official,GL,,,,1723,no feed found
+https://www.gdfao.gd.gov.cn,,0,,official,GL,,,,2276,"SSLError: HTTPSConnectionPool(host='www.gdfao.gd.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertV"
+https://www.ggj.gov.cn,,200,国家机关事务管理局,official,GL,,,,3267,no feed found
+https://www.gjxfj.gov.cn,,200,国家信访局,official,GL,,,,4785,no feed found
+https://www.gzfao.gov.cn,,200,广州市人民政府外事办公室,official,GL,,,,4632,no feed found
+https://www.healthmap.org,,200,Flu & Ebola Map | Virus & Contagious Disease Surveillance,official,GL,,,,1301,no feed found
+https://hebwb.hebei.gov.cn,,0,,official,GL,,,,13799,"ConnectionError: HTTPSConnectionPool(host='hebwb.hebei.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError"
+https://www.hmo.gov.cn,,200,中共中央港澳工作办公室 国务院港澳事务办公室,official,GL,,,,25513,no feed found
+https://www.hnfo.gov.cn,,0,,official,GL,,,,12555,timeout
+http://hzs.mofcom.gov.cn,,200,商务部对外投资和经济合作司,official,GL,,,,2427,no feed found
+https://www.idcpc.org.cn,,200,"中共中央对外联络部 International Department, Central Committee of C.P.C",official,GL,,,,17355,no feed found
+https://www.ipcinfo.org,,403,Just a moment...,official,GL,,,,314,no feed found
+https://www.ishizhi.cn,,0,,official,GL,,,,897,"SSLError: HTTPSConnectionPool(host='www.ishizhi.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://jxwb.jiangxi.gov.cn,,0,,official,GL,,,,12786,"ConnectionError: HTTPSConnectionPool(host='jxwb.jiangxi.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionErro"
+https://www.lmcchina.org,,0,,official,GL,,,,543,"SSLError: HTTPSConnectionPool(host='www.lmcchina.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVeri"
+https://www.lswz.gov.cn,,200,国家粮食和物资储备局,official,GL,,,,3717,no feed found
+https://www.mca.gov.cn,,0,,official,GL,,,,10013,"ConnectionError: HTTPSConnectionPool(host='www.mca.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.mee.gov.cn,,200,中华人民共和国生态环境部,official,GL,,,,4049,no feed found
+https://www.miit.gov.cn,,200,中华人民共和国工业和信息化部,official,GL,,,,4735,no feed found
+https://www.mnr.gov.cn,,0,,official,GL,,,,10012,"ConnectionError: HTTPSConnectionPool(host='www.mnr.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.moa.gov.cn,,200,中华人民共和国农业农村部,official,GL,,,,6257,no feed found
+https://www.mod.gov.cn,,0,,official,GL,,,,1345,"SSLError: HTTPSConnectionPool(host='www.mod.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.moe.gov.cn,,200,中华人民共和国教育部政府门户网站,official,GL,,,,3854,no feed found
+http://www.mofcom.gov.cn,,200,中华人民共和国商务部,official,GL,,,,1980,no feed found
+https://www.mohrss.gov.cn,,200,,official,GL,,,,3610,no feed found
+https://www.mohurd.gov.cn,,0,,official,GL,,,,10012,"ConnectionError: HTTPSConnectionPool(host='www.mohurd.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError"
+https://www.moj.gov.cn,,200,中华人民共和国司法部,official,GL,,,,4203,no feed found
+https://www.most.gov.cn,,200,,official,GL,,,,2642,no feed found
+https://www.mot.gov.cn,,200,中华人民共和国交通运输部,official,GL,,,,5936,no feed found
+https://www.mva.gov.cn,,403,ERROR: ACCESS DENIED,official,GL,,,,2083,no feed found
+https://www.mwr.gov.cn,,0,,official,GL,,,,12406,"ConnectionError: HTTPSConnectionPool(host='www.mwr.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(""HT"
+https://www.natcm.gov.cn,,0,,official,GL,,,,12712,"ConnectionError: HTTPSConnectionPool(host='www.natcm.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("""
+https://www.ncha.gov.cn,,0,,official,GL,,,,1635,"ConnectionError: HTTPSConnectionPool(host='www.ncha.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(""H"
+https://www.ndrc.gov.cn,,200,中华人民共和国国家发展和改革委员会,official,GL,,,,3895,no feed found
+https://www.nea.gov.cn,,200,国家能源局,official,GL,,,,3943,no feed found
+https://www.neac.gov.cn,,200,国家民族事务委员会,official,GL,,,,9322,no feed found
+https://www.nhc.noaa.gov,https://www.nhc.noaa.gov/gtwo.xml,200,,official,GL,autodiscover,3,2026-11-19,210,
+https://www.nhsa.gov.cn,,200,国家医疗保障局,official,GL,,,,3804,no feed found
+https://www.nia.gov.cn,,200,国家移民管理局,official,GL,,,,6461,no feed found
+https://www.noaa.gov,https://www.noaa.gov/rss.xml,200,National Oceanic and Atmospheric Administration Home,official,GL,autodiscover,10,2026-11-13,234,
+https://www.nra.gov.cn,,200,国家铁路局,official,GL,,,,5674,no feed found
+https://www.nrta.gov.cn,,200,国家广播电视总局,official,GL,,,,8554,no feed found
+https://www.paho.org,https://www.paho.org/rss.xml,200,PAHO/WHO | Pan American Health Organization,official,GL,suffix/rss.xml,10,2026-11-18,515,
+https://promedmail.org,,200,"Protecting Global Health, One Alert at a Time | ProMED",official,GL,,,,2308,no feed found
+https://reliefweb.int,,202,,official,GL,,,,520,no feed found
+https://www.safe.gov.cn,,200,国家外汇管理局门户网站,official,GL,,,,5509,no feed found
+https://www.samr.gov.cn,,200,国家市场监督管理总局,official,GL,,,,6802,no feed found
+https://www.sasac.gov.cn,,0,,official,GL,,,,13060,"ConnectionError: HTTPSConnectionPool(host='www.sasac.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("""
+https://www.scwsb.gov.cn,,0,,official,GL,,,,12216,"ConnectionError: HTTPSConnectionPool(host='www.scwsb.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("""
+https://www.sdfao.gov.cn,,0,,official,GL,,,,626,"SSLError: HTTPSConnectionPool(host='www.sdfao.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError"
+https://www.sinosure.com.cn,,200,中国出口信用保险公司,official,GL,,,,44162,no feed found
+https://www.spb.gov.cn,,200,中华人民共和国国家邮政局,official,GL,,,,4249,no feed found
+https://www.sport.gov.cn,,200,国家体育总局,official,GL,,,,5363,no feed found
+https://www.spp.gov.cn,,403,403错误,official,GL,,,,8073,no feed found
+https://www.sxfao.gov.cn,,200,陕西外事,official,GL,,,,8505,no feed found
+https://tariffdata.wto.org,,0,,official,GL,,,,375,"SSLError: HTTPSConnectionPool(host='tariffdata.wto.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVe"
+https://www.tibet.cn,,0,,official,GL,,,,855,"SSLError: HTTPSConnectionPool(host='www.tibet.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifica"
+https://www.tobacco.gov.cn,,0,,official,GL,,,,10012,"ConnectionError: HTTPSConnectionPool(host='www.tobacco.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+https://www.unocha.org,,202,,official,GL,,,,664,no feed found
+https://wb.beijing.gov.cn,,200,首页 - 北京市人民政府外事办公室,official,GL,,,,8193,no feed found
+https://wb.dl.gov.cn,,0,,official,GL,,,,10013,"ConnectionError: HTTPSConnectionPool(host='wb.dl.gov.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTT"
+https://wb.fujian.gov.cn,,200,福建省人民政府外事办公室网站,official,GL,,,,26159,no feed found
+https://wb.jiangsu.gov.cn,,200,江苏省外事办,official,GL,,,,5028,no feed found
+https://wb.jl.gov.cn,,0,,official,GL,,,,13272,timeout
+https://wb.nanjing.gov.cn,,200,南京市政府外事办公室,official,GL,,,,4739,no feed found
+https://wb.shenyang.gov.cn,,200,沈阳市人民政府外事办公室,official,GL,,,,5441,no feed found
+https://www.wfp.org,,200,UN World Food Programme (WFP),official,GL,,,,1741,no feed found
+https://www.who.int,,200,World Health Organization (WHO),official,GL,,,,30932,no feed found
+https://www.whswwb.org.cn,,200,中共武汉市委外事工作委员会办公室,official,GL,,,,2575,no feed found
+https://wmo.int,,200,Homepage | World Meteorological Organization WMO,official,GL,,,,3907,no feed found
+https://www.wpro.who.int,,0,,official,GL,,,,503,"SSLError: HTTPSConnectionPool(host='www.wpro.who.int', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVeri"
+https://wqb.hunan.gov.cn,,0,,official,GL,,,,629,"SSLError: HTTPSConnectionPool(host='wqb.hunan.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1,"
+https://wqb.xa.gov.cn,,0,,official,GL,,,,2268,"SSLError: HTTPSConnectionPool(host='wqb.xa.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerific"
+https://wsb.gansu.gov.cn,,412,,official,GL,,,,3460,no feed found
+https://wsb.guizhou.gov.cn,,0,,official,GL,,,,12206,"ConnectionError: HTTPSConnectionPool(host='wsb.guizhou.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError"
+https://wsb.gxzf.gov.cn,,0,,official,GL,,,,12264,timeout
+https://wsb.ln.gov.cn,,200,辽宁省人民政府外事办公室,official,GL,,,,19490,no feed found
+https://wsb.nmg.gov.cn,,420,黑名单页面,official,GL,,,,3793,no feed found
+https://wsb.qinghai.gov.cn,,0,,official,GL,,,,12534,"ConnectionError: HTTPSConnectionPool(host='wsb.qinghai.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError"
+https://wsb.sh.gov.cn,,200,上海市人民政府外事办公室,official,GL,,,,2620,no feed found
+https://wsb.shanxi.gov.cn,,0,,official,GL,,,,24324,"ConnectionError: HTTPSConnectionPool(host='wsb.shanxi.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("
+https://wsb.xizang.gov.cn,,200,西藏自治区外事办公室,official,GL,,,,8023,no feed found
+https://yfao.yn.gov.cn,,200,云南省人民政府外事办公室,official,GL,,,,4255,no feed found
+https://www.yidaiyilu.gov.cn,,200,中国一带一路网_推进“一带一路”建设官方网站,official,GL,,,,8219,no feed found
+https://zfwb.cq.gov.cn,,0,,official,GL,,,,24219,"ConnectionError: HTTPSConnectionPool(host='zfwb.cq.gov.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(""HT"
+https://www.cbg.gm,,200,Central Bank of The Gambia,official,GM,,,,1262,no feed found
+http://gm.mofcom.gov.cn,,200,中华人民共和国驻冈比亚共和国大使馆经济商务处,official,GM,,,,1882,no feed found
+https://www.gov.gm,,0,,official,GM,,,,511,"ConnectionError: HTTPSConnectionPool(host='www.gov.gm', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPS"
+https://www.bcrg.gov.gn,,0,,official,GN,,,,287,"ConnectionError: HTTPSConnectionPool(host='www.bcrg.gov.gn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("""
+http://gn.mofcom.gov.cn,,200,中华人民共和国驻几内亚共和国大使馆经济商务处,official,GN,,,,2442,no feed found
+http://gq.mofcom.gov.cn,,200,中华人民共和国驻赤道几内亚共和国大使馆经济商务处,official,GQ,,,,3436,no feed found
+https://www.guineaecuatorialpress.com,,200,Página Oficial del Gobierno de la República de Guinea Ecuatorial,official,GQ,,,,2185,no feed found
+https://www.aade.gr,,403,Access Denied,official,GR,,,,670,no feed found
+https://www.bankofgreece.gr,,403,Access Denied,official,GR,,,,368,no feed found
+https://www.government.gov.gr,,403,Access Denied,official,GR,,,,691,no feed found
+http://gr.mofcom.gov.cn,,200,中华人民共和国驻希腊共和国大使馆经济商务处,official,GR,,,,2490,no feed found
+https://www.mfa.gr,,403,Access Denied,official,GR,,,,584,no feed found
+https://www.primeminister.gr,,403,Access Denied,official,GR,,,,404,no feed found
+https://www.banguat.gob.gt,https://www.banguat.gob.gt/rss.xml,200,Banco de Guatemala,official,GT,suffix/rss.xml,10,2026-09-24,1410,
+https://www.gob.gt,,0,,official,GT,,,,175,"ConnectionError: HTTPSConnectionPool(host='www.gob.gt', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPS"
+http://gt.mofcom.gov.cn,,0,,official,GT,,,,191,"ConnectionError: HTTPConnectionPool(host='gt.mofcom.gov.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://portal.sat.gob.gt,https://portal.sat.gob.gt/portal/feed/,200,Superintendencia de Administración Tributaria SAT,official,GT,autodiscover,10,2026-10-12,2859,
+http://gw.mofcom.gov.cn,,200,中华人民共和国驻几内亚比绍共和国大使馆经济商务处,official,GW,,,,2866,no feed found
+https://www.bankofguyana.org.gy,,200,"One moment, please...",official,GY,,,,1581,no feed found
+https://dpi.gov.gy,,200,"One moment, please...",official,GY,,,,904,no feed found
+http://gy.mofcom.gov.cn,,200,中华人民共和国驻圭亚那合作共和国大使馆经济商务处,official,GY,,,,3067,no feed found
+https://www.bch.hn,,200,Banco Central de Honduras Inicio,official,HN,,,,2733,no feed found
+http://hn.mofcom.gov.cn,,0,,official,HN,,,,190,"ConnectionError: HTTPConnectionPool(host='hn.mofcom.gov.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.hnb.hr,,200,Naslovnica,official,HR,,,,19257,no feed found
+http://hr.mofcom.gov.cn,,200,中华人民共和国驻克罗地亚共和国大使馆经济商务处,official,HR,,,,1868,no feed found
+https://mvep.gov.hr,,200,Ministarstvo vanjskih i europskih poslova RH - Naslovna,official,HR,,,,2007,no feed found
+https://www.porezna-uprava.hr,,200,Naslovna - Porezna uprava,official,HR,,,,4410,no feed found
+https://vlada.gov.hr,,200,Naslovna | Vlada Republike Hrvatske,official,HR,,,,2476,no feed found
+https://www.brh.ht,https://www.brh.ht/feed,200,Banque de la République d&#039;Haïti | BRH,official,HT,suffix/feed,10,2026-11-19,1386,
+http://ht.mofcom.gov.cn,,0,,official,HT,,,,201,"ConnectionError: HTTPConnectionPool(host='ht.mofcom.gov.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.primature.gouv.ht,https://www.primature.gouv.ht/feed/,200,République d’Haïti &#8211; Bienvenue sur le site officiel de la Primature,official,HT,autodiscover,10,2025-02-10,1043,
+http://hu.mofcom.gov.cn,,200,中华人民共和国驻匈牙利大使馆经济商务处,official,HU,,,,2462,no feed found
+https://www.kormany.hu,,200,Magyarország Kormánya - Főoldal | Magyarország Kormánya,official,HU,,,,8486,no feed found
+https://nav.gov.hu,,200,NAV - Nemzeti Adó- és Vámhivatal,official,HU,,,,4703,no feed found
+https://www.police.hu/,,200,Címlap | A Rendőrség hivatalos honlapja,official,HU,,,,3945,no feed found
+https://www.beacukai.go.id,,200,Situs Resmi Direktorat Jenderal Bea dan Cukai - Layanan Pabean & Cukai Indonesia,official,ID,,,,5296,no feed found
+https://www.bi.go.id,,200,Bank Indonesia,official,ID,,,,21261,no feed found
+https://www.bnpb.go.id/,,200,Badan Nasional Penanggulangan Bencana,official,ID,,,,5700,no feed found
+http://id.mofcom.gov.cn,,200,中华人民共和国驻印度尼西亚共和国大使馆经济商务处,official,ID,,,,1890,no feed found
+https://www.indonesia.go.id,,0,,official,ID,,,,427,"ConnectionError: HTTPSConnectionPool(host='www.indonesia.go.id', port=443): Max retries exceeded with url: / (Caused by NameResolutionErr"
+https://www.kemenkeu.go.id,,200,Kementerian Keuangan Republik Indonesia,official,ID,,,,17134,no feed found
+https://www.kemkes.go.id,,200,Selamat Datang di Situs Resmi Kementerian Kesehatan Republik Indonesia,official,ID,,,,3737,no feed found
+https://www.pajak.go.id,,200,Direktorat Jenderal Pajak,official,ID,,,,9412,no feed found
+https://www.centralbank.ie,,200,Home | Central Bank of Ireland,official,IE,,,,3639,no feed found
+https://www.dfa.ie,,200,Ireland.ie | Official international website of Ireland | This is Ireland,official,IE,,,,6176,no feed found
+https://www.gov.ie,,200,Government of Ireland: Welcome to gov.ie,official,IE,,,,3522,no feed found
+http://ie.mofcom.gov.cn,,200,中华人民共和国驻爱尔兰大使馆经济商务处,official,IE,,,,1910,no feed found
+https://www.revenue.ie,,200,Welcome to revenue.ie,official,IE,,,,3349,no feed found
+https://www.gov.il,,403,Just a moment...,official,IL,,,,495,no feed found
+https://www.health.gov.il,,202,,official,IL,,,,156,no feed found
+http://il.mofcom.gov.cn,,200,中华人民共和国驻以色列国大使馆经济商务处,official,IL,,,,2981,no feed found
+https://www.mod.gov.il/,,200,משרד הביטחון - דף הבית,official,IL,,,,4703,no feed found
+https://www.police.gov.il/,,403,Just a moment...,official,IL,,,,1686,no feed found
+https://www.cbic.gov.in,,0,,official,IN,,,,15522,"SSLError: HTTPSConnectionPool(host='www.cbic.gov.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerif"
+https://www.finmin.nic.in,,0,,official,IN,,,,268,"ConnectionError: HTTPSConnectionPool(host='www.finmin.nic.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError"
+http://in.mofcom.gov.cn,,200,中华人民共和国驻印度共和国大使馆经济商务处,official,IN,,,,2483,no feed found
+https://www.incometax.gov.in,,200,Home | Income Tax Department,official,IN,,,,4545,no feed found
+https://www.india.gov.in,,200,Home | National Portal of India,official,IN,,,,8026,no feed found
+https://www.mohfw.gov.in,,200,,official,IN,,,,1808,no feed found
+https://ndma.gov.in,,0,,official,IN,,,,12317,timeout
+https://sansad.in,,200,Digital Sansad,official,IN,,,,3374,no feed found
+https://www.cabinet.iq,,200,الامانه العامة لمجلس الوزراء - الامانه العامة لمجلس الوزراء,official,IQ,,,,2156,no feed found
+https://www.cbi.iq,,200,البنك المركزي العراقي | الرئيسية,official,IQ,,,,6023,no feed found
+http://iq.mofcom.gov.cn,,200,中华人民共和国驻伊拉克共和国大使馆经济商务处,official,IQ,,,,1899,no feed found
+https://www.mof.gov.iq,,200,Home | وزارة المالية,official,IQ,,,,2735,no feed found
+https://www.mofa.gov.iq,,530,Origin DNS error | www.mofa.gov.iq | Cloudflare,official,IQ,,,,240,no feed found
+https://www.moh.gov.iq,,403,Attention Required! | Cloudflare,official,IQ,,,,184,no feed found
+https://www.behdasht.gov.ir,,0,,official,IR,,,,15608,timeout
+https://www.cbi.ir,,0,,official,IR,,,,4924,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.dolat.ir,,200,,official,IR,,,,722,no feed found
+http://ir.mofcom.gov.cn,,200,中华人民共和国驻伊朗伊斯兰共和国大使馆经济商务处,official,IR,,,,1873,no feed found
+https://www.irica.gov.ir,,0,,official,IR,,,,10013,"ConnectionError: HTTPSConnectionPool(host='www.irica.gov.ir', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("
+https://www.mefa.gov.ir,,0,,official,IR,,,,13017,timeout
+https://www.mod.ir/,,0,,official,IR,,,,788,"ConnectionError: HTTPSConnectionPool(host='www.mod.ir', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPS"
+https://www.police.ir/,,0,,official,IR,,,,12651,timeout
+https://president.ir,,200,پایگاه اطلاع رسانی ریاست‌جمهوری اسلامی ایران,official,IR,,,,8188,autodiscover invalid: not xml
+https://www.cb.is,,200,Central Bank of Iceland | Frontpage,official,IS,,,,2966,no feed found
+https://www.government.is,,200,Government of Iceland | Government of Iceland,official,IS,,,,2018,no feed found
+http://is.mofcom.gov.cn,,200,中华人民共和国驻冰岛大使馆经商处,official,IS,,,,2313,no feed found
+https://www.adm.gov.it,,200,Home - Agenzia delle dogane e dei Monopoli,official,IT,,,,2429,no feed found
+https://www.agenziaentrate.gov.it,,200,Due Agenzie al servizio del Paese - Portale Agenzia Entrate,official,IT,,,,2180,no feed found
+https://www.bancaditalia.it,,200,Banca d'Italia - Il sito ufficiale della Banca Centrale Italiana,official,IT,,,,4988,no feed found
+https://www.difesa.it/,,200,Ministero della Difesa,official,IT,,,,3517,no feed found
+https://www.esteri.it,,200,Radware Bot Manager Captcha,official,IT,,,,1863,no feed found
+https://www.governo.it,https://www.governo.it/rss.xml,200,www.governo.it | Governo Italiano Presidenza del Consiglio dei Ministri,official,IT,suffix/rss.xml,10,2026-11-19,1783,
+http://it.mofcom.gov.cn,,200,中华人民共和国驻意大利共和国大使馆经济商务处,official,IT,,,,2052,no feed found
+https://www.mef.gov.it,,200,Home Page - Ministero dell&#039;Economia e delle Finanze,official,IT,,,,3062,no feed found
+https://www.protezionecivile.gov.it/,,200,Loading...,official,IT,,,,3939,no feed found
+https://www.salute.gov.it,,200,Ministero della Salute,official,IT,,,,6102,no feed found
+https://boj.org.jm,,200,"One moment, please...",official,JM,,,,937,no feed found
+https://www.gov.jm,,200,Government of Jamaica Portal - GOV.JM | Home,official,JM,,,,10364,no feed found
+http://jm.mofcom.gov.cn,,200,中华人民共和国驻牙买加大使馆经济商务处,official,JM,,,,3937,no feed found
+http://jo.mofcom.gov.cn,,200,中华人民共和国驻约旦哈希姆王国大使馆经济商务处,official,JO,,,,1915,no feed found
+https://www.jordan.gov.jo,,200,الصفحة الرئيسية - بوابة الاردن,official,JO,,,,3624,no feed found
+https://www.mod.gov.jo/,,0,,official,JO,,,,124,"ConnectionError: HTTPSConnectionPool(host='www.mod.gov.jo', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.mof.gov.jo,,0,,official,JO,,,,12280,timeout
+https://www.moh.gov.jo,,200,الصفحة الرئيسية - وزارة الصحة الاردنية,official,JO,,,,5893,no feed found
+https://www.psd.gov.jo/,,0,,official,JO,,,,12748,timeout
+https://www.bousai.go.jp,,200,防災庁,official,JP,,,,3002,no feed found
+https://www.customs.go.jp,,200,�Ŋ� Japan Customs,official,JP,,,,1231,no feed found
+https://www.e-gov.go.jp,,403,アクセスがブロックされています｜e-Gov,official,JP,,,,723,no feed found
+https://www.fdma.go.jp/,https://www.fdma.go.jp/index.xml,200,総務省消防庁,official,JP,suffix/index.xml,15,2026-11-18,2389,
+http://jp.mofcom.gov.cn,,200,中华人民共和国驻日本国大使馆经济商务处,official,JP,,,,2403,no feed found
+https://www.kantei.go.jp,,200,首相官邸,official,JP,,,,3212,no feed found
+https://www.mhlw.go.jp,,200,ホーム｜厚生労働省,official,JP,,,,1326,no feed found
+https://www.mof.go.jp,,200,財務省,official,JP,,,,3911,no feed found
+https://www.mofa.go.jp,,403,Access Denied,official,JP,,,,457,no feed found
+https://www.nta.go.jp,,503,【国税庁からのお知らせ】,official,JP,,,,1339,no feed found
+https://www.shugiin.go.jp,,200,衆議院トップページ,official,JP,,,,2743,no feed found
+https://www.centralbank.go.ke,,403,Sucuri Website Firewall - Access Denied,official,KE,,,,1291,no feed found
+https://www.health.go.ke,https://www.health.go.ke/rss.xml,200,MoH | Ministry of Health,official,KE,suffix/rss.xml,10,2026-11-18,3389,
+http://ke.mofcom.gov.cn,,200,中华人民共和国驻肯尼亚共和国大使馆经济商务处,official,KE,,,,2925,no feed found
+https://www.kra.go.ke,https://www.kra.go.ke/?format=feed&amp;type=rss,200,Home - KRA,official,KE,autodiscover,0,,2823,
+https://www.president.go.ke,https://www.president.go.ke/feed/,200,The Official Website of the President of the Republic of Kenya &#8211; H.E. William Samoei Ruto,official,KE,autodiscover,10,2026-08-04,3909,
+https://www.treasury.go.ke,https://www.treasury.go.ke/rss.xml,200,Homepage | The National Treasury,official,KE,suffix/rss.xml,10,2026-11-17,4494,
+https://www.gov.kg,,0,,official,KG,,,,1091,"SSLError: HTTPSConnectionPool(host='www.gov.kg', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificati"
+http://kg.mofcom.gov.cn,,200,中华人民共和国驻吉尔吉斯共和国大使馆经济商务处,official,KG,,,,1876,no feed found
+https://www.mvd.gov.kg/,,0,,official,KG,,,,1899,"SSLError: HTTPSConnectionPool(host='www.mvd.gov.kg', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://president.kg,,200,Кыргыз Республикасынын Президентинин официалдык сайты,official,KG,,,,7979,no feed found
+https://www.sti.gov.kg,,200,Государственная налоговая служба,official,KG,,,,4688,no feed found
+https://www.customs.gov.kh,,200,អគ្គនាយកដ្ឋានគយនិងរដ្ឋាករកម្ពុជា,official,KH,,,,6023,no feed found
+https://kh.china-embassy.gov.cn/,,200,中华人民共和国驻柬埔寨王国大使馆,official,KH,,,,6135,no feed found
+http://kh.mofcom.gov.cn,,0,,official,KH,,,,186,"ConnectionError: HTTPConnectionPool(host='kh.mofcom.gov.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.police.gov.kh/,,468,,official,KH,,,,4536,no feed found
+https://www.tax.gov.kh,,200,GDT Cambodia | អគ្គនាយកដ្ឋានពន្ធដារ,official,KH,,,,3079,no feed found
+https://ki.china-embassy.gov.cn/,,200,中华人民共和国驻基里巴斯共和国大使馆,official,KI,,,,7743,no feed found
+http://ki.mofcom.gov.cn,,0,,official,KI,,,,198,"ConnectionError: HTTPConnectionPool(host='ki.mofcom.gov.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+http://km.mofcom.gov.cn,,200,中华人民共和国驻科摩罗联盟大使馆经贸之窗,official,KM,,,,1908,no feed found
+https://www.gov.kn,,0,,official,KN,,,,70,"SSLError: HTTPSConnectionPool(host='www.gov.kn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificati"
+http://kn.mofcom.gov.cn,,0,,official,KN,,,,190,"ConnectionError: HTTPConnectionPool(host='kn.mofcom.gov.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://kp.china-embassy.gov.cn/,,200,中华人民共和国驻朝鲜民主主义人民共和国大使馆,official,KP,,,,3068,no feed found
+http://kp.mofcom.gov.cn,,200,中华人民共和国驻朝鲜民主主义人民共和国大使馆经济商务处,official,KP,,,,2452,no feed found
+http://www.mfa.gov.kp,,200,조선민주주의인민공화국 외무성,official,KP,,,,11020,no feed found
+http://www.naenara.com.kp,,200,내나라 - 조선민주주의인민공화국,official,KP,,,,10863,no feed found
+https://www.bok.or.kr,,200,한국은행,official,KR,,,,3282,no feed found
+https://www.customs.go.kr,,200,관세청,official,KR,,,,4358,no feed found
+https://www.gov.kr,,200,정부24,official,KR,,,,1606,no feed found
+http://kr.mofcom.gov.cn,,200,中华人民共和国驻大韩民国大使馆经济商务处,official,KR,,,,1874,no feed found
+https://www.moef.go.kr,,200,재정경제부,official,KR,,,,2996,no feed found
+https://www.mohw.go.kr,,200,"힘이 되는 평생 친구, 보건복지부",official,KR,,,,2324,no feed found
+https://www.nts.go.kr,,200,국세청,official,KR,,,,3837,no feed found
+https://www.president.go.kr,,200,대한민국 청와대,official,KR,,,,2276,no feed found
+https://www.cbk.gov.kw,,200,Central Bank of Kuwait,official,KW,,,,3444,no feed found
+https://www.gov.kw,,0,,official,KW,,,,172,"ConnectionError: HTTPSConnectionPool(host='www.gov.kw', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPS"
+http://kw.mofcom.gov.cn,,200,中华人民共和国驻科威特大使馆经济商务处,official,KW,,,,1974,no feed found
+https://www.mod.gov.kw/,,200,,official,KW,,,,3156,no feed found
+https://www.mof.gov.kw,,200,وزارة المالية - دولة الكويت,official,KW,,,,3424,no feed found
+https://www.moh.gov.kw,,0,,official,KW,,,,12285,timeout
+https://akorda.kz,,200,Бастапқы бет &mdash; Қазақстан Республикасы Президентінің ресми сайты,official,KZ,,,,7043,no feed found
+https://www.gov.kz,,200,GOV.KZ – Мемлекеттік органдардың цифрлық ресурстарының бірыңғай платформасы,official,KZ,,,,3001,no feed found
+https://kgd.gov.kz,,200,Қазақстан Республикасы Қаржы министрлігінің Мемлекеттік кірістер комитеті,official,KZ,,,,3985,no feed found
+http://kz.mofcom.gov.cn,,200,中华人民共和国驻哈萨克斯坦共和国大使馆经济商务处,official,KZ,,,,1921,no feed found
+https://nationalbank.kz,,200,Қазақстан Ұлттық Банкі,official,KZ,,,,5879,no feed found
+https://www.polisia.kz/,https://polisia.kz/feed/,200,Ақпараттық медиа-портал POLISIA.KZ - Ақпараттық медиа-портал POLISIA.KZ,official,KZ,autodiscover,10,2026-11-19,4051,
+http://la.mofcom.gov.cn,,200,中华人民共和国驻老挝人民民主共和国大使馆经济商务处,official,LA,,,,1893,no feed found
+https://www.laogov.gov.la,,0,,official,LA,,,,12507,timeout
+https://www.mofa.gov.la,,0,,official,LA,,,,786,"SSLError: HTTPSConnectionPool(host='www.mofa.gov.la', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerif"
+https://www.finance.gov.lb,,0,,official,LB,,,,1343,"ConnectionError: HTTPConnectionPool(host='www.finance.gov.lb', port=80): Max retries exceeded with url: /Pages/VariationRoot.aspx (Caused"
+http://lb.mofcom.gov.cn,,200,中华人民共和国驻黎巴嫩共和国大使馆经济商务处,official,LB,,,,2613,no feed found
+https://www.mod.gov.lb/,https://www.mod.gov.lb/rss.xml,200,الرئيسية | MOD,official,LB,suffix/rss.xml,10,2026-11-18,2127,
+https://www.moph.gov.lb,,200,Home Page,official,LB,,,,9201,no feed found
+https://www.pcm.gov.lb,,0,,official,LB,,,,1160,"SSLError: HTTPSConnectionPool(host='www.pcm.gov.lb', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.govt.lc,,403,GoDaddy Website Security - Access Denied,official,LC,,,,261,no feed found
+http://lc.mofcom.gov.cn,,0,,official,LC,,,,228,"ConnectionError: HTTPConnectionPool(host='lc.mofcom.gov.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+http://li.mofcom.gov.cn,,0,,official,LI,,,,206,"ConnectionError: HTTPConnectionPool(host='li.mofcom.gov.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.regierung.li,,200,Regierung des Fürstentums Liechtenstein - Startseite,official,LI,,,,3120,no feed found
+https://www.customs.gov.lk,https://www.customs.gov.lk/feed/,200,Sri Lanka Customs,official,LK,autodiscover,10,2026-09-15,1932,
+https://www.defence.lk/,,200,Ministry of Defence - Sri Lanka,official,LK,,,,3619,no feed found
+https://www.gov.lk,,200,Welcome to GOV.LK :: Home Page,official,LK,,,,3382,no feed found
+https://www.health.gov.lk,https://www.health.gov.lk/feed,200,Ministry of Health & Mass Media,official,LK,suffix/feed,2,2026-03-11,1955,
+http://lk.mofcom.gov.cn,,200,中华人民共和国驻斯里兰卡民主社会主义共和国大使馆经济商务处,official,LK,,,,1906,no feed found
+https://www.mfa.gov.lk,https://www.mfa.gov.lk/rss.xml,200,"Ministry of Foreign Affairs, Foreign Employment & Tourism",official,LK,suffix/rss.xml,10,2026-11-19,2833,
+https://www.police.lk/,https://police.lk/feed,200,SRI LANKA POLICE,official,LK,suffix/feed,5,2026-09-10,4035,
+https://www.treasury.gov.lk,,403,Sucuri Website Firewall - Access Denied,official,LK,,,,445,no feed found
+https://www.cbl.org.lr,https://www.cbl.org.lr/rss.xml,200,Home | Central Bank of Liberia,official,LR,suffix/rss.xml,0,,2219,
+https://www.emansion.gov.lr,https://www.emansion.gov.lr/rss.xml,200,Home | The Executive Mansion,official,LR,suffix/rss.xml,0,,2242,
+http://lr.mofcom.gov.cn,,200,中华人民共和国驻利比里亚共和国大使馆经济商务处,official,LR,,,,2368,no feed found
+https://www.centralbank.org.ls,,0,,official,LS,,,,1554,"SSLError: HTTPSConnectionPool(host='www.centralbank.org.ls', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCe"
+https://www.gov.ls,https://www.gov.ls/feed/,200,Home - Government of Lesotho,official,LS,autodiscover,10,2026-11-18,7178,
+http://ls.mofcom.gov.cn,,200,中华人民共和国驻莱索托王国大使馆经济商务处,official,LS,,,,2511,no feed found
+https://www.lb.lt,,403,Just a moment...,official,LT,,,,554,no feed found
+https://www.lietuva.lt,,403,Just a moment...,official,LT,,,,4034,no feed found
+http://lt.mofcom.gov.cn,,200,中华人民共和国驻立陶宛共和国代办处经商室,official,LT,,,,1881,no feed found
+https://www.bcl.lu,,200,,official,LU,,,,3716,no feed found
