@@ -1,21 +1,501 @@
 ﻿url,domain,kind,country,lang,status,final_url,is_feed,items,last_item_date,elapsed_ms,error,content_type,bytes
-https://www.state.gov/rss-feed/press-releases/feed/,state.gov,gov,US,en,405,https://www.state.gov/rss-feed/press-releases/feed/,0,0,,215,,text/html; charset=UTF-8,2379
-https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom,usgs.gov,data,US,en,200,https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.atom,1,7,2026-11-17,181,,application/atom+xml; charset=utf-8,10445
-https://news.un.org/feed/subscribe/en/news/all/rss.xml,un.org,igorg,GLOBAL,en,200,https://news.un.org/feed/subscribe/en/news/all/rss.xml,1,30,2026-11-16,164,,application/rss+xml; charset=utf-8,34372
-https://www.who.int/rss-feeds/news-english.xml,who.int,igorg,GLOBAL,en,200,https://www.who.int/rss-feeds/news-english.xml,1,83,2026-10-10,994,,application/rss+xml,772225
-https://feeds.bbci.co.uk/news/world/rss.xml,bbc.co.uk,news,GB,en,200,https://feeds.bbci.co.uk/news/world/rss.xml,1,21,2026-11-17,289,,text/xml; charset=utf-8,16726
-https://www.theguardian.com/world/rss,theguardian.com,news,GB,en,200,https://www.theguardian.com/world/rss,1,45,2026-11-17,137,,text/xml; charset=UTF-8,152020
-https://www.aljazeera.com/xml/rss/all.xml,aljazeera.com,news,QA,en,200,https://www.aljazeera.com/xml/rss/all.xml,1,25,2026-11-17,165,,application/rss+xml; charset=UTF-8,17223
-https://rss.dw.com/rdf/rss-en-all,dw.com,news,DE,en,200,https://rss.dw.com/rdf/rss-en-all,1,134,2026-11-17,563,,text/xml; charset=UTF-8,122580
-https://www.france24.com/en/rss,france24.com,news,FR,en,200,https://www.france24.com/en/rss,1,24,2026-11-17,158,,application/rss+xml; charset=utf-8,27303
-https://www.cbc.ca/webfeed/rss/rss-world,cbc.ca,news,CA,en,200,https://www.cbc.ca/webfeed/rss/rss-world,1,20,2026-11-17,214,,application/xml;charset=UTF-8,26735
-https://feeds.npr.org/1004/rss.xml,npr.org,news,US,en,200,https://feeds.npr.org/1004/rss.xml,1,10,2026-11-17,173,,text/xml;charset=UTF-8,13961
-https://www.economist.com/international/rss.xml,economist.com,news,GB,en,200,https://www.economist.com/international/rss.xml,1,300,2026-11-16,223,,text/xml,151828
-https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom,gov.uk,gov,GB,en,200,https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom,1,20,2026-11-17,225,,application/atom+xml; charset=utf-8,12451
-https://www.iaea.org/feeds/topstories,iaea.org,igorg,GLOBAL,en,404,https://www.iaea.org/feeds/topstories,0,0,,304,,text/html; charset=UTF-8,48057
-https://www.crisisgroup.org/rss,crisisgroup.org,thinktank,BE,en,200,https://www.crisisgroup.org/rss,1,10,,334,,application/rss+xml; charset=utf-8,8050
-https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10,defense.gov,gov,US,en,200,https://www.war.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=10,1,10,2026-11-17,417,,text/xml; charset=utf-8,9581
-https://www.cisa.gov/cybersecurity-advisories/all.xml,cisa.gov,gov,US,en,200,https://www.cisa.gov/cybersecurity-advisories/all.xml,1,29,2026-11-13,837,,application/rss+xml; charset=utf-8,2000000
-https://www.japantimes.co.jp/feed/,japantimes.co.jp,news,JP,en,200,https://www.japantimes.co.jp/feed/,1,30,2026-11-17,752,,application/rss+xml; charset=utf-8,40153
-https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml,channelnewsasia.com,news,SG,en,200,https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml,1,20,2026-11-17,342,,application/rss+xml; charset=utf-8,17934
-https://www.scmp.com/rss/91/feed,scmp.com,news,HK,en,200,https://www.scmp.com/rss/91/feed/,1,50,2026-11-17,711,,text/xml; charset=utf-8,81645
+https://www.controlrisks.com/rss,controlrisks.com,company,GB,en,404,https://www.controlrisks.com/404.aspx?item=%2Frss&user=extranet%5CAnonymous&site=website,0,0,,857,,text/html; charset=utf-8,12846
+https://www.maplecroft.com/rss,maplecroft.com,company,GB,en,404,https://www.maplecroft.com/rss,0,0,,1763,,text/html; charset=utf-8,191152
+https://www.internationalsos.com/rss,internationalsos.com,company,INT,en,404,https://www.internationalsos.com/page-not-found,0,0,,407,,text/html; charset=utf-8,119035
+https://crisis24.com/rss,crisis24.com,company,US,en,404,https://www.crisis24.com/rss,0,0,,321,,text/html; charset=utf-8,156405
+https://www.eurasiagroup.net/rss,eurasiagroup.net,company,US,en,404,https://www.eurasiagroup.net/rss-feed,0,0,,782,,text/html;charset=UTF-8,19607
+https://www.iaea.org/feeds/topstories,iaea.org,io,INT,en,404,https://www.iaea.org/feeds/topstories,0,0,,288,,text/html; charset=UTF-8,48056
+https://www.icrc.org/en/rss/general,icrc.org,io,INT,en,200,https://www.icrc.org/en/rss/general,1,100,,173,,application/rss+xml; charset=utf-8,61580
+https://www.interpol.int/rss,interpol.int,io,INT,en,403,https://www.interpol.int/rss,0,0,,77,,text/html,6477
+https://www.iom.int/rss.xml,iom.int,io,INT,en,403,https://www.iom.int/rss.xml,0,0,,266,,text/html,374
+https://news.un.org/feed/subscribe/en/news/all/rss.xml,news.un.org,io,INT,en,200,https://news.un.org/feed/subscribe/en/news/all/rss.xml,1,30,2026-11-18,98,,application/rss+xml; charset=utf-8,34531
+https://www.oecd.org/en/rss.xml,oecd.org,io,INT,en,403,https://www.oecd.org/en/rss.xml,0,0,,57,,text/html; charset=UTF-8,5720
+https://www.osce.org/rss,osce.org,io,INT,en,404,https://www.osce.org/rss,0,0,,94,,text/html; charset=utf-8,131165
+https://reliefweb.int/updates/rss.xml,reliefweb.int,io,INT,en,202,https://reliefweb.int/updates/rss.xml,0,0,,30,empty body (status 202),text/html; charset=UTF-8,0
+https://www.un.org/en/rss.xml,un.org,io,INT,en,200,https://www.un.org/en/rss.xml,1,10,2023-10-24,149,,application/rss+xml; charset=utf-8,28415
+https://www.unhcr.org/rss,unhcr.org,io,INT,en,403,https://www.unhcr.org/rss,0,0,,65,,text/html; charset=UTF-8,182786
+https://www.wfp.org/rss.xml,wfp.org,io,INT,en,404,https://www.wfp.org/rss.xml,0,0,,89,,text/html; charset=utf-8,57501
+https://www.who.int/rss-feeds/news-english.xml,who.int,io,INT,en,200,https://www.who.int/rss-feeds/news-english.xml,1,83,2026-10-10,919,,application/rss+xml,772225
+https://www.worldbank.org/en/news/all?format=rss,worldbank.org,io,INT,en,200,https://www.worldbank.org/en/news/all?format=rss,0,0,,122,,text/html; charset=utf-8,4920
+https://blog.offensive.af/rss.xml,offensive.af,media,AF,en,200,https://blog.offensive.af/rss.xml,1,3,,1620,,application/xml,1033
+https://www.batimes.com.ar/feed,batimes.com.ar,media,AR,es,200,https://www.batimes.com.ar/feed,1,100,2026-11-19,388,,text/xml; charset=UTF-8,230701
+https://www.gont.com.ar/feed/,gont.com.ar,media,AR,es,200,https://www.gont.com.ar/feed/,1,10,2011-08-10,2071,,application/rss+xml; charset=UTF-8,18764
+https://cert.at/cert-at.en.blog.rss_2.0.xml,cert.at,media,AT,de,200,https://www.cert.at/cert-at.en.blog.rss_2.0.xml,1,50,2026-11-18,2910,,text/xml,709946
+https://www.derstandard.at/rss,derstandard.at,media,AT,de,200,https://www.derstandard.at/rss,1,160,2026-11-19,272,,application/xml; charset=utf-8,217032
+https://www.diepresse.com/rss/,diepresse.com,media,AT,en,200,https://www.diepresse.com/rss/,1,75,2026-11-19,670,,application/xml,47106
+https://rss.orf.at/news.xml,orf.at,media,AT,de,200,https://rss.orf.at/news.xml,1,23,2026-11-19,705,,application/xml; charset=utf-8,15090
+http://rssfeeds.9news.com/kusa/home&x=1,9news.com,media,AU,en,0,,0,0,,26,"ConnectionError: HTTPConnectionPool(host='rssfeeds.9news.com', port=80): Max retries exceeded with url: /kusa/home&x=1 (Caused by NameResolutionError(""HTTPConnection(host='rssfeeds.9news.com', port",,0
+https://www.abc.net.au/news/feed/1948/rss.xml,abc.net.au,media,AU,en,200,https://www.abc.net.au/news/feed/1948/rss.xml,1,25,2026-11-19,152,,application/rss+xml,83059
+https://anvbis.au/index.xml,anvbis.au,media,AU,en,200,https://anvbis.au/index.xml,1,3,2023-02-23,354,,application/xml,3143
+https://www.aspistrategist.org.au/feed/,aspistrategist.org.au,media,AU,en,200,https://www.aspistrategist.org.au/feed/,1,100,2026-11-19,1215,,application/rss+xml; charset=UTF-8,97870
+https://www.brisbanetimes.com.au/rss/feed.xml,brisbanetimes.com.au,media,AU,en,200,https://www.brisbanetimes.com.au/rss/feed.xml,1,20,2026-11-19,106,,application/xml,18655
+https://www.businessnews.com.au/rssfeed/latest.rss,businessnews.com.au,media,AU,en,200,https://www.businessnews.com.au/rssfeed/latest.rss,1,10,2026-11-19,791,,application/rss+xml; charset=utf-8,10582
+https://www.canberratimes.com.au/rss.xml,canberratimes.com.au,media,AU,en,200,https://www.canberratimes.com.au/rss.xml,1,20,2026-11-19,900,,application/rss+xml; charset=utf-8,15072
+https://www.couriermail.com.au/rss,couriermail.com.au,media,AU,en,200,https://www.couriermail.com.au/rss,0,0,,769,empty body (status 200),text/xml; charset=UTF-8,0
+https://www.dailytelegraph.com.au/news/breaking-news/rss,dailytelegraph.com.au,media,AU,en,200,https://www.dailytelegraph.com.au/news/breaking-news/rss,0,0,,790,empty body (status 200),text/xml; charset=UTF-8,0
+https://dfir.au/index.xml,dfir.au,media,AU,en,200,https://dfir.au/index.xml,1,36,2026-09-28,273,,application/xml,26472
+https://www.heraldsun.com.au/news/breaking-news/rss,heraldsun.com.au,media,AU,en,200,https://www.heraldsun.com.au/news/breaking-news/rss,0,0,,871,empty body (status 200),text/xml; charset=UTF-8,0
+https://indaily.com.au/feed/,indaily.com.au,media,AU,en,200,https://www.indailysa.com.au/,0,0,,3060,,text/html; charset=utf-8,1045897
+https://blog.infosectcbr.com.au/feed/,infosectcbr.com.au,media,AU,en,200,https://blog.infosectcbr.com.au/feed/,1,10,2025-08-01,1252,,application/rss+xml; charset=UTF-8,809635
+https://www.itnews.com.au/RSS/rss.ashx,itnews.com.au,media,AU,en,200,https://www.itnews.com.au/RSS/rss.ashx,1,20,2026-11-19,1140,,application/xml,10812
+https://www.michaelwest.com.au/feed/,michaelwest.com.au,media,AU,en,403,https://www.michaelwest.com.au/feed/,0,0,,238,,text/html; charset=utf-8,1385
+https://www.news.com.au/content-feeds/latest-news-travel,news.com.au,media,AU,en,200,https://www.news.com.au/content-feeds/latest-news-travel/,0,0,,2778,,text/html; charset=UTF-8,180758
+https://www.perthnow.com.au/news/feed,perthnow.com.au,media,AU,en,200,https://www.perthnow.com.au/news/feed,1,100,2026-11-19,174,,text/xml; charset=utf-8,119068
+https://www.smh.com.au/rss/feed.xml,smh.com.au,media,AU,en,200,https://www.smh.com.au/rss/feed.xml,1,20,2026-11-19,139,,application/xml,18415
+https://www.theage.com.au/rss/feed.xml,theage.com.au,media,AU,en,200,https://www.theage.com.au/rss/feed.xml,1,20,2026-11-19,210,,application/xml,18362
+https://www.themercury.com.au/rss,themercury.com.au,media,AU,en,200,https://www.themercury.com.au/rss,0,0,,1180,empty body (status 200),text/xml; charset=UTF-8,0
+https://blog.tribesmanjohn.au/feed/,tribesmanjohn.au,media,AU,en,200,https://blog.tribesmanjohn.au/feed/,1,10,2026-07-17,2200,,application/rss+xml; charset=UTF-8,135107
+https://www.banglanews24.com/rss/rss.xml,banglanews24.com,media,BD,en,404,https://www.banglanews24.com/rss/rss.xml,0,0,,761,,text/html; charset=utf-8,93657
+https://www.bd24live.com/feed,bd24live.com,media,BD,en,200,https://www.bd24live.com/feed/,1,10,2026-11-19,1922,,application/rss+xml,49415
+https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true,bdnews24.com,media,BD,en,200,https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true,0,0,,239,,text/html; charset=utf-8,331844
+https://www.jagonews24.com/rss/rss.xml,jagonews24.com,media,BD,en,200,https://www.jagonews24.com/rss/rss.xml,1,100,2026-11-19,1042,,application/rss+xml; charset=utf-8,78080
+https://www.jugantor.com/feed/rss.xml,jugantor.com,media,BD,en,403,https://www.jugantor.com/feed/rss.xml,0,0,,162,,text/html; charset=UTF-8,5752
+https://www.kalerkantho.com/rss.xml,kalerkantho.com,media,BD,en,403,https://www.kalerkantho.com/rss.xml,0,0,,212,,text/html; charset=UTF-8,5740
+https://www.prothomalo.com/feed/,prothomalo.com,media,BD,en,200,https://www.prothomalo.com/stories.rss,1,103,2026-11-19,865,,text/xml; application/rss+xml; charset=utf-8,1112347
+https://www.thedailystar.net/frontpage/rss.xml,thedailystar.net,media,BD,en,200,https://www.thedailystar.net/taxonomy/term/107/rss.xml,1,10,2022-07-22,193,,application/rss+xml; charset=utf-8,8863
+https://www.7sur7.be/home/rss.xml,7sur7.be,media,BE,en,200,https://www.7sur7.be/home/rss.xml,1,30,2026-11-19,252,,application/rss+xml;charset=UTF-8,53993
+https://cert.be/en/rss,cert.be,media,BE,en,200,https://ccb.belgium.be/advisories.xml,1,10,2026-11-18,522,,application/rss+xml; charset=utf-8,6998
+https://www.corelan.be/index.php/feed/,corelan.be,media,BE,en,200,https://www.corelan.be/index.php/feed/,1,10,2026-05-14,1088,,application/rss+xml; charset=UTF-8,20859
+https://cylab.be/rss,cylab.be,media,BE,en,200,https://cylab.be/rss,1,408,2026-11-17,2268,,application/rss+xml,217532
+https://www.demorgen.be/in-het-nieuws/rss.xml,demorgen.be,media,BE,en,200,https://www.demorgen.be/in-het-nieuws/rss.xml,1,27,2026-11-19,167,,application/rss+xml; charset=utf-8,21492
+https://www.euractiv.com/feed/,euractiv.com,media,BE,en,200,https://www.rapporteur.com/feed/,1,100,2026-11-19,965,,application/rss+xml; charset=UTF-8,92884
+https://www.foo.be/feed.xml,foo.be,media,BE,en,200,https://www.foo.be/feed.xml,1,10,2026-08-14,1789,,application/xml,213411
+https://www.hln.be/home/rss.xml,hln.be,media,BE,en,200,https://www.hln.be/home/rss.xml,1,30,2026-11-19,516,,application/rss+xml;charset=UTF-8,52608
+https://www.lalibre.be/arc/outboundfeeds/rss/?outputType=xml,lalibre.be,media,BE,en,200,https://www.lalibre.be/arc/outboundfeeds/rss/?outputType=xml,1,100,2026-11-19,481,,application/xml; charset=utf-8,128954
+https://www.lesoir.be/rss2/2/cible_principale,lesoir.be,media,BE,en,403,https://www.lesoir.be/rss2/2/cible_principale,0,0,,259,,text/html,402
+https://mouha.be/feed/,mouha.be,media,BE,en,200,https://mouha.be/feed/,1,6,2024-09-30,1399,,application/rss+xml; charset=UTF-8,57700
+http://blog.nviso.be/feeds/posts/default?alt=rss,nviso.be,media,BE,en,200,https://blog.nviso.eu/feed/?alt=rss,1,10,2026-11-17,1691,,application/rss+xml; charset=UTF-8,696459
+https://quentinkaiser.be/feed.xml,quentinkaiser.be,media,BE,en,200,https://quentinkaiser.be/feed.xml,1,10,2026-10-23,955,,application/xml,343628
+http://blog.rootshell.be/feed/,rootshell.be,media,BE,en,200,https://blog.rootshell.be/feed/,1,10,2023-10-19,1813,,application/rss+xml; charset=UTF-8,53363
+https://rss.rtbf.be/article/rss/highlight_rtbfinfo_info.xml?source=internal,rtbf.be,media,BE,en,200,https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml?source=internal,1,20,2026-11-19,971,,text/xml,21879
+http://www.tik.be/artikels/feed,tik.be,media,BE,en,0,,0,0,,244,"ConnectionError: HTTPConnectionPool(host='www.tik.be', port=80): Max retries exceeded with url: /artikels/feed (Caused by NameResolutionError(""HTTPConnection(host='www.tik.be', port=80): Failed to ",,0
+https://www.vrt.be/vrtnieuws/en.rss.articles.xml,vrt.be,media,BE,en,200,https://www.vrt.be/vrtnws/en.rss.articles.xml,1,50,2026-11-19,603,,application/atom+xml;charset=utf-8,63260
+http://www.brasilwire.com/feed/,brasilwire.com,media,BR,en,200,https://www.brasilwire.com/feed/,1,10,2026-11-14,2197,,application/rss+xml; charset=UTF-8,19667
+http://www.ebc.com.br/rss/feed.xml,ebc.com.br,media,BR,en,404,https://www.ebc.com.br/rss/feed.xml,0,0,,1320,,application/json,26
+https://jornaldebrasilia.com.br/feed/,jornaldebrasilia.com.br,media,BR,en,200,https://jornaldebrasilia.com.br/feed/,1,20,2026-11-19,1128,,application/rss+xml; charset=UTF-8,281697
+https://noticias.r7.com/feed.xml,r7.com,media,BR,en,404,https://noticias.r7.com/feed.xml,0,0,,1808,,text/html; charset=utf-8,1864113
+https://riotimesonline.com/feed/,riotimesonline.com,media,BR,en,200,https://www.riotimesonline.com/feed/,1,10,2026-11-19,1568,,application/rss+xml; charset=UTF-8,14660
+https://feeds.folha.uol.com.br/emcimadahora/rss091.xml,uol.com.br,media,BR,en,200,https://feeds.folha.uol.com.br/emcimadahora/rss091.xml,1,100,2026-11-19,1428,,text/xml,126629
+https://boschko.ca/rss/,boschko.ca,media,CA,en,200,https://boschko.ca/rss/,1,15,2026-08-27,1793,,application/rss+xml; charset=utf-8,1085841
+https://www.cbc.ca/webfeed/rss/rss-world,cbc.ca,media,CA,en,200,https://www.cbc.ca/webfeed/rss/rss-world,1,20,2026-11-19,583,,application/xml;charset=UTF-8,27384
+https://citizenlab.ca/feed/,citizenlab.ca,media,CA,en,200,https://citizenlab.ca/feed/,1,10,2026-11-16,1168,,application/rss+xml; charset=UTF-8,26041
+https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009,ctvnews.ca,media,CA,en,404,https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009,0,0,,498,,text/html; charset=utf-8,143360
+https://blog.ettic.ca/feed,ettic.ca,media,CA,en,200,https://blog.ettic.ca/feed?gi=91f0d03c0c88,1,10,2025-11-17,1686,,text/xml; charset=UTF-8,192776
+https://business.financialpost.com/feed/,financialpost.com,media,CA,en,200,https://financialpost.com,0,0,,1407,,text/html; charset=UTF-8,369259
+https://www.cyber.gc.ca/webservice/en/rss/alerts,gc.ca,media,CA,en,200,https://www.cyber.gc.ca/api/cccs/atom/v1/get?feed=alerts_advisories&lang=en,1,50,2026-11-18,863,,application/xml,147976
+https://globalnews.ca/canada/feed/,globalnews.ca,media,CA,en,200,https://globalnews.ca/canada/feed/,1,10,2026-11-19,427,,application/rss+xml; charset=UTF-8,20239
+https://www.lapresse.ca/actualites/rss,lapresse.ca,media,CA,en,200,https://www.lapresse.ca/actualites/rss,1,10,2026-11-19,291,,text/xml;charset=UTF-8,12446
+https://nationalpost.com/feed/,nationalpost.com,media,CA,en,200,https://nationalpost.com,0,0,,685,,text/html; charset=UTF-8,380590
+https://ottawacitizen.com/feed/,ottawacitizen.com,media,CA,en,200,https://ottawacitizen.com/feed,1,10,2026-11-19,5261,,application/rss+xml; charset=UTF-8,24555
+https://rack911labs.ca/feed/,rack911labs.ca,media,CA,en,404,https://rack911labs.ca/feed/,0,0,,438,,text/html,548
+https://www.robertxiao.ca/feed/,robertxiao.ca,media,CA,en,200,https://www.robertxiao.ca/feed/,1,70,2025-07-15,3877,,application/rss+xml; charset=UTF-8,92814
+https://www.sportsnet.ca/feed/,sportsnet.ca,media,CA,en,200,https://www.sportsnet.ca/feed/,1,66,2026-11-19,371,,text/xml; charset=UTF-8,172378
+https://www.douglas.stebila.ca/blog/feed/rss-2.0.xml,stebila.ca,media,CA,en,200,https://www.douglas.stebila.ca/blog/feed/rss-2.0.xml,1,112,2026-11-18,746,,application/xml,107951
+https://thenarwhal.ca/feed/,thenarwhal.ca,media,CA,en,200,https://thenarwhal.ca/feed/,1,11,2026-11-19,1092,,text/xml;charset=UTF-8,257749
+https://theprovince.com/feed/,theprovince.com,media,CA,en,200,https://theprovince.com/feed,1,10,2026-11-19,616,,application/rss+xml; charset=UTF-8,21384
+https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.topstories.rss,thestar.com,media,CA,en,429,https://www.thestar.com/site/static-pages/rss-feeds.html,0,0,,330,,text/plain,66
+https://thume.ca/atom.xml,thume.ca,media,CA,en,200,https://thume.ca/atom.xml,1,53,2026-11-01,3205,,application/xml,1345068
+https://torontosun.com/category/news/feed,torontosun.com,media,CA,en,200,https://torontosun.com/category/news/feed.xml,1,10,2026-11-19,929,,application/rss+xml; charset=utf-8,70227
+https://blog.deeb.ch/feed.xml,deeb.ch,media,CH,de,200,https://blog.deeb.ch/feed.xml,1,28,2026-10-30,1088,,text/xml; charset=utf-8,13733
+https://dfir.ch/index.xml,dfir.ch,media,CH,de,200,https://dfir.ch/index.xml,1,85,2026-11-09,1202,,application/xml,121251
+https://comsec.ethz.ch/feed/,ethz.ch,media,CH,de,200,https://comsec.ethz.ch/feed/,1,10,2026-10-07,485,,application/rss+xml; charset=UTF-8,15615
+http://www.floyd.ch/?feed=rss2,floyd.ch,media,CH,de,200,http://www.floyd.ch/?feed=rss2,1,10,2024-09-23,1274,,application/rss+xml; charset=UTF-8,89232
+https://hexarcana.ch/feed/rss,hexarcana.ch,media,CH,de,400,https://hexarcana.ch/feed/rss,0,0,,827,,application/json,42
+https://labs.infoguard.ch/rss.xml,infoguard.ch,media,CH,de,200,https://labs.infoguard.ch/rss.xml,1,20,2026-09-28,2349,,application/xml,528746
+https://johannesbader.ch/feed.xml,johannesbader.ch,media,CH,de,200,https://bin.re/feed.xml,1,10,2026-11-30,1245,,application/xml,13532
+https://www.letemps.ch/articles.rss,letemps.ch,media,CH,de,200,https://www.letemps.ch/articles.rss,1,21,2026-11-19,942,,application/rss+xml; charset=utf-8,97037
+https://mkiesel.ch/feed.xml,mkiesel.ch,media,CH,de,200,https://mkiesel.ch/feed.xml,1,8,2026-08-31,793,,text/xml,3680
+https://www.nzz.ch/recent.rss,nzz.ch,media,CH,de,200,https://www.nzz.ch/recent.rss,1,14,2026-11-19,670,,text/xml; charset=utf-8,12231
+https://www.pentagrid.ch/de/rss.xml,pentagrid.ch,media,CH,de,200,https://www.pentagrid.ch/de/rss.xml,1,25,2026-06-17,2100,,text/xml,758604
+https://pstirparo.ch/index.xml,pstirparo.ch,media,CH,de,200,https://pstirparo.ch/index.xml,1,2,2023-04-19,581,,application/xml,2334
+https://blog.scrt.ch/feed/,scrt.ch,media,CH,de,200,https://blog.scrt.ch/feed/,1,10,2026-10-06,1047,,application/xml,12308
+https://sekureco42.ch/posts/index.xml,sekureco42.ch,media,CH,de,200,https://sekureco42.ch/posts/index.xml,1,39,2026-08-12,862,,application/xml,35293
+https://www.srf.ch/news/bnf/rss/1646,srf.ch,media,CH,de,200,https://www.srf.ch/news/bnf/rss/1646,1,81,2026-11-19,900,,text/xml; charset=UTF-8,48495
+https://stefan-gloor.ch/feed.xml,stefan-gloor.ch,media,CH,de,200,https://stefan-gloor.ch/feed.xml,1,34,2025-11-30,1001,,application/xml,16207
+https://mksben.l0.cm/feeds/posts/default,l0.cm,media,CM,en,200,https://mksben.l0.cm/feeds/posts/default,1,18,2021-11-28,1482,,application/atom+xml; charset=UTF-8,181918
+https://www.globaltimes.cn/rss/outbrain.xml,globaltimes.cn,media,CN,en,200,https://www.globaltimes.cn/rss/outbrain.xml,1,50,2026-10-09,803,,application/xml,14764
+https://www.infoq.cn/feed.xml,infoq.cn,media,CN,zh,200,https://www.infoq.cn/feed.xml,1,20,2026-11-19,2606,,application/xml; charset=utf-8,13648
+https://www.404media.co/rss,404media.co,media,CO,es,200,https://www.404media.co/rss/,1,15,2026-11-19,914,,application/rss+xml; charset=utf-8,125212
+https://www.elastic.co/security-labs/rss/feed.xml,elastic.co,media,CO,es,200,https://www.elastic.co/security-labs/rss/feed.xml,1,69,2026-11-18,8102,,application/xml; charset=utf-8,2000000
+https://www.goodgoodgood.co/articles/rss.xml,goodgoodgood.co,media,CO,es,200,https://www.goodgoodgood.co/articles/rss.xml,1,100,2026-11-17,854,,application/rss+xml; charset=utf-8,93332
+https://i-d.co/feed,i-d.co,media,CO,es,200,https://i-d.co/feed/,1,10,2026-11-18,1446,,application/rss+xml; charset=UTF-8,255510
+https://industrialcyber.co/feed/,industrialcyber.co,media,CO,es,200,https://industrialcyber.co/feed/,1,9,2026-11-19,2446,,application/rss+xml; charset=UTF-8,124819
+https://blog.kchung.co/rss/,kchung.co,media,CO,es,200,https://blog.kchung.co/rss/,1,15,2023-01-09,750,,application/rss+xml; charset=utf-8,221631
+https://www.notboring.co/feed,notboring.co,media,CO,es,200,https://www.notboring.co/feed,1,20,2026-11-13,3547,,application/xml; charset=utf-8,1316560
+http://om.co/feed/,om.co,media,CO,es,200,https://om.co/feed/,1,3,2026-06-24,559,,application/rss+xml; charset=UTF-8,22225
+https://psyche.co/feed,psyche.co,media,CO,es,200,https://psyche.co/feed.rss,1,20,2026-11-18,666,,application/rss+xml; charset=utf-8,20408
+https://pylos.co/feed/,pylos.co,media,CO,es,200,https://pylos.co/feed/,1,10,2026-11-05,987,,application/rss+xml; charset=UTF-8,143461
+https://www.redcanary.co/feed/,redcanary.co,media,CO,es,200,https://redcanary.com/feed/,1,10,2026-08-20,788,,application/rss+xml; charset=UTF-8,8725
+http://securityaffairs.co/wordpress/feed,securityaffairs.co,media,CO,es,200,https://securityaffairs.com/feed,1,10,2026-11-19,1701,,application/rss+xml; charset=UTF-8,90321
+https://www.theblock.co/rss.xml,theblock.co,media,CO,es,200,https://www.theblock.co/rss.xml,1,20,2026-11-19,560,,text/xml; charset=UTF-8,29231
+https://www.thediff.co/archive/rss/,thediff.co,media,CO,es,200,https://www.thediff.co/archive/rss/,1,15,2026-11-17,868,,application/rss+xml; charset=utf-8,155037
+https://ct24.ceskatelevize.cz/rss/hlavni-zpravy,ceskatelevize.cz,media,CZ,en,200,https://ct24.ceskatelevize.cz/rss/tema/vyber-redakce-84313,1,30,2026-11-19,1887,,text/xml,40071
+https://www.irozhlas.cz/rss/irozhlas,irozhlas.cz,media,CZ,en,200,https://www.irozhlas.cz/rss/irozhlas,1,20,2026-11-19,594,,application/rss+xml; charset=utf-8,18661
+https://justi.cz/feed.xml,justi.cz,media,CZ,en,200,https://justi.cz/feed.xml,1,9,2021-04-20,696,,application/xml,143165
+http://0pointer.de/blog/index.rss20,0pointer.de,media,DE,de,200,http://0pointer.de/blog/index.rss20,1,100,2026-10-14,3268,,text/xml,1192933
+https://b.27p.de/index.xml,27p.de,media,DE,de,200,https://b.27p.de/index.xml,1,42,2025-02-23,4424,,application/xml,576375
+https://blog.3or.de/feeds/all.atom.xml,3or.de,media,DE,de,200,https://blog.3or.de/feeds/all.atom.xml,1,18,2024-05-30,1815,,application/xml,468091
+https://www.alexanderjaeger.de/feed/,alexanderjaeger.de,media,DE,de,500,https://www.alexanderjaeger.de/feed/,0,0,,970,xml but not a feed,text/xml; charset=UTF-8,301
+https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_CS.xml,bund.de,media,DE,de,404,https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_CS.xml,0,0,,875,,text/html;charset=utf-8,60461
+https://media.ccc.de/updates.rdf,ccc.de,media,DE,de,200,https://media.ccc.de/updates.rdf,1,100,2026-11-16,1992,,application/xml; charset=utf-8,315288
+https://rss.dw.com/rdf/rss-en-all,dw.com,media,DE,en,200,https://rss.dw.com/rdf/rss-en-all,1,135,2026-11-19,333,,text/xml; charset=UTF-8,123942
+http://rss.dw.de/rdf/rss-en-world,dw.de,media,DE,de,200,https://rss.dw.com/rdf/rss-en-world,1,12,2026-11-19,1544,,text/xml; charset=UTF-8,12376
+https://www.cs1.tf.fau.de/feed/,fau.de,media,DE,de,200,https://www.cs1.tf.fau.de/feed/,1,10,2026-11-17,1602,,application/rss+xml; charset=UTF-8,15282
+https://www.faz.net/rss/aktuell/,faz.net,media,DE,en,200,https://www.faz.net/rss/aktuell/,1,158,2026-11-19,3375,,application/xml; charset=UTF-8,263338
+https://rss.focus.de/fol/XML/rss_folnews.xml,focus.de,media,DE,de,404,https://www.focus.de/fol/XML/rss_folnews.xml/rss,0,0,,821,,text/html; charset=utf-8,76393
+https://frereit.de/index.xml,frereit.de,media,DE,de,200,https://frereit.de/index.xml,1,14,2026-07-04,2477,,application/xml,217804
+https://www.handelsblatt.com/contentexport/feed/top-themen,handelsblatt.com,media,DE,en,200,https://crm-public-hb--production.hmg.systems/top-topics,1,27,2026-11-19,1594,,application/rss+xml; charset=utf-8,48545
+https://hansesecure.de/feed/,hansesecure.de,media,DE,de,200,https://hansesecure.de/feed/,1,10,2026-04-30,2797,,application/rss+xml; charset=UTF-8,132573
+http://www.hboeck.de/feeds/index.rss2,hboeck.de,media,DE,de,200,https://blog.hboeck.de/feeds/index.rss2,1,15,2025-02-25,2132,,text/xml; charset=utf-8,157735
+https://www.heise.de/rss/heise-atom.xml,heise.de,media,DE,de,200,https://www.heise.de/rss/heise-atom.xml,1,158,2026-11-19,2073,,application/atom+xml; charset=UTF-8,211078
+https://security.lauritz-holtmann.de/post/index.xml,lauritz-holtmann.de,media,DE,de,200,https://security.lauritz-holtmann.de/post/index.xml,1,15,2025-12-23,1361,,application/xml,14770
+https://modepilot.de/feed,modepilot.de,media,DE,de,200,https://www.modepilot.de/feed/,1,10,2026-11-08,1969,,text/xml; charset=UTF-8,156401
+https://www.n-tv.de/rss,n-tv.de,media,DE,de,200,https://www.n-tv.de/rss,1,50,2026-11-19,385,,text/xml,71543
+https://op-co.de/blog/index.rss,op-co.de,media,DE,de,200,https://op-co.de/blog/index.rss,1,10,2026-07-26,2786,,application/x-rss+xml,299454
+https://www.patrick-breyer.de/en/?feed=rss2,patrick-breyer.de,media,DE,de,200,https://www.patrick-breyer.de/en/feed/,1,10,2026-09-30,3000,,application/rss+xml; charset=UTF-8,130033
+https://blog.pspaul.de/atom.xml,pspaul.de,media,DE,de,200,https://blog.pspaul.de/atom.xml,1,20,2026-07-22,770,,application/xml,15038
+https://blog.redteam-pentesting.de/posts/index.xml,redteam-pentesting.de,media,DE,de,200,https://blog.redteam-pentesting.de/posts/index.xml,1,16,2025-06-11,1550,,text/xml,17712
+https://robocoffee.de/?feed=rss2,robocoffee.de,media,DE,de,200,https://robocoffee.de/?feed=rss2,1,10,2026-08-30,1760,,application/rss+xml; charset=UTF-8,131298
+https://scoding.de/feed.xml,scoding.de,media,DE,de,200,https://scoding.de/feed.xml,1,10,2024-07-04,1326,,application/xml,156439
+https://www.security-incidents.de/rss/sicherheitsvorfaelle.xml,security-incidents.de,media,DE,de,200,https://www.security-incidents.de/rss/sicherheitsvorfaelle.xml,1,243,2026-11-19,3757,,application/xml,534860
+http://www.spiegel.de/international/business/index.rss,spiegel.de,media,DE,de,200,https://www.spiegel.de/international/business/index.rss,1,20,2026-11-18,910,,application/rss+xml; charset=utf-8,23711
+https://rss.sueddeutsche.de/rss/Topthemen,sueddeutsche.de,media,DE,de,200,https://rss.sueddeutsche.de/rss/Topthemen,1,15,2026-11-19,2760,,application/xml; charset=utf-8,20539
+http://www.tagesschau.de/xml/rss2,tagesschau.de,media,DE,de,200,https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml,1,40,2026-11-19,2374,,application/xml;charset=UTF-8,55507
+https://text.tchncs.de/ioi/feed/,tchncs.de,media,DE,de,200,https://text.tchncs.de/ioi/feed/,1,4,2024-10-15,1007,,text/xml; charset=utf-8,104755
+https://www.welt.de/feeds/topnews.rss,welt.de,media,DE,de,200,https://www.welt.de/feeds/topnews.rss,1,22,2026-11-19,762,,application/rss+xml;charset=UTF-8,39687
+https://x41-dsec.de/feed.xml,x41-dsec.de,media,DE,de,200,https://x41-dsec.de/feed.xml,1,10,2026-11-17,992,,application/xml,125165
+https://blog.zapb.de/rss.xml,zapb.de,media,DE,de,200,https://blog.zapb.de/rss.xml,1,5,2024-03-10,2106,,text/xml,16317
+http://newsfeed.zeit.de/index,zeit.de,media,DE,de,200,http://newsfeed.zeit.de/index,1,15,2026-11-19,732,,application/rss+xml; charset=utf-8,18554
+https://www.dr.dk/nyheder/service/feeds/allenyheder,dr.dk,media,DK,en,200,https://www.dr.dk/nyheder/service/feeds/allenyheder,1,20,2026-11-19,398,,application/rss+xml; charset=utf-8,9837
+https://www.infosecworrier.dk/blog/feed.xml,infosecworrier.dk,media,DK,en,200,https://www.infosecworrier.dk/blog/feed.xml,1,60,2026-07-31,1769,,text/xml,92016
+https://www.kalmarunionen.dk/index.xml,kalmarunionen.dk,media,DK,en,200,https://www.kalmarunionen.dk/index.xml,1,50,2026-10-31,2137,,application/xml,111469
+https://politiken.dk/rss/senestenyt.rss,politiken.dk,media,DK,en,200,https://politiken.dk/rss/senestenyt.rss,1,20,2026-11-19,2004,,application/rss+xml;charset=ISO-8859-1,19333
+https://bckalev.ee/feed/,bckalev.ee,media,EE,en,200,https://bckalev.ee/feed/,1,10,2026-11-17,1745,,application/rss+xml; charset=UTF-8,57091
+https://www.edl.ee/uudised.rss,edl.ee,media,EE,en,200,https://www.edl.ee/uudised.rss,1,50,2026-10-12,2096,,application/rss+xml; charset=utf-8,309333
+https://www.eestinoorsooteater.ee/feed/,eestinoorsooteater.ee,media,EE,en,200,https://www.eestinoorsooteater.ee/feed/,1,10,2026-11-17,1537,,application/rss+xml; charset=UTF-8,37205
+https://www.fi.ee/et/uudised/rss,fi.ee,media,EE,en,200,https://www.fi.ee/et/uudised/rss,1,633,2026-11-13,11909,,application/rss+xml; charset=utf-8,2000000
+https://folk.ee/uudised.rss,folk.ee,media,EE,en,200,https://folk.ee/uudised.rss,1,50,2026-11-19,1335,,application/rss+xml; charset=utf-8,162360
+https://haapsalu.ee/feed/,haapsalu.ee,media,EE,en,200,https://haapsalu.ee/feed/,1,10,2026-11-19,926,,application/rss+xml; charset=UTF-8,9324
+https://jazz.ee/feed/,jazz.ee,media,EE,en,200,https://jazz.ee/feed/,1,10,2026-11-18,1071,,application/rss+xml; charset=UTF-8,15557
+https://joonisfilm.ee/feed/,joonisfilm.ee,media,EE,en,200,https://joonisfilm.ee/feed/,1,10,2026-10-26,1860,,application/rss+xml; charset=UTF-8,59010
+https://judo.ee/feed/,judo.ee,media,EE,en,200,https://judo.ee/feed/,1,10,2026-11-09,1905,,application/rss+xml; charset=UTF-8,110674
+https://www.kriis.ee/rss-feeds/rss.xml,kriis.ee,media,EE,en,200,https://www.kriis.ee/rss-feeds/rss.xml,1,100,2026-11-05,1851,,application/rss+xml; charset=utf-8,66220
+https://legendaarne.ee/feed/,legendaarne.ee,media,EE,en,200,https://legendaarne.ee/feed/,1,20,2026-10-27,823,,text/xml;charset=UTF-8,23080
+https://maaruum.ee/rss-feeds/rss.xml,maaruum.ee,media,EE,en,200,https://maaruum.ee/rss-feeds/rss.xml,1,100,2026-11-12,1167,,application/rss+xml; charset=utf-8,64940
+https://www.moonwalk.ee/blog?format=rss,moonwalk.ee,media,EE,en,200,https://www.moonwalk.ee/blog?format=rss,1,20,2026-10-27,1365,,application/rss+xml; charset=UTF-8,67792
+https://paide.ee/feed/,paide.ee,media,EE,en,200,https://paide.ee/feed/,1,10,2026-11-19,1421,,application/rss+xml; charset=UTF-8,7979
+https://parnu.ee/rss-feeds/rss.xml,parnu.ee,media,EE,en,200,https://parnu.ee/rss-feeds/rss.xml,1,100,2026-11-17,1895,,application/rss+xml; charset=utf-8,57593
+https://www.politsei.ee/et/uudised,politsei.ee,media,EE,en,200,https://www.politsei.ee/et/uudised,0,0,,1168,,text/html,73414
+https://president.ee/rss-feeds/rss.xml,president.ee,media,EE,en,200,https://president.ee/rss-feeds/rss.xml,1,100,2026-11-19,1433,,application/rss+xml; charset=utf-8,62348
+https://puri.ee/feed/,puri.ee,media,EE,en,200,https://puri.ee/feed/,1,10,2026-11-19,2439,,application/rss+xml; charset=UTF-8,113354
+https://www.rae.ee/rss-feeds/rss.xml,rae.ee,media,EE,en,200,https://www.rae.ee/rss-feeds/rss.xml,1,100,2026-11-17,1981,,application/rss+xml; charset=utf-8,61423
+https://www.rakvere.ee/rss-feeds/rss.xml,rakvere.ee,media,EE,en,200,https://www.rakvere.ee/rss-feeds/rss.xml,1,100,2026-11-16,4685,,application/rss+xml; charset=utf-8,63758
+https://www.rapina.ee/feed/,rapina.ee,media,EE,en,200,https://www.rapina.ee/feed/,1,8,2026-11-18,1359,,application/rss+xml; charset=UTF-8,13173
+https://www.regionaalhaigla.ee/rss-feeds/rss.xml,regionaalhaigla.ee,media,EE,en,200,https://www.regionaalhaigla.ee/rss-feeds/rss.xml,1,100,2026-11-16,3765,,application/rss+xml; charset=utf-8,73310
+https://www.rescue.ee/et/uudised,rescue.ee,media,EE,en,200,https://www.rescue.ee/et/uudised,0,0,,1451,,text/html,153768
+https://www.ria.ee/en/news-feed/all/feed?keyword=&body=,ria.ee,media,EE,en,200,https://www.ria.ee/en/rss-feeds/rss.xml?keyword=&body=,1,100,2026-11-04,2153,,application/rss+xml; charset=utf-8,67372
+https://www.riigikontroll.ee/rss-feeds/rss.xml,riigikontroll.ee,media,EE,en,200,https://www.riigikontroll.ee/rss-feeds/rss.xml,1,100,2026-11-18,2490,,application/rss+xml; charset=utf-8,88044
+https://roheline.ee/feed/,roheline.ee,media,EE,en,200,https://roheline.ee/feed/,1,30,2026-11-16,2759,,application/rss+xml; charset=UTF-8,144116
+https://www.rtk.ee/rss-feeds/rss.xml,rtk.ee,media,EE,en,200,https://www.rtk.ee/rss-feeds/rss.xml,1,100,2026-11-05,1022,,application/rss+xml; charset=utf-8,79129
+https://www.sauevald.ee/rss-feeds/rss.xml,sauevald.ee,media,EE,en,200,https://www.sauevald.ee/rss-feeds/rss.xml,1,100,2026-11-19,2292,,application/rss+xml; charset=utf-8,58892
+https://www.sotsiaalkindlustusamet.ee/rss-feeds/rss.xml,sotsiaalkindlustusamet.ee,media,EE,en,200,https://www.sotsiaalkindlustusamet.ee/rss-feeds/rss.xml,1,100,2026-11-17,3350,,application/rss+xml; charset=utf-8,72414
+https://www.soudeliit.ee/feed/,soudeliit.ee,media,EE,en,403,https://www.soudeliit.ee/feed/,0,0,,352,,text/html; charset=UTF-8,5710
+https://www.tartuh.ee/feed/,tartuh.ee,media,EE,en,200,https://www.tartuh.ee/feed/,1,10,2026-11-18,4157,,application/rss+xml; charset=UTF-8,49847
+https://tervisekassa.ee/rss.xml,tervisekassa.ee,media,EE,en,200,https://tervisekassa.ee/rss.xml,1,10,2026-11-17,1510,,application/rss+xml; charset=utf-8,8123
+https://tfw.ee/feed/,tfw.ee,media,EE,en,200,https://tfw.ee/feed/,1,10,2026-10-31,3899,,application/rss+xml; charset=UTF-8,80986
+https://www.ti.ee/rss-feeds/rss.xml,ti.ee,media,EE,en,200,https://www.ti.ee/rss-feeds/rss.xml,1,100,2025-10-01,1819,,text/xml,68000
+https://toiduliit.ee/feed/,toiduliit.ee,media,EE,en,200,https://toiduliit.ee/feed/,1,10,2026-11-18,1304,,application/rss+xml; charset=UTF-8,86023
+https://www.triatlon.ee/feed/,triatlon.ee,media,EE,en,200,https://www.triatlon.ee/feed/,1,10,2026-11-16,4432,,application/rss+xml; charset=UTF-8,34699
+https://www.uisuliit.ee/uudised.rss,uisuliit.ee,media,EE,en,200,https://www.uisuliit.ee/uudised.rss,1,50,2026-11-18,4675,,application/rss+xml; charset=utf-8,90535
+https://basket.ut.ee/feed/,ut.ee,media,EE,en,200,https://basket.ut.ee/feed/,1,10,2026-11-18,2468,,application/rss+xml; charset=UTF-8,8111
+https://valga.ee/feed/,valga.ee,media,EE,en,200,https://valga.ee/feed/,1,10,2026-11-19,1533,,application/rss+xml; charset=UTF-8,7974
+https://valgahaigla.ee/feed/,valgahaigla.ee,media,EE,en,200,https://valgahaigla.ee/feed/,1,10,2026-11-19,1599,,application/rss+xml; charset=UTF-8,24871
+https://viimsi.ee/rss-feeds/rss.xml,viimsi.ee,media,EE,en,200,https://viimsi.ee/rss-feeds/rss.xml,1,100,2026-11-19,1407,,application/rss+xml; charset=utf-8,60775
+https://www.voru.ee/rss-feeds/rss.xml,voru.ee,media,EE,en,200,https://www.voru.ee/rss-feeds/rss.xml,1,100,2026-11-17,4324,,application/rss+xml; charset=utf-8,55247
+https://www.20minutos.es/rss/,20minutos.es,media,ES,es,200,https://www.20minutos.es/rss,1,191,2026-11-19,1879,,application/xml,1009153
+https://www.abc.es/rss/2.0/portada/,abc.es,media,ES,es,200,https://www.abc.es/rss/2.0/portada/,1,25,2026-11-19,1363,,application/xml,146265
+https://www.efe.com/efe/english/4/rss,efe.com,media,ES,en,403,https://efe.com/efe/english/4/rss,0,0,,530,,text/html,1762
+https://rss.elconfidencial.com/espana/,elconfidencial.com,media,ES,en,200,https://rss.elconfidencial.com/espana/,1,15,2026-11-19,2064,,"text/xml, charset=UTF-8",199121
+https://www.eldiario.es/rss/,eldiario.es,media,ES,es,200,https://www.eldiario.es/rss/,1,131,2026-11-19,4552,,text/xml; charset=UTF-8,1948412
+https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada,elpais.com,media,ES,en,200,https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada,1,154,2026-11-19,2313,,application/xml,647261
+https://www.elperiodico.com/es/rss/rss_portada.xml,elperiodico.com,media,ES,en,200,https://www.elperiodico.com/es/rss/rss_portada.xml,1,0,,949,,text/xml;charset=UTF-8,339
+https://www.euroweeklynews.com/feed/,euroweeklynews.com,media,ES,en,200,https://euroweeklynews.com/feed/,1,30,2026-11-19,982,,text/xml,64743
+https://fuckingyoung.es/feed/,fuckingyoung.es,media,ES,es,200,https://fuckingyoung.es/feed/,1,10,2026-11-19,2379,,application/rss+xml; charset=UTF-8,86442
+https://www.huffingtonpost.es/feeds/index.xml,huffingtonpost.es,media,ES,es,200,https://www.huffingtonpost.es/feeds/index.xml,1,65,2026-11-19,688,,text/xml; charset=UTF-8,109824
+https://labs.itresit.es/feed/,itresit.es,media,ES,es,200,https://labs.itresit.es/feed/,1,10,2026-11-19,2154,,application/rss+xml; charset=UTF-8,370518
+https://www.lavanguardia.com/rss/home.xml,lavanguardia.com,media,ES,en,200,https://www.lavanguardia.com/rss/home.xml,1,150,2026-11-19,1920,,application/xml,482259
+https://nnub.es/blog/en/index.xml,nnub.es,media,ES,es,200,https://nnub.es/blog/en/index.xml,1,2,2024-08-17,712,,application/xml,1787
+https://e00-expansion.uecdn.es/rss/portada.xml,uecdn.es,media,ES,es,200,https://e00-expansion.uecdn.es/rss/portada.xml,1,72,2026-11-05,1632,,text/xml,135524
+https://www.hs.fi/rss/tuoreimmat.xml,hs.fi,media,FI,en,200,https://www.hs.fi/rss/tuoreimmat.xml,1,100,2026-11-19,1507,,text/xml; charset=UTF-8,60287
+https://kyberturvallisuuskeskus.fi/feed/rss/en,kyberturvallisuuskeskus.fi,media,FI,en,200,https://www.kyberturvallisuuskeskus.fi/feed/rss/en,1,295,2026-11-17,2677,,application/rss+xml; charset=utf-8,230419
+https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss,yle.fi,media,FI,en,200,https://yle.fi/rss/uutiset/paauutiset,1,12,2026-11-19,773,,application/rss+xml; charset=utf-8,7988
+https://www.20minutes.fr/feeds/rss-une.xml,20minutes.fr,media,FR,fr,200,https://www.20minutes.fr/feeds/rss-une.xml,1,30,2026-11-19,1852,,application/xml,149187
+http://www.agarri.fr/blog/rss.xml,agarri.fr,media,FR,fr,200,https://www.agarri.fr/blog/rss.xml,1,10,2021-04-23,1447,,application/xml,100940
+https://www.bencteux.fr/index.xml,bencteux.fr,media,FR,fr,200,https://www.bencteux.fr/index.xml,1,40,2026-11-15,1389,,text/xml,26344
+https://blog.christophetd.fr/feed/,christophetd.fr,media,FR,fr,200,https://blog.christophetd.fr/feed/,1,10,2024-11-28,3374,,application/rss+xml; charset=UTF-8,18346
+https://www.france24.com/en/rss,france24.com,media,FR,en,200,https://www.france24.com/en/rss,1,24,2026-11-19,242,,application/rss+xml; charset=utf-8,25550
+https://www.francetvinfo.fr/titres.rss,francetvinfo.fr,media,FR,fr,200,https://www.franceinfo.fr/titres.rss,1,29,2026-11-19,1985,,text/xml; charset=UTF-8,33782
+https://www.goichot.fr/posts/index.xml,goichot.fr,media,FR,fr,200,https://www.goichot.fr/posts/index.xml,1,3,2025-08-30,1469,,application/xml,5346
+https://www.huffingtonpost.fr/feeds/index.xml,huffingtonpost.fr,media,FR,fr,200,https://www.huffingtonpost.fr/rss/all_headline.xml,1,20,2026-11-19,605,,application/xml; charset=UTF-8,24805
+https://blog.kwiatkowski.fr/?q=en/rss.xml,kwiatkowski.fr,media,FR,fr,200,https://blog.kwiatkowski.fr/rss.xml,1,10,2026-10-27,1093,,application/rss+xml; charset=utf-8,7068
+https://www.ladepeche.fr/rss.xml,ladepeche.fr,media,FR,fr,200,https://www.ladepeche.fr/rss.xml,1,100,2026-11-19,1183,,text/xml; charset=UTF-8,135280
+https://lagazettecrypto.fr/feed/,lagazettecrypto.fr,media,FR,fr,200,https://lagazettecrypto.fr/feed/,1,20,2026-11-19,1987,,application/rss+xml; charset=UTF-8,442223
+https://lagazetteia.fr/feed/,lagazetteia.fr,media,FR,fr,200,https://lagazetteia.fr/feed/,1,10,2026-11-19,2307,,application/rss+xml; charset=UTF-8,186276
+https://www.lefigaro.fr/rss/figaro_actualites.xml,lefigaro.fr,media,FR,fr,200,https://www.lefigaro.fr/rss/figaro_actualites.xml,1,20,2026-11-19,1116,,application/xml,33979
+https://www.lemonde.fr/rss/une.xml,lemonde.fr,media,FR,fr,200,https://www.lemonde.fr/rss/une.xml,1,16,2026-11-19,2253,,application/xml; charset=UTF-8,22260
+https://blog.lexfo.fr/feeds/all.atom.xml,lexfo.fr,media,FR,fr,200,https://blog.lexfo.fr/feeds/all.atom.xml,1,27,2026-09-15,13917,,text/xml,2000000
+https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml,liberation.fr,media,FR,fr,200,https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml,1,50,2026-11-19,688,,application/xml; charset=utf-8,45585
+https://malcat.fr/rss.xml,malcat.fr,media,FR,fr,200,https://malcat.fr/rss.xml,1,31,2026-10-07,1393,,text/xml,21671
+https://www.mediapart.fr/articles/feed,mediapart.fr,media,FR,fr,200,https://www.mediapart.fr/articles/feed,1,10,2026-11-19,1708,,application/rss+xml; charset=utf-8,17150
+https://www.nouvelobs.com/a-la-une/rss.xml,nouvelobs.com,media,FR,en,200,https://www.nouvelobs.com/a-la-une/rss.xml,1,288,2026-11-19,2036,,text/xml,303990
+https://www.ouest-france.fr/rss-en-continu.xml,ouest-france.fr,media,FR,fr,200,https://www.ouest-france.fr/rss/une,1,10,2026-11-19,808,,application/xml;charset=UTF-8,18633
+https://www.parisstaronline.com/feed,parisstaronline.com,media,FR,en,200,https://www.parisstaronline.com/feed,1,8,2026-09-27,1180,,application/rss+xml; charset=UTF-8,32048
+https://blog.randorisec.fr/index.xml,randorisec.fr,media,FR,fr,200,https://blog.randorisec.fr/index.xml,1,109,2026-11-17,1662,,application/xml,84561
+https://www.rfi.fr/en/rss,rfi.fr,media,FR,fr,200,https://www.rfi.fr/en/rss,1,22,2026-11-19,1985,,application/rss+xml; charset=utf-8,26534
+https://www.romainthomas.fr/index.xml,romainthomas.fr,media,FR,fr,200,https://www.romainthomas.fr/index.xml,1,52,2026-10-31,8147,,application/xml,1887230
+https://www.sudouest.fr/essentiel/rss.xml,sudouest.fr,media,FR,fr,403,https://www.sudouest.fr/essentiel/rss.xml,0,0,,511,,text/html,884
+https://alfiecg.uk/feed.xml,alfiecg.uk,media,GB,en,200,https://alfiecg.uk/feed.xml,1,7,2026-10-17,1061,,application/xml,3771
+https://analyticsfc.co.uk/feed/,analyticsfc.co.uk,media,GB,en,200,https://analyticsfc.co.uk/feed/,1,10,2026-10-01,3734,,application/rss+xml; charset=UTF-8,120244
+https://www.bordergate.co.uk/feed/,bordergate.co.uk,media,GB,en,200,https://www.bordergate.co.uk/feed/,1,15,2026-11-10,1243,,application/rss+xml; charset=UTF-8,11969
+https://blog.byteray.co.uk/feeds/all.atom.xml,byteray.co.uk,media,GB,en,200,https://blog.byteray.co.uk/feeds/all.atom.xml,1,10,2026-11-02,1679,,application/xml,163952
+https://www.cqcore.uk/feed/,cqcore.uk,media,GB,en,200,https://cqcore.blog/feed/,1,5,2026-05-27,9461,,application/rss+xml; charset=UTF-8,2000000
+https://www.dailymail.co.uk/home/index.rss,dailymail.co.uk,media,GB,en,200,https://www.dailymail.com/home/index.rss,1,150,2026-11-19,5893,,application/xml; charset=utf-8,193602
+https://www.darknet.org.uk/feed/,darknet.org.uk,media,GB,en,200,https://www.darknet.org.uk/feed/,1,10,2026-11-17,1226,,application/rss+xml; charset=UTF-8,11655
+https://www.databreachtoday.co.uk/rssFeeds.php?type=main,databreachtoday.co.uk,media,GB,en,200,https://www.databreachtoday.co.uk/rssFeeds.php?type=main,1,20,,2546,,text/xml;charset=UTF-8,13758
+https://dtm.uk/rss/,dtm.uk,media,GB,en,200,https://dtm.uk/rss/,1,12,2025-09-10,1278,,application/rss+xml; charset=utf-8,182316
+http://www.economist.com/sections/business-finance/rss.xml,economist.com,media,GB,en,403,https://www.economist.com/rss,0,0,,551,,text/html; charset=UTF-8,5726
+https://www.express.co.uk/posts/rss/77/news,express.co.uk,media,GB,en,202,https://www.express.co.uk/posts/rss/77/news,0,0,,130,empty body (status 202),text/html; charset=UTF-8,0
+https://www.ft.com/rss/home,ft.com,media,GB,en,200,https://www.ft.com/rss/home/international,1,10,2026-11-19,580,,text/xml; charset=utf-8,7738
+http://www.independent.co.uk/news/uk/rss,independent.co.uk,media,GB,en,200,https://www.independent.co.uk/news/uk/rss,1,72,2026-11-19,1104,,text/xml; charset=utf-8,83424
+https://blog.jonsdocs.org.uk/rss/,jonsdocs.org.uk,media,GB,en,200,https://blog.jonsdocs.org.uk/rss/,1,15,2026-09-09,2014,,application/rss+xml; charset=utf-8,143831
+http://blog.kaspersky.co.uk/feed/,kaspersky.co.uk,media,GB,en,200,https://www.kaspersky.co.uk/blog/feed/,1,10,2026-11-18,6262,,application/rss+xml; charset=UTF-8,184323
+https://mccaulay.co.uk/feed/,mccaulay.co.uk,media,GB,en,200,https://mccaulay.co.uk/feed/,1,7,2026-10-07,2609,,application/rss+xml; charset=UTF-8,255365
+https://www.mdsec.co.uk/feed/,mdsec.co.uk,media,GB,en,0,,0,0,,15266,timeout,,0
+http://www.mirror.co.uk/news/world-news/rss.xml,mirror.co.uk,media,GB,en,202,https://www.mirror.co.uk/news/world-news/?service=rss,0,0,,1024,empty body (status 202),text/html; charset=UTF-8,0
+https://catless.ncl.ac.uk/risksrss2.xml,ncl.ac.uk,media,GB,en,200,https://catless.ncl.ac.uk/risksrss2.xml,1,1,2026-05-18,1024,,text/xml,1235
+https://nickbloor.co.uk/feed/,nickbloor.co.uk,media,GB,en,200,https://nickbloor.co.uk/feed/,1,10,2020-10-05,1715,,application/rss+xml; charset=UTF-8,307722
+https://offensivedefence.co.uk/index.xml,offensivedefence.co.uk,media,GB,en,200,https://offensivedefence.co.uk/index.xml,1,29,2024-02-04,761,,application/xml,25462
+https://labs.portcullis.co.uk/feed/,portcullis.co.uk,media,GB,en,200,https://labs.portcullis.co.uk/feed/,1,10,2019-06-28,905,,text/html; charset=utf-8,66824
+https://redteaming.co.uk/feed/,redteaming.co.uk,media,GB,en,200,https://redteaming.co.uk/feed/,1,9,2021-10-28,1139,,application/rss+xml; charset=UTF-8,198593
+http://feeds.reuters.com/reuters/INbusinessNews,reuters.com,media,GB,en,0,,0,0,,32,"ConnectionError: HTTPConnectionPool(host='feeds.reuters.com', port=80): Max retries exceeded with url: /reuters/INbusinessNews (Caused by NameResolutionError(""HTTPConnection(host='feeds.reuters.com",,0
+https://blog.rothe.uk/rss/,rothe.uk,media,GB,en,503,https://blog.rothe.uk/rss/,0,0,,800,,text/html,108
+https://scotthelme.co.uk/rss/,scotthelme.co.uk,media,GB,en,200,https://scotthelme.co.uk/rss/,1,15,2026-11-17,2095,,application/rss+xml; charset=utf-8,263115
+https://www.telegraph.co.uk/rss.xml,telegraph.co.uk,media,GB,en,200,https://www.telegraph.co.uk/rss.xml,1,120,2026-11-19,1730,,text/xml; charset=utf-8,146910
+https://www.thegoodpenguin.co.uk/feed/,thegoodpenguin.co.uk,media,GB,en,200,https://www.thegoodpenguin.co.uk/feed/,1,10,2026-11-16,1877,,application/rss+xml; charset=UTF-8,214450
+https://www.theguardian.com/world/rss,theguardian.com,media,GB,en,200,https://www.theguardian.com/world/rss,1,45,2026-11-19,1735,,text/xml; charset=UTF-8,159684
+http://www.theregister.co.uk/security/headlines.atom,theregister.co.uk,media,GB,en,200,https://api.theregister.com/api/v1/article?orderBy=published&site_id=2&remapper=rss&query=tag:security,1,50,2026-11-19,1623,,application/xml,243135
+https://thespanner.co.uk/rss.xml,thespanner.co.uk,media,GB,en,429,https://thespanner.co.uk/rss.xml,0,0,,456,,text/html; charset=utf-8,25091
+https://timleonard.uk/atom.xml,timleonard.uk,media,GB,en,200,https://timleonard.uk/atom.xml,1,7,2022-06-20,1459,,application/xml,344781
+https://www.da.vidbuchanan.co.uk/blog/rss.xml,vidbuchanan.co.uk,media,GB,en,200,https://www.da.vidbuchanan.co.uk/blog/rss.xml,1,38,2026-10-29,923,,text/xml,11661
+https://blog.zsec.uk/rss/,zsec.uk,media,GB,en,200,https://blog.zsec.uk/rss/,1,15,2026-11-15,2472,,application/rss+xml; charset=utf-8,495659
+https://dmitry.gr/rss.php,dmitry.gr,media,GR,en,200,https://dmitry.gr/rss.php,1,49,2026-08-17,459,,application/rss+xml,23274
+https://www.pavel.gr/rss.xml,pavel.gr,media,GR,en,200,https://www.pavel.gr/rss.xml,1,5,2026-05-19,820,,application/xml,2346
+http://securityblog.gr/feed/,securityblog.gr,media,GR,en,200,https://logisek.com/feed/,1,4,2024-06-26,1533,,application/rss+xml; charset=UTF-8,32164
+https://www.hket.com/rss/hongkong,hket.com,media,HK,zh,405,https://www.hket.com/rss/hongkong,0,0,,257,,text/html; charset=UTF-8,2177
+https://www.hongkongfp.com/feed/,hongkongfp.com,media,HK,en,200,https://hongkongfp.com/feed/,1,30,2026-11-19,2670,,application/rss+xml; charset=UTF-8,394494
+http://feeds.hongkongnews.net/rss/b82693edf38ebff8,hongkongnews.net,media,HK,zh,200,http://feeds.hongkongnews.net/rss/b82693edf38ebff8,1,70,2026-11-19,852,,application/xml; charset=utf-8,63819
+https://mystiz.hk/index.xml,mystiz.hk,media,HK,zh,200,https://mystiz.hk/index.xml,1,85,2025-06-29,5347,,application/xml,264723
+https://www.scmp.com/rss/91/feed,scmp.com,media,HK,en,200,https://www.scmp.com/rss/91/feed/,1,50,2026-11-19,2105,,text/xml; charset=utf-8,81660
+https://hd.stheadline.com/rss/news/daily/,stheadline.com,media,HK,zh,200,https://www.stheadline.com/,0,0,,1377,,text/html; charset=utf-8,247682
+https://www.thestandard.com.hk/newsfeed/latest/news.xml,thestandard.com.hk,media,HK,zh,200,https://www.thestandard.com.hk/404,0,0,,475,,text/html; charset=utf-8,48623
+https://hungarytoday.hu/feed/,hungarytoday.hu,media,HU,en,200,https://hungarytoday.hu/feed/,1,5,2026-11-19,1686,,application/rss+xml; charset=UTF-8,40568
+https://joshua.hu/feed.xml,joshua.hu,media,HU,en,200,https://joshua.hu/feed.xml,1,10,2026-11-16,1560,,application/xml,109872
+https://pfeifferszilard.hu/feed.xml,pfeifferszilard.hu,media,HU,en,200,https://pfeifferszilard.hu/feed.xml,1,10,2026-07-28,2539,,text/xml,259005
+https://telex.hu/rss,telex.hu,media,HU,en,403,https://telex.hu/rss,0,0,,376,,text/html; charset=UTF-8,5703
+https://www.merdeka.com/feed/,merdeka.com,media,ID,en,404,https://www.merdeka.com/feed,0,0,,1683,,text/html; charset=UTF-8,76788
+https://www.republika.co.id/rss/,republika.co.id,media,ID,en,200,https://www.republika.co.id/rss/,1,15,2026-11-19,1702,,application/xml; charset=utf-8,25231
+https://www.suara.com/rss,suara.com,media,ID,en,404,https://www.suara.com/404,0,0,,673,,text/html; charset=UTF-8,78539
+https://www.tribunnews.com/rss,tribunnews.com,media,ID,en,200,https://www.tribunnews.com/rss,1,20,2026-11-19,847,,text/xml;charset=UTF-8,23938
+https://bhconsulting.ie/feed/,bhconsulting.ie,media,IE,en,200,https://bhconsulting.ie/feed/,1,10,2026-11-16,1322,,application/rss+xml; charset=UTF-8,42648
+https://feeds.breakingnews.ie/bntopstories,breakingnews.ie,media,IE,en,200,https://feeds.breakingnews.ie/bntopstories,1,5,2026-09-01,1457,,text/xml; charset=utf-8,9918
+http://ianduffy.ie/index.xml,ianduffy.ie,media,IE,en,200,https://ianduffy.ie/index.xml,1,24,2026-06-30,2065,,application/xml,21868
+https://www.independent.ie/rss,independent.ie,media,IE,en,200,https://www.independent.ie/rss/,1,50,2026-11-19,1178,,text/xml; charset=utf-8,67195
+https://www.irishexaminer.com/feed/35-top_news.xml,irishexaminer.com,media,IE,en,200,https://www.irishexaminer.com/feed/35-top_news.xml,1,9,2026-11-19,561,,application/rss+xml; charset=utf-8,10561
+https://www.irishmirror.ie/?service=rss,irishmirror.ie,media,IE,en,202,https://www.irishmirror.ie/?service=rss,0,0,,305,empty body (status 202),text/html; charset=UTF-8,0
+https://www.rte.ie/feeds/rss/?index=/news/,rte.ie,media,IE,en,200,https://www.rte.ie/feeds/rss/?index=/news/,1,60,2026-11-19,2084,,application/rss+xml; charset=utf-8,38011
+https://www.the42.ie/feed/,the42.ie,media,IE,en,200,https://www.the42.ie/feed/,1,40,2026-11-19,1441,,application/rss+xml; charset=utf-8,48804
+https://www.thejournal.ie/feed/,thejournal.ie,media,IE,en,200,https://www.thejournal.ie/feed/,1,40,2026-11-19,1752,,application/rss+xml; charset=utf-8,52698
+https://www.timesofisrael.com/feed/,timesofisrael.com,media,IL,en,403,https://www.timesofisrael.com/feed/,0,0,,642,,text/html; charset=UTF-8,12821
+https://www.amarujala.com/rss/breaking-news.xml,amarujala.com,media,IN,en,200,https://www.amarujala.com/rss/breaking-news.xml,1,11,2026-11-19,316,,application/xml,16974
+http://feeds.bbci.co.uk/news/world/asia/india/rss.xml,bbci.co.uk,media,IN,en,200,https://feeds.bbci.co.uk/news/world/asia/india/rss.xml,1,22,2026-11-19,1307,,text/xml; charset=utf-8,17408
+https://www.bhaskar.com/rss-feed/1061/,bhaskar.com,media,IN,en,200,https://www.bhaskar.com/rss-feed/1061/,1,52,2026-11-19,784,,application/xml; charset=utf-8,469855
+https://bitsadm.in/feed/,bitsadm.in,media,IN,en,200,https://bitsadm.in/feed/,0,0,,989,,text/html; charset=UTF-8,2634
+https://www.business-standard.com/rss/home_page_top_stories.rss,business-standard.com,media,IN,en,200,https://www.business-standard.com/rss/home_page_top_stories.rss,1,11,2026-11-19,931,,application/rss+xml,16402
+https://www.deccanchronicle.com/rss_feed/,deccanchronicle.com,media,IN,en,200,https://www.deccanchronicle.com/feeds.xml,1,640,2026-11-19,6895,,text/xml; charset=utf-8,477650
+https://www.divyabhaskar.co.in/rss-feed/1037/,divyabhaskar.co.in,media,IN,en,200,https://www.divyabhaskar.co.in/rss-feed/1037/,1,38,2026-11-19,2000,,application/xml; charset=utf-8,369200
+https://www.dnaindia.com/feeds/india.xml,dnaindia.com,media,IN,en,403,https://www.dnaindia.com/feeds/india.xml,0,0,,334,,text/html,391
+https://www.financialexpress.com/feed/,financialexpress.com,media,IN,en,410,https://www.financialexpress.com/feed/,0,0,,3180,xml but not a feed,text/xml; charset=UTF-8,214
+https://www.firstpost.com/rss/india.xml,firstpost.com,media,IN,en,403,https://www.firstpost.com/rss/india.xml,0,0,,321,,text/html,392
+https://www.freepressjournal.in/stories.rss,freepressjournal.in,media,IN,en,200,https://www.freepressjournal.in/stories.rss,1,126,2026-11-19,4894,,text/xml;charset=UTF-8,761740
+https://www.gujaratsamachar.com/rss/top-stories,gujaratsamachar.com,media,IN,en,404,https://www.gujaratsamachar.com/rss/top-stories,0,0,,828,,text/html; charset=utf-8,29229
+http://www.hackingarticles.in/feed/,hackingarticles.in,media,IN,en,200,https://www.hackingarticles.in/feed/,1,10,2026-09-25,2204,,application/rss+xml; charset=UTF-8,251001
+https://haxx.in/index.xml,haxx.in,media,IN,en,200,https://haxx.in/index.xml,1,10,2025-09-23,839,,application/xml,29825
+http://indianexpress.com/print/front-page/feed/,indianexpress.com,media,IN,en,200,https://indianexpress.com/print/front-page/,0,0,,1652,,text/html; charset=UTF-8,953708
+https://timesofindia.indiatimes.com/rssfeedstopstories.cms,indiatimes.com,media,IN,en,200,https://timesofindia.indiatimes.com/rssfeedstopstories.cms,1,46,2026-11-19,296,,text/xml;charset=UTF-8,49637
+https://www.indiatoday.in/rss/home,indiatoday.in,media,IN,en,200,https://www.indiatoday.in/rss/home,1,133,2026-11-19,513,,text/xml,130801
+https://www.jansatta.com/feed/,jansatta.com,media,IN,en,200,https://www.jansatta.com/,0,0,,1536,,text/html; charset=UTF-8,979767
+https://feed.livehindustan.com/rss/3127,livehindustan.com,media,IN,en,200,https://feed.livehindustan.com/rss/3127,1,21,2024-10-14,537,,application/rss+xml; charset=utf-8,29956
+https://www.loksatta.com/desh-videsh/feed/,loksatta.com,media,IN,en,200,https://www.loksatta.com/desh-videsh/,0,0,,1236,,text/html; charset=UTF-8,422743
+https://maharashtratimes.com/rssfeedsdefault.cms,maharashtratimes.com,media,IN,en,404,https://maharashtratimes.com/rssfeedsdefault.cms,0,0,,810,,text/html,1226
+http://www.moneycontrol.com/rss/latestnews.xml,moneycontrol.com,media,IN,en,200,https://www.moneycontrol.com/rss/latestnews.xml,1,15,2024-04-23,1157,,application/xml,15347
+https://www.news18.com/rss/world.xml,news18.com,media,IN,en,403,https://www.news18.com/rss/world.xml,0,0,,518,,text/html,389
+https://www.oneindia.com/rss/news-fb.xml,oneindia.com,media,IN,en,200,https://www.oneindia.com/rss/news-fb.xml,1,30,2023-01-20,634,,text/xml;charset=UTF-8,29793
+https://www.outlookindia.com/rss/main/magazine,outlookindia.com,media,IN,en,404,https://www.outlookindia.com/rss/main/magazine,0,0,,728,,text/html; charset=utf-8,74581
+http://api.patrika.com/rss/india-news,patrika.com,media,IN,en,0,,0,0,,15776,timeout,,0
+https://www.prakati.in/feed/,prakati.in,media,IN,en,200,https://prakati.in/feed/,1,5,2026-10-20,2873,,application/rss+xml; charset=UTF-8,8161
+https://www.thehindu.com/news/international/feeder/default.rss,thehindu.com,media,IN,en,200,https://www.thehindu.com/news/international/feeder/default.rss,1,60,2026-11-19,875,,application/xml,50858
+https://www.thehindubusinessline.com/feeder/default.rss,thehindubusinessline.com,media,IN,en,200,https://www.thehindubusinessline.com/feeder/default.rss,1,60,2026-11-19,1062,,application/xml,47565
+https://theprint.in/feed/,theprint.in,media,IN,en,403,https://theprint.in/feed/,0,0,,623,,text/html,555
+https://badoption.eu/feed.xml,badoption.eu,media,INT,en,200,https://badoption.eu/feed.xml,1,10,2026-02-28,3235,,application/xml,217050
+https://www.bellingcat.com/feed/,bellingcat.com,media,INT,en,200,https://www.bellingcat.com/feed/,1,10,2026-11-05,2533,,application/rss+xml; charset=UTF-8,267528
+https://blog.es3n1n.eu/rss.xml,es3n1n.eu,media,INT,en,200,https://es3n1n.eu/rss.xml,1,3,2026-06-29,2016,,application/xml,1190
+https://www.muusikaauhinnad.eu/feed/,muusikaauhinnad.eu,media,INT,en,200,https://www.muusikaauhinnad.eu/feed/,1,10,2026-10-22,5428,,application/rss+xml; charset=UTF-8,51929
+https://noyb.eu/feed,noyb.eu,media,INT,en,200,https://noyb.eu/en/rss,1,236,2026-10-29,11067,,application/rss+xml; charset=utf-8,2000000
+https://blog.nviso.eu/feed/,nviso.eu,media,INT,en,200,https://blog.nviso.eu/feed/,1,10,2026-11-17,4489,,application/rss+xml; charset=UTF-8,696450
+https://www.politico.eu/feed,politico.eu,media,INT,en,200,https://www.politico.eu/feed/,1,10,2026-11-19,3022,,application/rss+xml; charset=UTF-8,187318
+https://sifted.eu/feed,sifted.eu,media,INT,en,200,https://sifted.eu/feed,1,24,2026-11-19,1321,,application/rss+xml,9563
+http://blog.silentsignal.eu/feed/,silentsignal.eu,media,INT,en,200,https://blog.silentsignal.eu/feed/,1,80,2026-11-10,1897,,application/xml,84665
+https://syscall.eu/blog/atom.xml,syscall.eu,media,INT,en,200,https://syscall.eu/blog/atom.xml,1,10,2024-12-20,2527,,text/xml,26622
+https://blog.tclaverie.eu/index.xml,tclaverie.eu,media,INT,en,200,https://blog.tclaverie.eu/index.xml,1,14,2021-09-27,1808,,text/xml,12388
+https://tech.eu/feed/,tech.eu,media,INT,en,200,https://tech.eu/feed/,1,20,2026-11-19,2233,,application/rss+xml; charset=utf-8,129247
+https://threatintel.eu/feed/,threatintel.eu,media,INT,en,200,https://threatintel.eu/feed/,1,10,2024-09-17,1172,,application/rss+xml; charset=UTF-8,80124
+https://tsmr.eu/rss.xml,tsmr.eu,media,INT,en,200,https://tsmr.eu/rss.xml,1,9,2026-11-16,2121,,application/xml,5394
+http://www.vanimpe.eu/feed/rss/,vanimpe.eu,media,INT,en,404,http://www.vanimpe.eu/feed/rss/,0,0,,765,,text/html,564
+https://wiremask.eu/atom.xml,wiremask.eu,media,INT,en,200,https://wiremask.eu/atom.xml,1,20,,2272,,text/xml,108985
+https://www.asriran.com/fa/rss/allnews,asriran.com,media,IR,en,200,https://www.asriran.com/fa/rss/allnews,1,100,2026-11-19,1735,,application/xml; charset=utf-8,83263
+https://www.isna.ir/rss,isna.ir,media,IR,en,200,https://www.isna.ir/rss,1,30,2026-11-19,2578,,application/rss+xml;charset=UTF-8,46748
+https://www.khabaronline.ir/rss,khabaronline.ir,media,IR,en,200,https://www.khabaronline.ir/rss,1,30,2026-11-19,1565,,application/rss+xml;charset=UTF-8,48271
+https://www.mehrnews.com/rss,mehrnews.com,media,IR,en,200,https://www.mehrnews.com/rss,1,30,2026-11-19,1059,,application/rss+xml; charset=UTF-8,43028
+https://www.tabnak.ir/fa/rss/allnews,tabnak.ir,media,IR,en,200,https://tabnak.ir/fa/rss/allnews,1,30,2026-11-19,2660,,application/rss+xml; charset=utf-8,34784
+https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85,tasnimnews.com,media,IR,en,0,,0,0,,96,"ConnectionError: HTTPSConnectionPool(host='www.tasnimnews.com', port=443): Max retries exceeded with url: /fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B",,0
+https://www.yjc.ir/fa/rss/allnews,yjc.ir,media,IR,en,200,https://www.yjc.ir/fa/rss/allnews,1,20,2026-11-19,1681,,application/xml,16439
+http://rss.adnkronos.com/RSS_PrimaPagina.xml,adnkronos.com,media,IT,en,200,https://www.adnkronos.com/RSS_PrimaPagina.xml,1,12,2026-11-19,3751,,application/rss+xml;charset=UTF-8,16542
+https://www.ansa.it/sito/ansait_rss.xml,ansa.it,media,IT,en,200,https://www.ansa.it/sito/ansait_rss.xml,1,28,2026-11-19,2800,,text/xml; charset=utf-8,18647
+https://bergee.it/blog/feed/,bergee.it,media,IT,en,200,https://bergee.it/blog/feed/,1,10,2026-08-05,1451,,application/rss+xml; charset=UTF-8,65406
+https://ceres-c.it/feed.xml,ceres-c.it,media,IT,en,200,https://ceres-c.it/feed.xml,1,6,2021-11-21,2076,,application/xml,97083
+http://blog.cesaregallotti.it/feeds/posts/default,cesaregallotti.it,media,IT,en,200,http://blog.cesaregallotti.it/feeds/posts/default,1,25,2026-11-16,780,,application/atom+xml; charset=UTF-8,96700
+https://codiceinsicuro.it/feed.xml,codiceinsicuro.it,media,IT,en,200,https://codiceinsicuro.it/feed.xml,1,10,2026-08-05,1932,,text/xml; charset=utf-8,66259
+https://www.dalchecco.it/feed/,dalchecco.it,media,IT,en,200,https://www.dalchecco.it/feed/,1,10,2026-10-21,2886,,application/rss+xml; charset=UTF-8,145191
+https://www.diariodelweb.it/rss/home/,diariodelweb.it,media,IT,en,200,https://www.diariodelweb.it/rss/home/,1,25,2022-12-09,751,,application/xml; Charset=UTF-8,23953
+http://www.dicorinto.it/feed,dicorinto.it,media,IT,en,200,https://dicorinto.it/feed/,1,30,2026-11-15,3290,,application/rss+xml; charset=UTF-8,143430
+https://blog.digital-forensics.it/feeds/posts/default,digital-forensics.it,media,IT,en,200,https://blog.digital-forensics.it/feeds/posts/default,1,12,2026-07-28,8865,,application/atom+xml; charset=UTF-8,2000000
+http://www.dirittodellinformatica.it/feed,dirittodellinformatica.it,media,IT,en,200,https://www.dirittodellinformatica.it/feed/,1,10,2026-06-19,3087,,application/rss+xml; charset=UTF-8,16355
+https://www.fanpage.it/feed/,fanpage.it,media,IT,en,403,https://www.fanpage.it/feed/,0,0,,545,,text/html,375
+http://hacktips.it/feed/,hacktips.it,media,IT,en,200,https://hacktips.it/feed.xml,1,170,2023-07-03,2295,,text/xml,150404
+https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss,ilmattino.it,media,IT,en,200,https://www.ilmattino.it/?sez=XML&args&p=search&args%5Bbox%5D=Home&limit=20&layout=rss,1,20,2026-11-19,1931,,application/xml; charset=UTF-8,22015
+https://www.ilpost.it/feed/,ilpost.it,media,IT,en,403,https://www.ilpost.it/feed/,0,0,,705,,text/html,1225
+https://www.ilsole24ore.com/rss/italia.xml,ilsole24ore.com,media,IT,en,200,https://www.ilsole24ore.com/rss/italia.xml,1,12,2026-11-19,556,,text/xml,14502
+https://www.internazionale.it/sitemaps/rss.xml,internazionale.it,media,IT,en,200,https://www.internazionale.it/sitemaps/rss.xml,1,100,2026-11-19,1790,,text/xml,68764
+https://www.liberoquotidiano.it/rss.xml,liberoquotidiano.it,media,IT,en,404,https://www.liberoquotidiano.it/rss.xml,0,0,,979,,text/html; charset=utf-8,76513
+https://www.milannews.it/rss/,milannews.it,media,IT,en,200,https://www.milannews.it/rss/,1,20,2026-11-19,1801,,application/rss+xml; charset=UTF-8,17918
+https://www.panorama.it/feeds/feed.rss,panorama.it,media,IT,en,200,https://www.panorama.it/feed/gn,1,10,2026-11-19,2901,,application/rss+xml; charset=UTF-8,65031
+https://blog.pasqualefiorillo.it/feed/,pasqualefiorillo.it,media,IT,en,200,https://blog.pasqualefiorillo.it/feed/,1,10,2026-06-19,2058,,application/rss+xml; charset=UTF-8,110325
+https://www.repubblica.it/rss/homepage/rss2.0.xml,repubblica.it,media,IT,en,200,https://www.repubblica.it/rss/homepage/rss2.0.xml,1,30,2026-11-19,2178,,application/xml,28161
+https://www.securityinfo.it/feed/,securityinfo.it,media,IT,en,200,https://www.securityinfo.it/feed/,1,10,2026-10-28,2128,,application/rss+xml; charset=UTF-8,26140
+https://www.shielder.it/blog/index.xml,shielder.it,media,IT,en,200,https://www.shielder.com/blog/index.xml,1,33,2026-11-10,2114,,text/xml,51726
+http://www.tgsoft.it/feed/feed.asp,tgsoft.it,media,IT,en,200,http://www.tgsoft.it/feed/feed.asp,1,50,2026-11-10,5682,,application/rss+xml,1388096
+https://feeds.thelocal.com/rss/it,thelocal.com,media,IT,en,200,https://feeds.thelocal.com/rss/it,1,20,2026-11-19,1448,,text/xml; charset=utf-8,17721
+http://www.wisec.it/sectou.php?rss,wisec.it,media,IT,en,200,http://www.wisec.it/sectou.php?rss,1,20,2011-09-12,1606,,text/xml,59902
+http://rss.asahi.com/rss/asahi/newsheadlines.rdf,asahi.com,media,JP,en,200,http://rss.asahi.com/rss/asahi/newsheadlines.rdf,1,40,2026-11-19,666,,text/html,21162
+https://asia.nikkei.com/rss/feed/nar,asia.nikkei.com,media,JP,en,200,https://asia.nikkei.com/rss/feed/nar,1,50,,1076,,application/rss+xml,26663
+https://www.japantimes.co.jp/feed/topstories/,japantimes.co.jp,media,JP,ja,200,https://www.japantimes.co.jp/feed/topstories/,1,5,2025-02-27,1540,,application/rss+xml; charset=utf-8,7523
+https://japantoday.com/feed,japantoday.com,media,JP,en,403,https://japantoday.com/feed,0,0,,725,,text/html,366
+https://www.jpcert.or.jp/rss/jpcert.rdf,jpcert.or.jp,media,JP,ja,200,https://www.jpcert.or.jp/rss/jpcert.rdf,1,31,2026-11-18,1851,,application/rdf+xml,20772
+https://english.kyodonews.net/rss/all.xml,kyodonews.net,media,JP,en,404,https://english.kyodonews.net/rss/all.xml,0,0,,1138,,text/html; charset=utf-8,15129
+https://news.livedoor.com/topics/rss/top.xml,livedoor.com,media,JP,en,404,https://news.livedoor.com/topics/rss/top.xml,0,0,,560,,text/html; charset=UTF-8,2771
+http://www.newsonjapan.com/rss/top.xml,newsonjapan.com,media,JP,en,200,http://www.newsonjapan.com/rss/top.xml,1,50,2026-11-19,954,,application/xml,29571
+https://en.yna.co.kr/RSS/news.xml,en.yna.co.kr,media,KR,en,200,https://en.yna.co.kr/RSS/news.xml,1,103,2026-11-19,2883,,application/xml;charset=UTF-8,68808
+https://hacking.kaist.ac.kr/index.xml,kaist.ac.kr,media,KR,ko,200,https://hacking.kaist.ac.kr/index.xml,1,67,2026-12-01,1720,,application/xml,18546
+https://cert.lv/en/feed/rss/all,cert.lv,media,LV,en,200,https://cert.lv/en/feed/rss/all,1,18,2026-11-05,1874,,application/rss+xml; charset=utf-8,10667
+http://www.dvb.no/feed,dvb.no,media,MM,en,200,https://burmese.dvb.no,0,0,,2886,,text/html; charset=utf-8,173265
+http://myanmargazette.net/feed,myanmargazette.net,media,MM,en,404,http://myanmargazette.net/feed,0,0,,146,,text/html; charset=utf-8,143
+http://www.thithtoolwin.com/feeds/posts/default,thithtoolwin.com,media,MM,en,404,https://www.thithtoolwin.com/feeds/posts/default,0,0,,3125,,text/html; charset=UTF-8,60918
+https://www.24-horas.mx/feed/,24-horas.mx,media,MX,es,200,https://24-horas.mx/feed/,1,30,2026-11-19,1936,,application/rss+xml; charset=UTF-8,295542
+https://8columnas.com.mx/feed/,8columnas.com.mx,media,MX,es,200,https://8columnas.com.mx/feed/,1,12,2026-11-18,2035,,text/xml,46709
+https://www.debate.com.mx/rss/feed.xml,debate.com.mx,media,MX,es,403,https://www.debate.com.mx/rss/feed.xml,0,0,,822,xml but not a feed,"text/xml;charset=UTF-8, text/html",2944
+https://diario.mx/jrz/media/sitemaps/rss.xml,diario.mx,media,MX,es,200,https://diario.mx/,0,0,,1173,,text/html; charset=UTF-8,201894
+https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml,elfinanciero.com.mx,media,MX,es,200,https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml,1,100,2026-11-19,2446,,application/xml; charset=utf-8,795614
+https://www.elnorte.com/rss/portada.xml,elnorte.com,media,MX,en,200,https://www.elnorte.com/rss/portada.xml,1,10,2026-11-19,1628,,text/xml,13211
+https://www.elsiglodetorreon.com.mx/index.xml,elsiglodetorreon.com.mx,media,MX,es,200,https://www.elsiglodetorreon.com.mx/index.xml,1,13,2026-11-19,1603,,text/xml; charset=UTF-8,28868
+https://www.eluniversal.com.mx/seccion/1671/rss.xml,eluniversal.com.mx,media,MX,es,404,https://www.eluniversal.com.mx/seccion/1671/rss.xml,0,0,,1454,,text/html; charset=utf-8,935303
+https://www.excelsior.com.mx/rss.xml,excelsior.com.mx,media,MX,es,404,https://www.excelsior.com.mx/rss.xml,0,0,,451,,text/html; charset=UTF-8,56328
+https://www.informador.mx/rss/ultimas-noticias.xml,informador.mx,media,MX,es,200,https://www.informador.mx/rss/ultimas-noticias.xml,1,50,2026-11-19,1712,,text/xml;charset=UTF-8,37886
+https://mexiconewsdaily.com/feed/,mexiconewsdaily.com,media,MX,en,200,https://mexiconewsdaily.com/feed/,1,10,2026-11-19,1056,,application/rss+xml; charset=UTF-8,23012
+https://quequi.com.mx/feed/,quequi.com.mx,media,MX,es,0,,0,0,,15095,timeout,,0
+https://www.reforma.com/rss/portada.xml,reforma.com,media,MX,en,200,https://www.reforma.com/rss/portada.xml,1,6,2026-11-19,346,,text/xml,8478
+https://vanguardia.com.mx/rss.xml,vanguardia.com.mx,media,MX,es,403,https://vanguardia.com.mx/rss.xml,0,0,,212,,text/html; charset=UTF-8,5738
+https://itssho.my/feed.xml,itssho.my,media,MY,en,200,https://itssho.my/feed.xml,1,5,2026-07-06,1154,,application/xml,109631
+https://dailypost.ng/feed,dailypost.ng,media,NG,en,200,https://dailypost.ng/feed/,1,20,2026-11-19,1290,,application/rss+xml; charset=UTF-8,102128
+https://guardian.ng/feed/,guardian.ng,media,NG,en,403,https://guardian.ng/feed/,0,0,,141,,text/html; charset=UTF-8,5473
+https://www.informationng.com/feed,informationng.com,media,NG,en,200,https://www.informationng.com/feed,1,60,2026-11-18,2579,,application/rss+xml; charset=UTF-8,243233
+https://www.legit.ng/rss/all.rss,legit.ng,media,NG,en,200,https://www.legit.ng/rss/all.rss,1,30,2026-11-19,191,,text/xml;charset=UTF-8,25470
+https://www.nigerianbulletin.com/forums/-/index.rss,nigerianbulletin.com,media,NG,en,200,https://www.nigerianbulletin.com/.stile/challenge?rung=nojs&band=watch&return=%2Fforums%2F-%2Findex.rss&sig=c36bd8241563a886c7872c0e201df073d8788e56c7e2fd7aeabe515a5831ae55&aud=www.nigerianbulletin.com&aid=ef021b4d09c38f4bdc3431e6667bdf25,0,0,,686,,text/html; charset=utf-8,2917
+https://www.premiumtimesng.com/feed,premiumtimesng.com,media,NG,en,200,https://www.premiumtimesng.com/feed,1,15,2026-11-19,1195,,application/rss+xml; charset=UTF-8,44640
+http://saharareporters.com/feeds/latest/feed,saharareporters.com,media,NG,en,404,https://saharareporters.com/feeds/latest/feed,0,0,,1159,,text/html; charset=UTF-8,27721
+https://thenationonlineng.net/feed/,thenationonlineng.net,media,NG,en,403,https://thenationonlineng.net/feed/,0,0,,817,,text/html; charset=UTF-8,5736
+http://tribuneonlineng.com/feed/,tribuneonlineng.com,media,NG,en,200,https://tribuneonlineng.com/feed/,1,20,2026-11-19,1340,,application/rss+xml; charset=UTF-8,25213
+https://www.bof.nl/feed/,bof.nl,media,NL,en,200,https://www.bitsoffreedom.nl/feed/,1,30,2026-11-19,4722,,application/rss+xml; charset=UTF-8,218645
+https://blog.dbouman.nl/atom.xml,dbouman.nl,media,NL,en,200,https://blog.dbouman.nl/atom.xml,1,1,2022-04-02,2167,,application/xml,217950
+https://www.dutchnews.nl/feed/,dutchnews.nl,media,NL,en,200,https://www.dutchnews.nl/feed/,1,10,2026-11-19,1692,,application/rss+xml; charset=UTF-8,11533
+https://www.lighthousereports.nl/feed/,lighthousereports.nl,media,NL,en,200,https://www.lighthousereports.com/feed/,1,10,2026-10-30,4190,,text/xml;charset=UTF-8,33881
+https://maxkersten.nl/feed/,maxkersten.nl,media,NL,en,200,https://maxkersten.nl/feed/,1,10,2026-09-30,2023,,application/rss+xml; charset=UTF-8,10454
+https://feeds.nos.nl/nosnieuwsalgemeen,nos.nl,media,NL,en,200,https://feeds.nos.nl/nosnieuwsalgemeen,1,20,2026-11-19,1251,,text/xml; charset=utf-8,69391
+https://www.nrc.nl/rss/,nrc.nl,media,NL,en,200,https://www.nrc.nl/rss/,1,155,2026-11-19,2543,,application/rss+xml;charset=utf-8,170393
+https://www.nu.nl/rss/Algemeen,nu.nl,media,NL,en,200,https://www.nu.nl/rss/Algemeen,1,30,2026-11-19,958,,application/rss+xml; charset=utf-8,26384
+https://www.outflank.nl/feed/,outflank.nl,media,NL,en,200,https://www.outflank.nl/feed/,1,10,2026-11-11,1124,,application/rss+xml; charset=UTF-8,251852
+https://www.rtlnieuws.nl/rss.xml,rtlnieuws.nl,media,NL,en,200,https://www.rtl.nl/rss.xml,1,796,2026-11-19,3999,,text/xml; charset=utf-8,657456
+https://sector035.nl/articles.rss,sector035.nl,media,NL,en,200,https://sector035.nl/articles.rss,1,10,2024-12-02,2251,,application/rss+xml; charset=utf-8,129258
+https://www.securify.nl/rss/blogs.xml,securify.nl,media,NL,en,200,https://www.securify.nl/rss/blogs.xml,1,85,,4150,,application/xml,851413
+https://www.security.nl/rss/headlines.xml,security.nl,media,NL,en,200,https://www.security.nl/rss/headlines.xml,1,50,2026-11-19,939,,application/xml,32140
+http://www.sjoerdlangkemper.nl/feed.xml,sjoerdlangkemper.nl,media,NL,en,200,http://www.sjoerdlangkemper.nl/feed.xml,1,10,2026-10-28,451,,application/xml,6755
+https://th0mas.nl/post/index.xml,th0mas.nl,media,NL,en,200,https://th0mas.nl/post/index.xml,1,15,2025-08-19,1483,,text/xml,20399
+https://www.trouw.nl/voorpagina/rss.xml,trouw.nl,media,NL,en,200,https://www.trouw.nl/voorpagina/rss.xml,1,93,2026-11-19,998,,application/rss+xml; charset=utf-8,62769
+https://vdwaa.nl/feeds/all.atom.xml,vdwaa.nl,media,NL,en,200,https://vdwaa.nl/feeds/all.atom.xml,1,45,2025-08-04,2605,,text/xml,301345
+https://www.volkskrant.nl/voorpagina/rss.xml,volkskrant.nl,media,NL,en,200,https://www.volkskrant.nl/voorpagina/rss.xml,1,84,2026-11-19,1469,,application/rss+xml; charset=utf-8,60168
+https://www.wietzebeukema.nl/blog/feed.xml,wietzebeukema.nl,media,NL,en,200,https://www.wietzebeukema.nl/blog/feed.xml,1,8,2026-02-12,916,,application/xml,9837
+https://xphantom.nl/feed.xml,xphantom.nl,media,NL,en,200,https://xphantom.nl/feed.xml,1,5,2025-02-09,1096,,application/xml,5341
+https://zawadidone.nl/feed.xml,zawadidone.nl,media,NL,en,200,https://zawadidone.nl/feed.xml,1,10,2023-02-27,2449,,application/xml,182294
+https://www.aftenposten.no/rss,aftenposten.no,media,NO,en,200,https://www.aftenposten.no/rss,1,42,2026-11-19,346,,application/xml,28815
+https://www.infernux.no/feed.xml,infernux.no,media,NO,en,200,https://infernux.no/feed.xml,1,97,2026-11-02,2034,,application/xml,55095
+https://www.nrk.no/toppsaker.rss,nrk.no,media,NO,en,200,https://www.nrk.no/toppsaker.rss,1,98,2026-11-19,1641,,application/xml,103118
+https://www.vg.no/rss/feed/,vg.no,media,NO,en,200,https://www.vg.no/rss/feed,1,42,2026-11-19,1594,,application/xml,29687
+https://dozer.nz/feed.xml,dozer.nz,media,NZ,en,200,https://dozer.nz/feed.xml,1,7,2022-12-18,922,,application/xml,80942
+https://blah.karit.nz/feed.xml,karit.nz,media,NZ,en,200,https://blah.karit.nz/feed.xml,1,10,2026-03-28,2816,,application/xml,78963
+https://flawed.net.nz/feed.xml,net.nz,media,NZ,en,200,https://flawed.net.nz/feed.xml,1,10,2026-08-22,1066,,application/xml,71835
+https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp,nzherald.co.nz,media,NZ,en,200,https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp,1,10,2026-11-19,1248,,application/xml; charset=utf-8,19147
+https://tonite.abante.com.ph/feed/,abante.com.ph,media,PH,en,520,https://tonite.abante.com.ph/feed/,0,0,,883,,text/html; charset=UTF-8,7368
+http://www.bicolstandard.com/feeds/posts/default?alt=rss,bicolstandard.com,media,PH,en,403,https://www.hugedomains.com/domain_profile.cfm?d=bicolstandard.com,0,0,,898,,text/html; charset=UTF-8,5891
+https://businessmirror.com.ph/feed/,businessmirror.com.ph,media,PH,en,403,https://businessmirror.com.ph/feed/,0,0,,604,,text/html; charset=utf-8,1380
+https://www.bworldonline.com/feed/,bworldonline.com,media,PH,en,200,https://bworldonline.com/feed/,1,30,2026-11-19,2576,,application/rss+xml; charset=UTF-8,119463
+https://currentph.com/feed/,currentph.com,media,PH,en,200,https://currentph.com/feed/,1,10,2026-11-17,1215,,application/rss+xml; charset=UTF-8,17526
+https://www.eaglenews.ph/feed/,eaglenews.ph,media,PH,en,200,https://www.eaglenews.ph/feed/,1,12,2024-11-03,4532,,application/rss+xml; charset=UTF-8,16036
+https://data.gmanews.tv/gno/rss/news/feed.xml,gmanews.tv,media,PH,en,200,https://data.gmanews.tv/gno/rss/news/feed.xml,1,15,2026-11-19,672,,application/xml,15435
+https://www.inquirer.net/fullfeed,inquirer.net,media,PH,en,200,https://www.inquirer.net/fullfeed/,1,20,2026-11-19,1232,,application/rss+xml; charset=UTF-8,31358
+https://www.interaksyon.com/feed/,interaksyon.com,media,PH,en,200,https://interaksyon.philstar.com/feed/,1,10,2026-11-19,1106,,application/rss+xml; charset=UTF-8,23888
+https://manilastandard.net/feed/all,manilastandard.net,media,PH,en,202,https://manilastandard.net/feed/all,0,0,,1014,empty body (status 202),text/html; charset=UTF-8,0
+https://www.manilatimes.net/rssfeed/,manilatimes.net,media,PH,en,404,https://www.manilatimes.net/rssfeed/,0,0,,1796,,text/html; charset=UTF-8,268687
+https://www.philnews.xyz/feeds/posts/default?alt=rss,philnews.xyz,media,PH,en,200,https://www.philnews.xyz/feeds/posts/default?alt=rss,1,25,2026-05-03,6097,,application/rss+xml; charset=UTF-8,1187312
+https://www.philstar.com/rss/headlines,philstar.com,media,PH,en,200,https://www.philstar.com/rss/headlines,1,10,2026-11-19,1129,,application/xml,7122
+https://www.sunstar.com.ph/rssFeed/selected,sunstar.com.ph,media,PH,en,404,https://www.sunstar.com.ph/rssfeed/selected,0,0,,2292,,text/html; charset=utf-8,687748
+http://tempo.com.ph/feed/,tempo.com.ph,media,PH,en,0,,0,0,,15146,timeout,,0
+https://www.topgear.com.ph/feed/rss1,topgear.com.ph,media,PH,en,200,https://www.topgear.com.ph/feed/rss1,0,0,,1744,xml but not a feed,application/xml,4463
+https://www.unbox.ph/feed/,unbox.ph,media,PH,en,200,https://unbox.ph/feed/,1,10,2026-11-19,1403,,application/rss+xml; charset=UTF-8,65986
+https://www.dawn.com/feeds/home,dawn.com,media,PK,en,403,https://www.dawn.com/feeds/home,0,0,,399,,text/html; charset=UTF-8,5788
+https://www.express.pk/feed/,express.pk,media,PK,en,200,https://www.express.pk/feed/,1,50,2026-11-19,1266,,application/xml,171122
+https://jang.com.pk/rss/1/1,jang.com.pk,media,PK,en,403,https://jang.com.pk/rss/1/1,0,0,,401,,text/html; charset=UTF-8,5667
+https://nation.com.pk/rss/top-stories,nation.com.pk,media,PK,en,0,,0,0,,15103,timeout,,0
+https://newsnblogs.com/feed/,newsnblogs.com,media,PK,en,0,,0,0,,15249,timeout,,0
+https://www.thenews.com.pk/rss/1/1,thenews.com.pk,media,PK,en,403,https://www.thenews.com.pk/rss/1/1,0,0,,431,,text/html; charset=UTF-8,5718
+https://tribune.com.pk/feed/home,tribune.com.pk,media,PK,en,200,https://tribune.com.pk/feed/home,1,73,2026-11-19,2251,,application/xml,413112
+https://www.urdupoint.com/rss/urdupoint.rss,urdupoint.com,media,PK,en,200,https://www.urdupoint.com/rss/urdupoint.rss,1,100,2026-11-19,1969,,application/rss+xml,53400
+https://www.bankier.pl/rss/wiadomosci.xml,bankier.pl,media,PL,en,200,https://www.bankier.pl/rss/wiadomosci.xml,1,48,2026-11-19,886,,application/rss+xml; charset=UTF-8,46220
+https://bothunters.pl/feed/,bothunters.pl,media,PL,en,200,https://bothunters.pl/feed/,1,15,2025-02-20,1187,,application/rss+xml; charset=UTF-8,24518
+https://www.cert.pl/en/feed/,cert.pl,media,PL,en,200,https://cert.pl/en/rss.xml,1,100,2026-11-18,2005,,text/xml,60859
+https://www.chip.pl/feed,chip.pl,media,PL,en,200,https://www.chip.pl/feed,1,50,2026-11-19,1632,,text/xml,106858
+https://gynvael.coldwind.pl/rss_en.php,coldwind.pl,media,PL,en,200,https://feeds.feedburner.com/GynvaelColdwindEN,1,10,2026-11-17,1527,,text/xml; charset=utf-8,33480
+https://blog.pi3.com.pl/?feed=rss2,com.pl,media,PL,en,200,https://blog.pi3.com.pl/?feed=rss2,1,10,2023-11-14,2049,,application/rss+xml; charset=UTF-8,198418
+https://counterintelligence.pl/feed/,counterintelligence.pl,media,PL,en,200,https://counterintelligence.pl/feed/,1,10,2025-03-02,2296,,application/rss+xml; charset=UTF-8,206339
+https://deon.pl/rss,deon.pl,media,PL,en,200,https://deon.pl/rss,1,10,2026-11-19,1278,,text/xml; charset=utf-8,15231
+http://rss.dziennik.pl/Dziennik-PL/,dziennik.pl,media,PL,en,200,http://rss.dziennik.pl/Dziennik-PL/,1,50,2026-11-19,921,,text/xml; charset=utf-8,105771
+https://epoznan.pl/rss,epoznan.pl,media,PL,en,200,https://epoznan.pl/rss,1,20,2026-11-19,1325,,application/rss+xml; charset=UTF-8,15525
+https://forsal.pl/.feed,forsal.pl,media,PL,en,200,https://forsal.pl/.feed,1,50,2026-11-19,1393,,application/xml; charset=utf-8,110010
