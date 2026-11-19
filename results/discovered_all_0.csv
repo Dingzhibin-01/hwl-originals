@@ -1,0 +1,401 @@
+﻿site_url,feed_url,http_status,title,kind,country,method,items,last_item_date,elapsed_ms,error
+https://www.aspi.org.au/,https://www.aspi.org.au/feed/,200,Homepage - ASPI,thinktank,AU,autodiscover,10,2026-11-18,1932,
+https://www.lowyinstitute.org/,https://www.lowyinstitute.org/feed,200,Lowy Institute,thinktank,AU,suffix/feed,50,2026-11-19,427,
+https://www.bruegel.org/,,403,Just a moment...,thinktank,BE,,,,638,no feed found
+https://carnegieeurope.eu/,,200,Carnegie Europe | Carnegie Endowment for International Peace,thinktank,BE,,,,317,no feed found
+https://www.cigionline.org/,,403,Just a moment...,thinktank,CA,,,,857,no feed found
+https://www.fraserinstitute.org/,,403,Just a moment...,thinktank,CA,,,,710,no feed found
+https://www.dgap.org/en,,200,Browser verification,thinktank,DE,,,,1738,no feed found
+https://merics.org/en,https://merics.org/rss,200,Mercator Institute for China Studies (MERICS),thinktank,DE,suffix/rss,20,2026-11-17,2416,
+https://www.swp-berlin.org/,https://www.swp-berlin.org/rss.xml,200,Stiftung Wissenschaft und Politik,thinktank,DE,suffix/rss.xml,100,2026-11-17,2212,
+https://www.cidob.org/en,https://www.cidob.org/rss.xml,200,Home | CIDOB,thinktank,ES,suffix/rss.xml,0,,1643,
+https://www.realinstitutoelcano.org/en/,,403,403 Forbidden,thinktank,ES,,,,1157,no feed found
+https://www.ecfr.eu/,,200,"New ideas for Europe’s relations with China, Russia, and beyond",thinktank,EU,,,,3879,autodiscover invalid: not xml
+https://www.ifri.org/,,403,Just a moment...,thinktank,FR,,,,312,no feed found
+https://www.chathamhouse.org/,,403,Just a moment...,thinktank,GB,,,,783,no feed found
+https://www.iiss.org/,,200,The International Institute for Strategic Studies,thinktank,GB,,,,918,no feed found
+https://www.rusi.org/,https://www.rusi.org/rss/upcoming-events.xml,200,Homepage | Royal United Services Institute,thinktank,GB,autodiscover,0,,151,
+https://www.icrc.org/en,https://www.icrc.org/en/rss/general,200,ICRC: Neutral humanitarian action | Protecting lives in conflict,io,GLOBAL,autodiscover,100,,133,
+https://www.interpol.int/News-and-Events,,403,INTERPOL,io,GLOBAL,,,,343,no feed found
+https://www.chinausfocus.com/,https://www.chinausfocus.com/rss.xml,200,Exclusive Commentaries on China-US Relations - CHINA US Focus,thinktank,HK,suffix/rss.xml,50,2026-11-12,2022,
+https://www.orfonline.org/,,200,Observer Research Foundation | Ideas | Forums | Leadership | Impact,thinktank,IN,,,,1505,no feed found
+https://www.iai.it/en,https://www.iai.it/rss.xml,200,IAI - Istituto Affari Internazionali,thinktank,IT,suffix/rss.xml,0,,1543,
+https://www.clingendael.org/,,403,Just a moment...,thinktank,NL,,,,625,no feed found
+https://www.osw.waw.pl/en,https://www.osw.waw.pl/rss.xml,200,OSW Centre for Eastern Studies,thinktank,PL,suffix/rss.xml,10,2026-11-18,3061,
+https://www.sipri.org/,,200,Home | SIPRI,thinktank,SE,,,,2291,no feed found
+https://www.atlanticcouncil.org/,https://www.atlanticcouncil.org/feed/,200,Atlantic Council - Shaping the global future together,thinktank,US,autodiscover,100,2026-11-19,436,
+https://www.brookings.edu/,,200,Brookings - Quality. Independence. Impact.,thinktank,US,,,,2634,autodiscover invalid: not xml
+https://carnegieendowment.org/,,200,Carnegie Endowment for International Peace | Carnegie Endowment for International Peace,thinktank,US,,,,73,no feed found
+https://www.cfr.org/,https://www.cfr.org/feed,200,Council on Foreign Relations,thinktank,US,suffix/feed,24,2026-11-19,291,
+https://www.cnas.org/,,200,Center for a New American Security | CNAS,thinktank,US,,,,2527,no feed found
+https://cset.georgetown.edu/,https://cset.georgetown.edu/feed/,200,CSET | Center for Security and Emerging Technology,thinktank,US,autodiscover,10,2026-11-14,313,
+https://www.csis.org/,https://www.csis.org/rss.xml,200,CSIS | Center for Strategic and International Studies,thinktank,US,suffix/rss.xml,10,2016-03-03,774,
+https://www.fpri.org/,,200,Foreign Policy Research Institute - International Policy Think Tank,thinktank,US,,,,1727,no feed found
+https://www.gmfus.org/,https://www.gmfus.org/rss.xml,200,German Marshall Fund of the United States,thinktank,US,suffix/rss.xml,10,2026-11-18,342,
+https://www.hudson.org/,https://www.hudson.org/rss.xml,200,Hudson Institute,thinktank,US,suffix/rss.xml,10,2026-11-18,756,
+https://www.mei.edu/,https://mei.edu/feed/,200,Home - Middle East Institute,thinktank,US,autodiscover,1,2025-05-05,523,
+https://www.newamerica.org/,https://www.newamerica.org/feed/,200,New America - Big Ideas and Bold Solutions,thinktank,US,autodiscover,0,,304,
+https://www.rand.org/,,200,RAND Provides Objective Research Services and Public Policy Analysis | RAND,thinktank,US,,,,725,no feed found
+https://www.stimson.org/,,403,Just a moment...,thinktank,US,,,,940,no feed found
+https://www.usip.org/,https://www.usip.org/feed/,200,Donald J. Trump Institute of Peace,thinktank,US,autodiscover,10,2026-06-25,147,
+https://www.washingtoninstitute.org/,,403,Just a moment...,thinktank,US,,,,605,no feed found
+https://www.issafrica.org/,,200,Home | ISS Africa,thinktank,ZA,,,,1588,no feed found
+https://www.centralbank.ae/,,200,&#x645;&#x635;&#x631;&#x641; &#x627;&#x644;&#x625;&#x645;&#x627;&#x631;&#x627;&#x62A; &#x627;&#x644;&#x639;&#x631;&#x628,official,AE,,,,4025,no feed found
+https://www.dab.gov.af/,,200,Da Afghanistan Bank | Da Afghanistan Bank,official,AF,,,,11342,no feed found
+https://www.bna.ao/,,200,Banco Nacional de Angola,official,AO,,,,3558,no feed found
+https://www.bcra.gob.ar/,,200,BCRA,official,AR,,,,15486,no feed found
+https://www.bb.org.bd/,,200,Bangladesh Bank,official,BD,,,,9877,no feed found
+https://www.cbb.gov.bh/,,403,403 Forbidden,official,BH,,,,1175,no feed found
+https://www.bcb.gob.bo/,https://www.bcb.gob.bo/?q=rss.xml,200,Banco Central de Bolivia,official,BO,autodiscover,10,2026-11-13,1443,
+https://www.bankofbotswana.bw/,,200,Home | Bank of Botswana,official,BW,,,,10684,no feed found
+https://www.bankofcanada.ca/,https://www.bankofcanada.ca/feed/?content_type=sparks-at-bank-article&post_type[0]=post&post_type[1]=page,200,Bank of Canada,official,CA,autodiscover,10,2026-11-16,108,
+https://www.bcc.cd/,https://www.bcc.cd/feed.xml,200,Banque Centrale du Congo,official,CD,autodiscover,30,2026-11-17,3544,
+https://www.bcentral.cl/,,200,Inicio - Banco Central de Chile,official,CL,,,,3186,no feed found
+https://www.banrep.gov.co/,,200,Radware Bot Manager Captcha,official,CO,,,,1263,no feed found
+https://www.bc.gov.cu/,,0,,official,CU,,,,73,"ConnectionError: HTTPSConnectionPool(host='www.bc.gov.cu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HT"
+https://www.bank-of-algeria.dz/,,0,,official,DZ,,,,880,"SSLError: HTTPSConnectionPool(host='www.bank-of-algeria.dz', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCe"
+https://www.bce.fin.ec/,https://www.bce.fin.ec/feed,200,BCE - Banco Central del Ecuador,official,EC,suffix/feed,10,2026-11-18,5222,
+https://www.bde.es/,,200,Banco de España,official,ES,,,,2458,no feed found
+https://www.bankofengland.co.uk/,,200,Home | Bank of England – the UK&#39;s central bank,official,GB,,,,2125,no feed found
+https://www.bog.gov.gh/,https://www.bog.gov.gh/feed/,200,Bank of Ghana &#8211; Central Bank,official,GH,autodiscover,0,,5748,
+https://www.mnb.hu/,,200,Főoldal,official,HU,,,,4407,no feed found
+https://www.boi.org.il/,,200,Radware Captcha Page,official,IL,,,,1259,no feed found
+https://www.rbi.org.in/,,200,Home | Official website of Reserve Bank of India,official,IN,,,,12910,no feed found
+https://www.cbj.gov.jo/,,200,الصفحة الرئيسية - البنك المركزي الاردني,official,JO,,,,51301,no feed found
+https://www.boj.or.jp/,,200,ホーム : 日本銀行 Bank of Japan,official,JP,,,,1701,no feed found
+https://www.nbkr.kg/,,200,Кыргыз Республикасынын Улуттук банкы,official,KG,,,,2727,no feed found
+https://www.bol.gov.la/,,0,,official,LA,,,,801,"SSLError: HTTPSConnectionPool(host='www.bol.gov.la', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.bdl.gov.lb/,,403,Just a moment...,official,LB,,,,380,no feed found
+https://www.cbsl.gov.lk/,,403,,official,LK,,,,4222,no feed found
+https://www.cbl.gov.ly/,https://cbl.gov.ly/feed/,200,مصرف ليبيا المركزي,official,LY,autodiscover,10,2026-11-17,4215,
+https://www.bkam.ma/,,403,ERROR: The request could not be satisfied,official,MA,,,,831,no feed found
+https://www.bancomoc.mz/,,200,P&#225;gina Inicial - Banco de Mo&#231;ambique,official,MZ,,,,4616,no feed found
+https://www.bon.com.na/,,200,Bank of Namibia - Home,official,NA,,,,5484,no feed found
+https://www.cbn.gov.ng/,,200,Home | Central Bank of Nigeria,official,NG,,,,1098,no feed found
+https://www.dnb.nl/,,403,Access Denied,official,NL,,,,231,no feed found
+https://www.nrb.org.np/,https://www.nrb.org.np/feed/,200,Nepal Rastra Bank (NRB) - the official site of the Central Bank of Nepal,official,NP,autodiscover,5,2026-08-10,3711,
+https://www.rbnz.govt.nz/,,403,Website unavailable - Reserve Bank of New Zealand - Te Pūtea Matua,official,NZ,,,,856,no feed found
+https://www.cbo.gov.om/,,0,,official,OM,,,,1021,"SSLError: HTTPSConnectionPool(host='www.cbo.gov.om', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.bcrp.gob.pe/,,200,Pardon Our Interruption,official,PE,,,,528,no feed found
+https://www.bankpng.gov.pg/,,403,Just a moment...,official,PG,,,,668,no feed found
+https://www.sbp.org.pk/,,200,State Bank of Pakistan,official,PK,,,,27075,no feed found
+https://www.qcb.gov.qa/,,0,,official,QA,,,,1444,"SSLError: HTTPSConnectionPool(host='www.qcb.gov.qa', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.bnr.rw/,,200,National Bank of Rwanda,official,RW,,,,2745,no feed found
+https://www.sama.gov.sa/,,200,البنك المركزي السعودي,official,SA,,,,10121,no feed found
+https://www.centralbank.gov.so/,,403,Just a moment...,official,SO,,,,1566,no feed found
+https://cb.gov.sy/,,200,مصرف سورية المركزي,official,SY,,,,2406,no feed found
+https://www.bct.gov.tn/,,200,"Banque Centrale de Tunisie, Accueil",official,TN,,,,14346,no feed found
+https://www.bot.go.tz/,,200,Home Page - Bank of Tanzania,official,TZ,,,,5413,no feed found
+https://www.bou.go.ug/,,0,,official,UG,,,,2539,"ConnectionError: HTTPSConnectionPool(host='www.bou.go.ug', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HT"
+https://www.cbu.uz/,,200,www.cbu.uz,official,UZ,,,,15204,no feed found
+https://www.bcv.org.ve/,,0,,official,VE,,,,830,"SSLError: HTTPSConnectionPool(host='www.bcv.org.ve', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.resbank.co.za/,,200,Home,official,ZA,,,,3024,no feed found
+https://www.boz.zm/,,200,Bank of Zambia,official,ZM,,,,3437,no feed found
+https://www.rbz.co.zw/,,200,Radware Captcha Page,official,ZW,,,,1951,no feed found
+https://www.austrade.gov.au,,200,"Austrade, Australian Government | Austrade",official,AU,,,,5500,no feed found
+https://bida.gov.bd,,0,,official,BD,,,,296,"SSLError: HTTPSConnectionPool(host='bida.gov.bd', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SS"
+https://www.gtai.de,,200,GTAI – Invest in Germany,official,DE,,,,2257,no feed found
+https://www.gafi.gov.eg,,200,General Authority for Investment and Free Zones - Egypt,official,EG,,,,14337,no feed found
+https://www.investinspain.org,,200,ICEX-Invest in Spain,official,ES,,,,3694,no feed found
+https://www.businessfrance.fr,,200,"Business France, créateurs d&#x27;opportunités business",official,FR,,,,2683,no feed found
+https://www.great.gov.uk,,200,Business.gov.uk - Find the right support for your business,official,GB,,,,3480,no feed found
+https://www.gipc.gov.gh,https://gipa.gov.gh/feed/,200,Home - GIPA,official,GH,autodiscover,10,2026-10-21,2642,
+https://www.aiib.org,,200,AIIB - Asian Infrastructure Investment Bank,official,GL,,,,2629,no feed found
+https://www.eib.org,,200,Homepage | European Investment Bank,official,GL,,,,2842,no feed found
+https://www.ifc.org,,200,International Finance Corporation (IFC),official,GL,,,,619,no feed found
+https://www.miga.org,https://www.miga.org/rss.xml,200,Homepage | World Bank Group Guarantees | MIGA,official,GL,suffix/rss.xml,10,2026-04-13,392,
+https://www.ndb.int,https://www.ndb.int/feed/,200,Home - New Development Bank,official,GL,autodiscover,0,,7437,
+https://www.bkpm.go.id,,200,Beranda | Kementerian Investasi dan Hilirisasi/BKPM,official,ID,,,,3154,no feed found
+https://www.investindia.gov.in,,403,403 - Access Restricted | Invest India,official,IN,,,,4252,no feed found
+https://www.jetro.go.jp,,200,ジェトロ（日本貿易振興機構） | ジェトロ,official,JP,,,,3838,no feed found
+https://www.invest.go.ke,,0,,official,KE,,,,2498,"SSLError: HTTPSConnectionPool(host='www.invest.go.ke', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVeri"
+https://www.cambodiainvestment.gov.kh,,0,,official,KH,,,,582,"SSLError: HTTPSConnectionPool(host='www.cambodiainvestment.gov.kh', port=443): Max retries exceeded with url: / (Caused by SSLErro"
+https://www.investkorea.org,,200,InvestKOREA,official,KR,,,,16042,no feed found
+https://invest.gov.kz,,200,Kazakh Invest — National Investment Promotion Company of Kazakhstan,official,KZ,,,,5276,no feed found
+https://www.investlaos.gov.la,https://investlaos.gov.la/feed/,200,Investment Promotion and Management Committee | ຄະນະກຳມະການສົ່ງເສິມ ແລະ ຄຸ້ມຄອງການລົງທຶນ,official,LA,autodiscover,10,2026-11-13,578,
+https://www.boi.lk,https://investsrilanka.com/feed/,200,Board of Investment of Sri Lanka &#8211; Investment Opportunities,official,LK,autodiscover,10,2026-11-10,7309,
+https://www.invest.gov.ma,,0,,official,MA,,,,236,"SSLError: HTTPSConnectionPool(host='www.invest.gov.ma', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVer"
+https://investmongolia.gov.mn,https://www.investmongolia.gov.mn/en/?feed=rss2,200,Invest Mongolia | Investment and Trade Agency of Mongolia,official,MN,autodiscover,10,2026-10-20,6855,
+https://www.mida.gov.my,https://www.mida.gov.my/feed/,200,Home - MIDA | Malaysian Investment Development Authority,official,MY,autodiscover,10,2026-11-02,2816,
+https://www.nipc.gov.ng,,202,,official,NG,,,,1043,no feed found
+https://boi.gov.ph,https://boi.gov.ph/feed/,200,Board of Investments | Board of Investments Philippines,official,PH,autodiscover,1,2026-11-07,3324,
+https://www.boi.gov.pk,,0,,official,PK,,,,14,"ConnectionError: HTTPSConnectionPool(host='www.boi.gov.pk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.aeportugal.pt,,200,Home AEP Chamber of Commerce and Industry,official,PT,,,,1714,no feed found
+https://www.misa.gov.sa,https://misa.gov.sa/feed,200,Ministry of investment | وزارة الاستثمار,official,SA,suffix/feed,8,2026-09-18,3585,
+https://www.edb.gov.sg,,202,,official,SG,,,,290,no feed found
+https://www.boi.go.th,,200,,official,TH,,,,4089,no feed found
+https://www.invest.gov.tr,,200,Republic of Türkiye Investment Office - Invest in Türkiye,official,TR,,,,2227,no feed found
+https://www.selectusa.gov,,0,,official,US,,,,12024,timeout
+https://invest.gov.uz,,200,New Uzbekistan | Invest Uzbekistan,official,UZ,,,,4505,no feed found
+https://mpi.gov.vn,,0,,official,VN,,,,24520,"ConnectionError: HTTPSConnectionPool(host='mpi.gov.vn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(""HTTPSC"
+https://www.investsa.gov.za,https://www.investsa.gov.za/feed/,200,Home - InvestSA,official,ZA,autodiscover,10,2025-12-10,3009,
+https://www.presidencia.gov.ao/,,0,,official,AO,,,,698,"ConnectionError: HTTPSConnectionPool(host='www.presidencia.gov.ao', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+https://www.casarosada.gob.ar/,,200,Casa Rosada,official,AR,,,,5394,no feed found
+https://www.presidencia.gob.bo/,,200,Ministerio de la Presidencia,official,BO,,,,4288,no feed found
+https://www.planalto.gov.br/,https://www.gov.br/rss.xml,200,Página Inicial — Planalto,official,BR,suffix/rss.xml,100,2026-11-17,3472,
+https://www.gov.by/,,0,,official,BY,,,,3800,"ConnectionError: HTTPSConnectionPool(host='www.gov.by', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPS"
+https://presidence.cd/,,200,Présidence RDC,official,CD,,,,3313,no feed found
+https://primature.cd/,https://www.primature.gouv.cd/feed/,200,Home - Site de la Primature,official,CD,autodiscover,15,2026-11-17,1817,
+https://www.presidence.ci/,https://www.presidence.ci/feed,200,Presidency of the Côte d&#039;Ivoire,official,CI,suffix/feed,1,2023-10-23,1339,
+https://www.presidencia.gov.co/,,200,,official,CO,,,,1028,no feed found
+https://www.presidencia.gob.cu/,https://www.presidencia.gob.cu/en/feed/,200,Presidency and Government of the Republic of Cuba,official,CU,autodiscover,10,2026-11-18,806,
+https://www.el-mouradia.dz/,,0,,official,DZ,,,,24734,timeout
+https://www.gov.eg/,,0,,official,EG,,,,72,"ConnectionError: HTTPSConnectionPool(host='www.gov.eg', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPS"
+https://presidency.gov.gh/,,202,,official,GH,,,,810,no feed found
+https://www.sandorpalota.hu/,https://www.sandorpalota.hu/rss.xml,200,FŐOLDAL | Sándor-palota,official,HU,suffix/rss.xml,10,2026-11-19,2754,
+https://www.gov.iq/,,0,,official,IQ,,,,61,"ConnectionError: HTTPSConnectionPool(host='www.gov.iq', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPS"
+https://www.quirinale.it/,,403,Pagina di errore,official,IT,,,,745,no feed found
+https://www.cambodia.gov.kh/,,403,,official,KH,,,,2827,no feed found
+https://www.presidency.gov.lb/,,200,Presidency of the Lebanese Republic,official,LB,,,,1888,no feed found
+https://www.president.gov.lk/,,200,President of Sri Lanka,official,LK,,,,1620,no feed found
+https://gnu.gov.ly/,https://gnu.gov.ly/feed,200,حكومة الوحدة الوطنية,official,LY,suffix/feed,1,2021-04-29,8110,
+https://www.myanmar.gov.mm/,,0,,official,MM,,,,14270,timeout
+https://www.president.mn/,,403,Just a moment...,official,MN,,,,767,no feed found
+https://www.presidencia.gov.mz/,https://presidencia.gov.mz/?feed=rss2,200,Presidencia da Republica de Mocambique,official,MZ,autodiscover,10,2026-11-19,3799,
+https://www.op.gov.na/,,0,,official,NA,,,,2251,"SSLError: HTTPSConnectionPool(host='www.op.gov.na', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerific"
+https://www.gov.np/,,0,,official,NP,,,,26,"ConnectionError: HTTPSConnectionPool(host='www.gov.np', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPS"
+https://www.beehive.govt.nz/,,403,Verification Required,official,NZ,,,,2154,no feed found
+https://www.pmnec.gov.pg/,https://www.pmnec.gov.pg/feed/,200,Department of Prime Minister and National Executive Council,official,PG,autodiscover,10,2026-11-18,1802,
+https://www.png.gov.pg/,,0,,official,PG,,,,9081,"ConnectionError: HTTPSConnectionPool(host='www.png.gov.pg', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.president.gov.ph/,,403,Attention Required! | Cloudflare,official,PH,,,,1748,no feed found
+https://www.president.gov.pk/,,0,,official,PK,,,,1262,"SSLError: HTTPSConnectionPool(host='www.president.gov.pk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCert"
+https://www.prezydent.pl/,,200,Oficjalna strona Prezydenta Rzeczypospolitej Polskiej,official,PL,,,,1659,no feed found
+https://www.predsednik.rs/,,200,Председник Републике Србије,official,RS,,,,1607,no feed found
+https://www.gov.ru/,,0,,official,RU,,,,14510,timeout
+https://www.presidency.gov.rw/,,0,,official,RW,,,,1215,"ConnectionError: HTTPSConnectionPool(host='www.presidency.gov.rw', port=443): Max retries exceeded with url: / (Caused by NewConnectionEr"
+https://www.gov.sa/,,0,,official,SA,,,,485,"ConnectionError: HTTPSConnectionPool(host='www.gov.sa', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPS"
+https://www.pmo.gov.sg/,,200,Home | Prime Minister&#x27;s Office Singapore,official,SG,,,,4693,no feed found
+https://presidency.gov.so/,,403,Attention Required! | Cloudflare,official,SO,,,,605,no feed found
+https://www.gov.tn/,,0,,official,TN,,,,422,"ConnectionError: HTTPSConnectionPool(host='www.gov.tn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(""HTTPSC"
+https://www.ikulu.go.tz/,,200,Ikulu | Mwanzo,official,TZ,,,,5299,no feed found
+https://www.statehouse.go.ug/,,526,,official,UG,,,,1417,empty
+https://www.presidencia.gob.ve/,,200,,official,VE,,,,1585,no feed found
+https://www.chinhphu.vn/,,200,Cổng Thông tin điện tử Chính phủ,official,VN,,,,5200,no feed found
+https://www.presidency.gov.za/,https://www.presidency.gov.za/rss.xml,200,Home 1 | The Presidency,official,ZA,suffix/rss.xml,10,2026-11-19,3850,
+https://www.statehouse.gov.zm/,,0,,official,ZM,,,,231,"ConnectionError: HTTPSConnectionPool(host='www.statehouse.gov.zm', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+https://www.mofa.gov.ae/,,200,الموقع الرسمي لوزارة الخارجية لدولة الإمارات العربية المتحدة,official,AE,,,,7100,no feed found
+https://www.mfa.gov.af/,,200,د بهرنیو چارو وزارت,official,AF,,,,7999,no feed found
+https://www.mirex.gov.ao/,,0,,official,AO,,,,675,"SSLError: HTTPSConnectionPool(host='www.mirex.gov.ao', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVeri"
+https://www.cancilleria.gob.ar/,https://www.cancilleria.gob.ar/rss.xml,200,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto |",official,AR,suffix/rss.xml,10,2025-03-31,23605,
+https://www.dfat.gov.au/,,0,,official,AU,,,,12094,timeout
+https://www.mfa.gov.bd/,,0,,official,BD,,,,9,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.bd', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.mofa.gov.bh/,,405,Human Verification,official,BH,,,,465,no feed found
+https://www.cancilleria.gob.bo/,https://cancilleria.gob.bo/mre/feed/,200,CANCILLERIA :: BOLIVIA,official,BO,autodiscover,10,2026-11-18,2749,
+https://www.mfa.gov.bw/,,0,,official,BW,,,,459,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.bw', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.mfa.gov.by/,,200,Министерство иностранных дел Республики Беларусь,official,BY,,,,6097,no feed found
+https://www.international.gc.ca/,,200,Global Affairs Canada &ndash; Splash page / Affaires mondiales Canada &ndash; Page de garde,official,CA,,,,1015,no feed found
+https://www.diplomatie.gouv.ci/,,200,,official,CI,,,,3423,no feed found
+https://www.minrel.gob.cl/,,403,Attention Required! | Cloudflare,official,CL,,,,377,no feed found
+https://www.mfa.gov.cm/,,0,,official,CM,,,,2029,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.cm', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.cancilleria.gov.co/,,403,Just a moment...,official,CO,,,,495,no feed found
+https://www.cubaminrex.cu/,,0,,official,CU,,,,213,"ConnectionError: HTTPSConnectionPool(host='www.cubaminrex.cu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError"
+https://www.mfa.gov.dz/,,200,"Ministry of Foreign Affairs - News, Diplomacy &amp; Services",official,DZ,,,,4148,no feed found
+https://www.cancilleria.gob.ec/,,0,,official,EC,,,,1584,"SSLError: HTTPSConnectionPool(host='www.cancilleria.gob.ec', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCe"
+https://www.mfa.gov.eg/,,200,&#x627;&#x644;&#x631;&#x626;&#x64A;&#x633;&#x64A;&#x629; - &#x648;&#x632;&#x627;&#x631;&#x629; &#x627;&#x644;&#x62E;&#x6,official,EG,,,,3385,no feed found
+https://www.diplomatie.gouv.fr/,,0,,official,FR,,,,694,"ConnectionError: HTTPConnectionPool(host='www.diplomatie.gouv.fr', port=80): Max retries exceeded with url: /fr (Caused by NewConnectionE"
+https://www.mfa.gov.hu/,,0,,official,HU,,,,1722,"SSLError: HTTPSConnectionPool(host='www.mfa.gov.hu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.kemlu.go.id/,,200,Portal Kemlu,official,ID,,,,5132,no feed found
+https://www.mfa.gov.il/,,0,,official,IL,,,,320,"SSLError: HTTPSConnectionPool(host='www.mfa.gov.il', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '"
+https://www.mea.gov.in/,,403,ERROR: The request could not be satisfied,official,IN,,,,735,no feed found
+https://www.mfa.gov.iq/,,0,,official,IQ,,,,25,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.iq', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.mfa.gov.ir/,,200,وزارت امور خارجه جمهوری اسلامی ایران,official,IR,,,,8563,no feed found
+https://www.mfa.gov.jo/,,200,وزارة الخارجية وشؤون المغتربين,official,JO,,,,4134,no feed found
+https://www.mfa.go.ke/,https://www.mfa.go.ke/rss.xml,200,Homepage | The Ministry of Foreign Affairs,official,KE,suffix/rss.xml,10,2026-11-16,3362,
+https://www.mfa.gov.kg/,,0,,official,KG,,,,1175,"SSLError: HTTPSConnectionPool(host='www.mfa.gov.kg', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.mfaic.gov.kh/,,200,MFAIC,official,KH,,,,4965,no feed found
+https://www.mofa.go.kr/,,200,외교부,official,KR,,,,8463,no feed found
+https://www.mofa.gov.kw/,,403,Just a moment...,official,KW,,,,1026,no feed found
+https://www.mfa.gov.kz/,,0,,official,KZ,,,,13267,timeout
+https://www.mfa.gov.la/,,0,,official,LA,,,,23,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.la', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.mfa.gov.lb/,,0,,official,LB,,,,12397,timeout
+https://www.mfa.gov.ly/,,0,,official,LY,,,,217,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.ly', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.diplomatie.ma/,,0,,official,MA,,,,12149,timeout
+https://www.mfa.gov.mm/,,0,,official,MM,,,,568,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.mm', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.mfa.gov.mn/,,503,503 Service Temporarily Unavailable,official,MN,,,,3067,no feed found
+https://www.kln.gov.my/,,0,,official,MY,,,,722,"SSLError: HTTPSConnectionPool(host='www.kln.gov.my', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.mirenex.gov.mz/,,0,,official,MZ,,,,232,"ConnectionError: HTTPSConnectionPool(host='www.mirenex.gov.mz', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+https://www.mfa.gov.na/,,0,,official,NA,,,,8338,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.na', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.foreignaffairs.gov.ng/,,200,Ministry of Foreign Affairs,official,NG,,,,5852,no feed found
+https://www.mofa.gov.np/,https://www.mofa.gov.np/rss,200,Ministry Of Foreign Affairs,official,NP,suffix/rss,20,,2962,
+https://www.mfat.govt.nz/,,200,Home | New Zealand Ministry of Foreign Affairs and Trade,official,NZ,,,,7031,no feed found
+https://www.mofa.gov.om/,,0,,official,OM,,,,12957,timeout
+https://www.foreignaffairs.gov.pg/,,0,,official,PG,,,,100,"ConnectionError: HTTPSConnectionPool(host='www.foreignaffairs.gov.pg', port=443): Max retries exceeded with url: / (Caused by NameResolut"
+https://www.dfa.gov.ph/,,403,Just a moment...,official,PH,,,,10634,no feed found
+https://www.mfa.gov.pk/,,0,,official,PK,,,,7942,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.pk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.msz.gov.pl/,,200,Ministerstwo Spraw Zagranicznych - Portal Gov.pl,official,PL,,,,2885,no feed found
+https://www.mfa.gov.rs/,https://www.mfa.gov.rs/rss.xml,200,Министарство спољних послова,official,RS,suffix/rss.xml,24,2026-11-18,2359,
+https://www.mid.ru/,,200,,official,RU,,,,1979,no feed found
+https://www.minaffet.gov.rw/,,200,Home,official,RW,,,,15660,no feed found
+https://www.mfa.gov.sa/,,0,,official,SA,,,,757,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.sa', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.mfa.gov.sg/,,200,Home | Ministry of Foreign Affairs,official,SG,,,,4639,no feed found
+https://mfa.gov.so/,https://web.mfa.gov.so/feed/,200,MFA &#8211; The Ministry of Foreign Affairs &amp; International Cooperation,official,SO,autodiscover,10,2026-11-19,9243,
+https://www.mfa.gov.sy/,,0,,official,SY,,,,13,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.sy', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.mfa.go.th/,,200,กระทรวงการต่างประเทศ,official,TH,,,,3057,no feed found
+https://www.mfa.tj/,,0,,official,TJ,,,,850,"SSLError: HTTPSConnectionPool(host='www.mfa.tj', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificati"
+https://www.mfa.gov.tm/,,200,Türkmenistanyň Daşary işler ministrligi,official,TM,,,,2840,no feed found
+https://www.diplomatie.gov.tn/,,0,,official,TN,,,,592,"SSLError: HTTPSConnectionPool(host='www.diplomatie.gov.tn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCer"
+https://www.mfa.gov.tr/,,0,,official,TR,,,,11821,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.foreign.go.tz/,,200,Ministry of Foreign Affairs and East African Cooperation,official,TZ,,,,5602,no feed found
+https://www.mfa.gov.ua/,,403,Just a moment...,official,UA,,,,375,no feed found
+https://www.mfa.uz/,,503,,official,UZ,,,,2212,no feed found
+https://www.mppre.gob.ve/,https://mppre.gob.ve/?feed=rss2,200,MPPRE | Ministerio del Poder Popular para Relaciones Exteriores y Comercio Internacional,official,VE,autodiscover,10,2026-10-29,15775,
+https://www.mofa.gov.vn/,,502,502 Bad Gateway,official,VN,,,,4749,no feed found
+https://www.dirco.gov.za/,,200,Home - DIRCO,official,ZA,,,,7292,no feed found
+https://www.mfa.gov.zm/,,0,,official,ZM,,,,100,"ConnectionError: HTTPSConnectionPool(host='www.mfa.gov.zm', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""H"
+https://www.zimfa.gov.zw/,,503,Ministry of Foreign Affairs &amp; International Trade - Home,official,ZW,,,,4482,no feed found
+https://www.fcsc.gov.ae,,403,Attention Required! | Cloudflare,official,AE,,,,210,no feed found
+https://fedtenders.gov.ae,,0,,official,AE,,,,26,"ConnectionError: HTTPSConnectionPool(host='fedtenders.gov.ae', port=443): Max retries exceeded with url: / (Caused by NameResolutionError"
+https://www.instat.gov.al,,200,Kreu,official,AL,,,,2108,no feed found
+https://www.armstat.am,,200,Statistical Committee of the Republic of Armenia,official,AM,,,,4504,no feed found
+https://www.ine.gov.ao,,200,INE – National Institute of Statistics of Angola,official,AO,,,,3620,no feed found
+https://www.indec.gob.ar,,200,INDEC: Instituto Nacional de Estadística y Censos de la República Argentina,official,AR,,,,1807,no feed found
+https://www.statistik.at,,200,Startseite - STATISTIK AUSTRIA - Die Informationsmanager,official,AT,,,,2286,no feed found
+https://www.abs.gov.au,,200,Australian Bureau of Statistics,official,AU,,,,4706,no feed found
+https://www.tenders.gov.au,,200,AusTender Homepage: AusTender,official,AU,,,,3229,no feed found
+https://www.stat.gov.az,,0,,official,AZ,,,,1974,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://bhas.gov.ba,,200,,official,BA,,,,2142,no feed found
+https://bbs.gov.bd,,0,,official,BD,,,,935,"SSLError: HTTPSConnectionPool(host='bbs.gov.bd', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificati"
+https://www.eprocure.gov.bd,,200,Welcome to e-GP,official,BD,,,,4537,no feed found
+https://statbel.fgov.be,,200,,official,BE,,,,1169,no feed found
+https://www.nsi.bg,,200,НСИ - Национален статистически институт,official,BG,,,,2520,no feed found
+https://tenderboard.gov.bh,,200,Tender Board - Kingdom of Bahrain,official,BH,,,,15665,no feed found
+https://www.isteebu.bi,,200,Isteebu.bi / Nova Network,official,BI,,,,2581,no feed found
+https://www.ine.gob.bo,https://www.ine.gob.bo/index.php/feed/,200,Instituto Nacional de Estadística - INE,official,BO,autodiscover,10,2026-11-13,2527,
+https://www.ibge.gov.br,,403,Just a moment...,official,BR,,,,331,no feed found
+https://www.ppadb.co.bw,,0,,official,BW,,,,15484,timeout
+https://www.statsbots.org.bw,,200,Statistics Botswana | home,official,BW,,,,2845,no feed found
+https://www.belstat.gov.by,,0,,official,BY,,,,12596,timeout
+https://www.canadabuys.canada.ca,,0,,official,CA,,,,27,"ConnectionError: HTTPSConnectionPool(host='www.canadabuys.canada.ca', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+https://www.statcan.gc.ca,https://www.statcan.gc.ca/rss.xml,200,Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada,official,CA,suffix/rss.xml,10,2026-11-16,2403,
+https://www.bfs.admin.ch,,200,Data for an informed Switzerland,official,CH,,,,1586,no feed found
+https://www.simap.ch,,200,Search for publications,official,CH,,,,3564,no feed found
+https://www.ins.ci,,0,,official,CI,,,,892,"SSLError: HTTPSConnectionPool(host='www.ins.ci', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificati"
+https://www.ine.cl,,200,Inicio,official,CL,,,,3939,no feed found
+https://www.mercadopublico.cl,,200,,official,CL,,,,3141,no feed found
+http://www.ccgp.gov.cn,,403,403 Forbidden,official,CN,,,,2632,no feed found
+https://www.stats.gov.cn,,200,国家统计局,official,CN,,,,8831,no feed found
+https://www.colombiacompra.gov.co,https://www.colombiacompra.gov.co/feed,200,ANCP Colombia Compra Eficiente &#8211; Agencia Nacional de Contratación Pública &#8211; Colombia Compra Eficiente,official,CO,autodiscover,10,2026-11-06,1041,
+https://www.dane.gov.co,,200,DANE - Inicio,official,CO,,,,7326,no feed found
+https://www.inec.cr,,403,Access Denied,official,CR,,,,790,no feed found
+https://www.onei.gob.cu,,0,,official,CU,,,,415,"SSLError: HTTPSConnectionPool(host='www.onei.gob.cu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerif"
+https://www.ine.cv,,200,INE,official,CV,,,,2028,no feed found
+https://www.cystat.gov.cy,,200,Στατιστική Υπηρεσία - Αρχική,official,CY,,,,3067,no feed found
+https://www.czso.cz,,200,Český statistický úřad | Statistika,official,CZ,,,,2801,no feed found
+https://www.destatis.de,https://www.destatis.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/Aktuell.xml,200,Startseite - Statistisches Bundesamt,official,DE,autodiscover,10,2026-11-19,867,
+https://www.evergabe-online.de,,200,"Startseite - e-Vergabe, die Vergabeplattform des Bundes",official,DE,,,,2206,no feed found
+https://www.dst.dk,,200,Danmarks Statistik,official,DK,,,,2213,no feed found
+https://www.one.gob.do,,403,Attention Required! | Cloudflare,official,DO,,,,274,no feed found
+https://www.ons.dz,,0,,official,DZ,,,,518,"SSLError: HTTPSConnectionPool(host='www.ons.dz', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificati"
+https://www.ecuadorencifras.gob.ec,https://www.ecuadorencifras.gob.ec/feed,200,,official,EC,suffix/feed,10,2026-11-17,1940,
+https://www.stat.ee,https://stat.ee/rss,200,Avaleht | Statistikaamet,official,EE,suffix/rss,83,2026-11-16,6998,
+https://www.capmas.gov.eg,,200,الجهاز المركزي للتعبئة العامة والإحصاء,official,EG,,,,2354,no feed found
+https://contrataciondelestado.es,,200,Plataforma de Contrataci&oacute;n del Estado,official,ES,,,,1542,no feed found
+https://www.ine.es,,200,INE. Instituto Nacional de Estadística,official,ES,,,,1280,no feed found
+https://www.statsethiopia.gov.et,,0,,official,ET,,,,345,"ConnectionError: HTTPSConnectionPool(host='www.statsethiopia.gov.et', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+https://www.stat.fi,,200,Tilastokeskus,official,FI,,,,4010,no feed found
+https://www.statsfiji.gov.fj,https://www.statsfiji.gov.fj/feed/,200,Home - Fiji Bureau of Statistics,official,FJ,autodiscover,10,2026-11-17,6123,
+https://www.insee.fr,,500,500 Internal Server Error,official,FR,,,,1485,no feed found
+https://www.marches-publics.gouv.fr,https://www.marches-publics.gouv.fr/rss.xml,200,Accueil - Portail des marchés publics,official,FR,suffix/rss.xml,647,2026-11-18,5807,
+https://www.find-tender.service.gov.uk,,200,Find a Tender,official,GB,,,,15549,no feed found
+https://www.ons.gov.uk,,200,Home - Office for National Statistics,official,GB,,,,532,no feed found
+https://www.geostat.ge,,200,საქართველოს სტატისტიკის ეროვნული სამსახური,official,GE,,,,3852,no feed found
+https://www.statsghana.gov.gh,,200,Ghana Statistical Service,official,GH,,,,2714,no feed found
+https://api.worldbank.org/v2/country?format=json,,200,,official,GL,,,,247,no feed found
+https://www.aseanstats.org,,202,,official,GL,,,,289,no feed found
+https://comtradeplus.un.org,,200,UN Comtrade,official,GL,,,,1235,no feed found
+https://data.imf.org,,403,Access Denied,official,GL,,,,880,no feed found
+https://data.oecd.org,,403,Just a moment...,official,GL,,,,233,no feed found
+https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD,,200,"Foreign direct investment, net inflows (BoP, current US$) | Data",official,GL,,,,22502,no feed found
+https://ec.europa.eu/eurostat,,200,Home - Eurostat,official,GL,,,,2703,no feed found
+https://www.oecd.org,,403,Just a moment...,official,GL,,,,525,no feed found
+https://ted.europa.eu,,202,,official,GL,,,,385,no feed found
+https://www.trademap.org,,200,ITC Trade Map,official,GL,,,,3847,no feed found
+https://unctadstat.unctad.org,https://unctadstat.unctad.org/rss.xml,200,UNCTAD Data Hub,official,GL,suffix/rss.xml,3,2024-10-09,2002,
+https://www.ungm.org,,200,Welcome to the UNGM,official,GL,,,,3624,no feed found
+https://unstats.un.org,,200,UNSD - Welcome to UNSD,official,GL,,,,1696,no feed found
+https://www.statistics.gr,,200,Κεντρική Σελίδα ΕΛΣΤΑΤ - ELSTAT,official,GR,,,,5451,no feed found
+https://www.ine.gob.gt,,200,Radware Captcha Page,official,GT,,,,1720,no feed found
+https://www.ine.gob.hn,,403,ERROR: The request could not be satisfied,official,HN,,,,1529,no feed found
+https://www.dzs.hr,,200,Državni zavod za statistiku - Naslovna,official,HR,,,,2816,no feed found
+https://www.ksh.hu,,200,Központi Statisztikai Hivatal,official,HU,,,,4100,no feed found
+https://www.bps.go.id,,403,Just a moment...,official,ID,,,,2159,no feed found
+https://lpse.go.id,,0,,official,ID,,,,47,"ConnectionError: HTTPSConnectionPool(host='lpse.go.id', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPS"
+https://www.cso.ie,,200,Home - CSO - Central Statistics Office,official,IE,,,,2569,no feed found
+https://www.cbs.gov.il,,200,הלשכה המרכזית לסטטיסטיקה דף הבית,official,IL,,,,2203,no feed found
+https://mr.gov.il,,200,ברוכים הבאים לאתר מינהל הרכש הממשלתי,official,IL,,,,7354,no feed found
+https://eprocure.gov.in,,200,Central Public Procurement Portal,official,IN,,,,4160,no feed found
+https://www.mospi.gov.in,,200,Ministry of Statistics and Program Implementation | Government Of India,official,IN,,,,3182,no feed found
+https://cosit.gov.iq,https://cosit.gov.iq/ar/?format=feed&amp;type=rss,200,هيأة الاحصاء ونظم المعلومات الجغرافية - هيأة الإحصاء ونظم المعلومات الجغرافية,official,IQ,autodiscover,0,,1484,
+https://www.amar.org.ir,,0,,official,IR,,,,740,"SSLError: HTTPSConnectionPool(host='www.amar.org.ir', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError("
+https://www.statice.is,,200,Statistics Iceland - Frontpage,official,IS,,,,2234,no feed found
+https://www.istat.it,https://www.istat.it/feed/,200,Istat,official,IT,autodiscover,10,2026-11-19,2840,
+https://statinja.gov.jm,,200,STATIN,official,JM,,,,992,no feed found
+https://www.dos.gov.jo,,0,,official,JO,,,,2347,"ConnectionError: HTTPSConnectionPool(host='www.dos.gov.jo', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(""HT"
+https://gtd.gov.jo,,0,,official,JO,,,,12216,timeout
+https://www.kkj.go.jp,,200,,official,JP,,,,690,empty
+https://www.stat.go.jp,,200,���v�ǃz�[���y�[�W,official,JP,,,,5760,no feed found
+https://www.knbs.or.ke,,0,,official,KE,,,,876,"SSLError: HTTPSConnectionPool(host='www.knbs.or.ke', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://www.tenders.go.ke,,0,,official,KE,,,,2495,"SSLError: HTTPSConnectionPool(host='www.tenders.go.ke', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVer"
+https://stat.gov.kg,https://stat.gov.kg/kg/rss/,200,Кыргыз Республикасынын Улуттук статистика комитети - Кыргызстандын Статистикасы,official,KG,autodiscover,20,,3243,
+https://zakupki.gov.kg,,200,Единая платформа закупок,official,KG,,,,2145,no feed found
+https://www.g2b.go.kr,,200,나라장터,official,KR,,,,12564,no feed found
+https://kostat.go.kr,,200,국가데이터처,official,KR,,,,5739,no feed found
+https://capt.gov.kw,,403,Just a moment...,official,KW,,,,336,no feed found
+https://www.csb.gov.kw,,200,الإدارة المركزية للإحصاء - الصفحة الرئيسية,official,KW,,,,4925,no feed found
+https://goszakup.gov.kz,,200,Единая платформа закупок,official,KZ,,,,5712,no feed found
+https://stat.gov.kz,,200,Қазақстан Республикасы Стратегиялық жоспарлау және реформалар агенттігінің Ұлттық статистика бюросы - Басты бет,official,KZ,,,,2415,no feed found
+https://www.lsb.gov.la/,https://www.lsb.gov.la/?feed=rss2,200,,official,LA,autodiscover,10,2026-10-22,4929,
+https://www.cas.gov.lb,https://www.cas.gov.lb/feed/,200,cas.gov.lb,official,LB,autodiscover,0,,1718,
+https://www.statistics.gov.lk,,200,Department of Census and Statistics,official,LK,,,,18695,no feed found
+https://www.bos.gov.ls,,200,Lesotho Bureau of Statistics | Official Website,official,LS,,,,4804,no feed found
+https://www.stat.gov.lt,,403,Just a moment...,official,LT,,,,3385,no feed found
+https://statistiques.public.lu,,200,Statistiques - Luxembourg,official,LU,,,,1923,no feed found
+https://www.csb.gov.lv,,200,Foreign trade in goods – Statistics Latvia,official,LV,,,,2394,no feed found
+https://www.hcp.ma,https://www.hcp.ma/xml/syndication.rss,200,Site institutionnel du Haut-Commissariat au Plan du Royaume du Maroc,official,MA,autodiscover,5,2026-11-17,1188,
+https://www.statistica.gov.md,https://statistica.gov.md/feed,200,Biroul Național de Statistică al Republicii Moldova,official,MD,suffix/feed,30,2026-11-19,6244,
+https://www.monstat.org,,200,,official,ME,,,,2995,no feed found
+https://www.instat.mg,,200,INSTAT Madagascar - Institut National de la Statistique,official,MG,,,,7620,no feed found
+https://www.stat.gov.mk,https://www.stat.gov.mk/RSS/RSS_MK.xml,200,Архива - Државен завод за статистика,official,MK,autodiscover,10,2019-09-22,1457,
+https://www.1212.mn,,200,Үндэсний статистикийн хороо,official,MN,,,,17267,no feed found
+https://nso.gov.mt,,403,Just a moment...,official,MT,,,,761,no feed found
+https://statsmauritius.govmu.org,,200,Index,official,MU,,,,3619,no feed found
+https://www.nsomalawi.mw,,200,Home - National Statistical Officer,official,MW,,,,42618,no feed found
+https://compranet.gob.mx,,0,,official,MX,,,,90,"ConnectionError: HTTPSConnectionPool(host='compranet.gob.mx', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("
+https://www.inegi.org.mx,,200,Radware Bot Manager Captcha,official,MX,,,,1171,no feed found
+https://www.dosm.gov.my,,200,Department of Statistics Malaysia,official,MY,,,,2925,no feed found
+https://www.eperolehan.gov.my,,403,ePerolehan,official,MY,,,,418,no feed found
+https://www.ine.gov.mz,,0,,official,MZ,,,,1414,"SSLError: HTTPSConnectionPool(host='www.ine.gov.mz', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://cms.my.na,,200,,official,NA,,,,3224,no feed found
+https://www.bpp.gov.ng,https://bpp.gov.ng/feed/,200,Bureau of Public Procurement - Bureau of Public Procurement,official,NG,autodiscover,5,2025-10-11,16794,
+https://www.nigerianstat.gov.ng,,200,Home | National Bureau of Statistics,official,NG,,,,3867,no feed found
+https://www.inide.gob.ni,,200,Instituto Nacional de Información de Desarrollo - INIDE,official,NI,,,,1405,no feed found
+https://www.cbs.nl,,200,Centraal Bureau voor de Statistiek | CBS,official,NL,,,,1215,no feed found
+https://www.tenderned.nl,,200,,official,NL,,,,3572,no feed found
+https://www.ssb.no,https://www.ssb.no/rss,200,Statistisk sentralbyrå,official,NO,suffix/rss,26,2026-11-19,1224,
+https://cbs.gov.np,,0,,official,NP,,,,12308,timeout
+https://www.gets.govt.nz,,200,GETS - Government Electronic Tender Service | Current tenders,official,NZ,,,,3160,no feed found
+https://www.stats.govt.nz,,200,Home &#124; Stats NZ,official,NZ,,,,2955,no feed found
+https://www.ncsi.gov.om,,200,Home - NCSI PORTAL,official,OM,,,,4433,no feed found
+https://tenderboard.gov.om,,0,,official,OM,,,,791,"ConnectionError: HTTPSConnectionPool(host='tenderboard.gov.om', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro"
+https://www.inec.gob.pa,,200,INEC - Panamá,official,PA,,,,1612,no feed found
+https://www.inei.gob.pe,,200,Instituto Nacional de Estadística e Informática - INEI - Plataforma del Estado Peruano,official,PE,,,,3921,no feed found
+https://www.seace.gob.pe,,0,,official,PE,,,,498,"ConnectionError: HTTPSConnectionPool(host='www.seace.gob.pe', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("
+https://www.nso.gov.pg,https://www.nso.gov.pg/feed/,200,National Statistical Office | Papua New Guinea &#8211; Become smarter and strategic with statistics,official,PG,autodiscover,10,2026-11-19,3744,
+https://www.philgeps.gov.ph,,200,PS-PhilGEPS,official,PH,,,,7126,no feed found
+https://psa.gov.ph,,403,Just a moment...,official,PH,,,,722,no feed found
+https://www.pbs.gov.pk,https://www.pbs.gov.pk/feed/,200,PBS Pakistan Bureau of Statistics,official,PK,autodiscover,10,2026-11-19,3020,
+https://www.ppra.org.pk,,200,Home | PPRA :: Public Procurement Regulatory Authority,official,PK,,,,7348,no feed found
+https://stat.gov.pl,https://new.stat.gov.pl/rss.xml,200,Główny Urząd Statystyczny | GUS - Portal Informacyjny | GUS - Portal Informacyjny,official,PL,suffix/rss.xml,10,2026-11-17,5380,
+https://www.uzp.gov.pl,,200,Strona główna - Urząd Zamówień Publicznych - Portal Gov.pl,official,PL,,,,2725,no feed found
+https://www.base.gov.pt,,200,In&#237;cio,official,PT,,,,1703,no feed found
+https://www.ine.pt,,200,Statistics Portugal (INE) - Official statistics of Portugal,official,PT,,,,2696,autodiscover invalid: not xml
+https://www.ine.gov.py,,200,INE::Instituto Nacional de Estadística,official,PY,,,,2942,no feed found
+https://monaqasat.mof.gov.qa,,0,,official,QA,,,,2543,"SSLError: HTTPSConnectionPool(host='monaqasat.mof.gov.qa', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLZero"
+https://www.psa.gov.qa,,0,,official,QA,,,,13049,timeout
+https://insse.ro,,0,,official,RO,,,,12354,"ConnectionError: HTTPSConnectionPool(host='insse.ro', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(""HTTPSCon"
+https://www.stat.gov.rs,https://www.stat.gov.rs/rss,200,ПОЧЕТНА | Републички завод за статистику Србије,official,RS,suffix/rss,1482,2026-11-19,5821,
+https://rosstat.gov.ru,,0,,official,RU,,,,2318,"SSLError: HTTPSConnectionPool(host='rosstat.gov.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerifi"
+https://zakupki.gov.ru,,0,,official,RU,,,,12667,timeout
+https://www.statistics.gov.rw,,0,,official,RW,,,,1202,"SSLError: HTTPSConnectionPool(host='www.statistics.gov.rw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCer"
+https://umucyo.gov.rw,,200,Rwanda On-Line E-Procurement System,official,RW,,,,16959,no feed found
+https://etimad.sa,,200,,official,SA,,,,10078,no feed found
