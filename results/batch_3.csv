@@ -1,0 +1,501 @@
+﻿url,domain,kind,country,lang,status,final_url,is_feed,items,last_item_date,elapsed_ms,error,content_type,bytes
+https://eurasianet.org/feed,eurasianet.org,media,XX,en,404,https://eurasianet.org/feed,0,0,,330,,text/html; charset=UTF-8,27672
+https://www.eurohoops.net/en/feed/,eurohoops.net,media,XX,en,200,https://www.eurohoops.net/en/feed/,1,20,2026-11-19,313,,application/rss+xml; charset=UTF-8,119725
+https://www.euronews.com/rss?level=theme&name=news,euronews.com,media,XX,en,200,https://www.euronews.com/rss?level=theme&name=news,1,50,2026-11-19,207,,text/xml; charset=UTF-8,32170
+http://www.europeanvoice.com/feed/,europeanvoice.com,media,XX,en,403,http://www.europeanvoice.com/feed/,0,0,,381,,text/html; charset=UTF-8,8240
+https://www.eurozine.com/feed/,eurozine.com,media,XX,en,200,https://www.eurozine.com/feed/,1,100,2026-11-18,2395,,application/rss+xml; charset=UTF-8,175356
+https://blog.evanricafort.com/feeds/posts/default,evanricafort.com,media,XX,en,200,https://blog.evanricafort.com/feeds/posts/default,1,25,2025-03-27,2140,,application/atom+xml; charset=UTF-8,272854
+https://www.evilsocket.net/atom.xml,evilsocket.net,media,XX,en,200,https://www.evilsocket.net/atom.xml,1,20,2026-04-01,6245,,application/xml,532141
+https://example.test/feed,example.test,media,XX,en,0,,0,0,,7,"ConnectionError: HTTPSConnectionPool(host='example.test', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPSConnection(host='example.test', port=443): Failed to r",,0
+https://www.exandroid.dev/atom.xml,exandroid.dev,media,XX,en,200,https://www.exandroid.dev/atom.xml,1,5,2022-03-21,587,,application/xml,40733
+https://exatrack.com/rss.xml,exatrack.com,media,XX,en,200,https://exatrack.com/rss.xml,1,18,2026-11-19,629,,application/xml,10138
+https://blog.exodusintel.com/feed/,exodusintel.com,media,XX,en,200,https://blog.exodusintel.com/feed/,1,10,2026-07-27,1853,,application/rss+xml; charset=UTF-8,480449
+https://www.exploit-db.com/rss.xml,exploit-db.com,media,XX,en,200,https://www.exploit-db.com/rss.xml,1,50,2026-11-11,650,,application/xml,21218
+http://blog.exploitlab.net/feeds/posts/default,exploitlab.net,media,XX,en,200,https://blog.exploitlab.net/feeds/posts/default,1,25,2019-10-25,1731,,application/atom+xml; charset=UTF-8,159187
+https://www.exploitpack.com/blogs/news.atom,exploitpack.com,media,XX,en,404,https://www.exploitpack.com/blogs/news.atom,0,0,,415,empty body (status 404),application/atom+xml; charset=utf-8,0
+https://exploitreversing.com/feed/,exploitreversing.com,media,XX,en,200,https://exploitreversing.com/feed/,1,10,2026-10-27,315,,application/rss+xml; charset=UTF-8,52077
+https://www.ezequiel.tech/feeds/posts/default?alt=rss,ezequiel.tech,media,XX,en,200,https://www.ezequiel.tech/feeds/posts/default?alt=rss,1,5,2020-08-26,950,,application/rss+xml; charset=UTF-8,147547
+https://f-droid.org/feed.xml,f-droid.org,media,XX,en,200,https://f-droid.org/feed.xml,1,17,2026-11-16,35531,,application/xml,2000000
+https://labsblog.f-secure.com/feed/rss/,f-secure.com,media,XX,en,0,,0,0,,26,"ConnectionError: HTTPSConnectionPool(host='labsblog.f-secure.com', port=443): Max retries exceeded with url: /feed/rss/ (Caused by NameResolutionError(""HTTPSConnection(host='labsblog.f-secure.com',",,0
+https://blog.f0rw4rd.xyz/feed.xml,f0rw4rd.xyz,media,XX,en,200,https://blog.f0rw4rd.xyz/feed.xml,1,5,2026-09-23,311,,application/atom+xml; charset=utf-8,4513
+https://www.f5.com/labs/rss-feeds/all.xml,f5.com,media,XX,en,200,https://www.f5.com/labs/rss-feeds/all.xml,1,50,2026-11-18,658,,application/rss+xml,22490
+https://faith2dxy.xyz/rss.xml,faith2dxy.xyz,media,XX,en,200,https://faith2dxy.xyz/rss.xml,1,12,2026-01-02,16290,,application/xml,1519754
+https://farlow.dev/feed.xml,farlow.dev,media,XX,en,200,https://farlow.dev/feed.xml,1,10,2026-04-17,891,,application/xml,138966
+https://fashionista.com/feed,fashionista.com,media,XX,en,200,https://fashionista.com/.rss/feed/28e21eb8-20ac-4617-a448-e845081591ca.xml,1,50,2026-11-19,4341,,text/xml; charset=utf-8,498155
+https://www.fast.ai/index.xml,fast.ai,media,XX,en,200,https://www.fast.ai/index.xml,1,20,2026-11-15,246,,application/xml,12989
+https://www.fastcompany.com/technology/rss,fastcompany.com,media,XX,en,200,https://www.fastcompany.com/technology/rss,1,20,2026-11-19,1196,,application/rss+xml; charset=utf-8,243049
+https://about.fb.com/feed,fb.com,media,XX,en,200,https://about.fb.com/feed/,1,10,2026-11-19,1840,,application/rss+xml; charset=UTF-8,119745
+https://feeds.bar/signal-500/method,feeds.bar,media,XX,en,200,https://feeds.bar/signal-500/method/,0,0,,1815,,text/html; charset=UTF-8,460046
+https://www.feistyduck.com/bulletproof-tls-newsletter/feed,feistyduck.com,media,XX,en,200,https://www.feistyduck.com/newsletter/feed,1,109,2026-11-03,1253,,application/xml;charset=UTF-8,82044
+https://fin3ss3g0d.net/index.php/feed/,fin3ss3g0d.net,media,XX,en,200,https://fin3ss3g0d.net/index.php/feed/,1,8,2024-12-27,829,,application/rss+xml; charset=UTF-8,223843
+https://fingerprint.com/rss.xml,fingerprint.com,media,XX,en,200,https://fingerprint.com/rss.xml,1,15,2026-11-19,1558,,application/xml,338435
+http://www.fireeye.com/blog/feed,fireeye.com,media,XX,en,530,https://www.fireeye.com/blog/feed,0,0,,337,,text/html; charset=UTF-8,8181
+https://fireshellsecurity.team/feed.xml,fireshellsecurity.team,media,XX,en,200,https://fireshellsecurity.team/feed.xml,1,10,2026-09-24,8610,,application/xml,598093
+https://firewallsdontstopdragons.com/feed/,firewallsdontstopdragons.com,media,XX,en,202,https://firewallsdontstopdragons.com/feed/,0,0,,186,,text/html,174
+https://firmwaresecurity.com/feed/,firmwaresecurity.com,media,XX,en,0,,0,0,,95,"ConnectionError: HTTPSConnectionPool(host='firmwaresecurity.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(""HTTPSConnection(host='firmwaresecurity.com', port=",,0
+https://first.org/newsroom/news/rss.xml,first.org,media,XX,en,200,https://www.first.org/newsroom/news/rss.xml,1,1,2026-11-16,471,,text/xml;charset=UTF-8,2166
+http://www.firstsight.me/feed/,firstsight.me,media,XX,en,200,http://firstsight.me/feed/,1,10,2025-02-23,5574,,application/rss+xml; charset=UTF-8,377251
+https://www.fitretech.com/blog?format=rss,fitretech.com,media,XX,en,200,https://www.fitretech.com/blog?format=rss,1,2,2025-11-25,1648,,application/rss+xml; charset=UTF-8,96969
+https://flare.io/learn/resources/blog/feed/,flare.io,media,XX,en,200,https://flare.io/learn/resources/blog/feed,1,10,2026-11-17,4954,,application/rss+xml; charset=UTF-8,547609
+https://www.flashback.sh/blog?format=rss,flashback.sh,media,XX,en,200,https://www.flashback.sh/blog?format=rss,1,7,2023-02-02,1255,,application/rss+xml; charset=UTF-8,190518
+https://flashpoint.io/blog/feed/,flashpoint.io,media,XX,en,200,https://flashpoint.io/blog/feed/,1,29,2026-11-16,4198,,application/rss+xml; charset=UTF-8,500941
+https://flatt.tech/research/index.xml,flatt.tech,media,XX,en,200,https://flatt.tech/research/index.xml,1,22,2026-10-21,372,,application/xml,34129
+https://flaviu.io/rss/,flaviu.io,media,XX,en,200,https://flaviu.io/rss/,1,15,2024-10-30,2155,,text/xml; charset=utf-8,187548
+https://flowingdata.com/feed,flowingdata.com,media,XX,en,200,https://flowingdata.com/feed,1,10,2026-11-19,368,,application/rss+xml; charset=UTF-8,30788
+https://fluxsec.red/rss.xml,fluxsec.red,media,XX,en,200,https://fluxsec.red/rss.xml,1,53,2026-07-26,1032,,text/xml,16555
+https://flyingpenguin.com/feed,flyingpenguin.com,media,XX,en,200,https://www.flyingpenguin.com/feed/,1,8,2026-11-19,2291,,application/rss+xml; charset=UTF-8,12426
+https://blog.fndsec.net/feed/,fndsec.net,media,XX,en,200,https://blog.fndsec.net/feed/,1,10,2026-04-16,3040,,application/rss+xml; charset=UTF-8,354367
+https://www.forbes.com/business/feed/,forbes.com,media,XX,en,200,https://www.forbes.com/business/feed/,1,25,2026-11-19,1302,,text/xml; charset=utf-8,51668
+https://blogs.forcepoint.com/security-labs.xml?utm_source=Websense&utm_medium=Redirect,forcepoint.com,media,XX,en,0,,0,0,,106,"ConnectionError: HTTPSConnectionPool(host='blogs.forcepoint.com', port=443): Max retries exceeded with url: /security-labs.xml?utm_source=Websense&utm_medium=Redirect (Caused by NameResolutionError",,0
+https://www.forensicfocus.com/feed/,forensicfocus.com,media,XX,en,200,https://www.forensicfocus.com/feed/,1,16,2026-11-19,991,,application/rss+xml; charset=UTF-8,24948
+https://www.forescout.com/feed/,forescout.com,media,XX,en,403,https://www.forescout.com/feed/,0,0,,688,,text/html,548
+https://www.formula1.com/en/latest/all.xml,formula1.com,media,XX,en,200,https://www.formula1.com/en/latest/all.xml,1,10,,3560,,text/xml,8007
+https://www.fortinet.com/blog.rss,fortinet.com,media,XX,en,404,https://www.fortinet.com/blog.rss,0,0,,1272,,text/html;charset=utf-8,167632
+https://fortune.com/feed,fortune.com,media,XX,en,200,https://fortune.com/feed/fortune-feeds/?id=3230629,1,10,2026-11-19,1380,,application/xml; charset=UTF-8,95543
+https://blog.fox-it.com/feed/,fox-it.com,media,XX,en,404,https://blog.fox-it.com/feed/,0,0,,1353,,text/html; charset=utf-8,151405
+http://foxglovesecurity.com/feed/,foxglovesecurity.com,media,XX,en,200,https://foxglovesecurity.com/feed/,1,10,2017-11-20,1098,,application/rss+xml; charset=UTF-8,27997
+https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30,foxsports.com,media,XX,en,200,https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30,1,17,2026-11-19,996,,text/xml;charset=UTF-8,186334
+https://fredericb.info/feeds/all.atom.xml,fredericb.info,media,XX,en,200,https://fredericb.info/feeds/all.atom.xml,1,27,2022-06-15,7135,,application/xml,664226
+https://frederik-braun.com/feeds/all.atom.xml,frederik-braun.com,media,XX,en,200,https://frederikbraun.de/feeds/all.atom.xml,1,44,2026-05-30,9599,,application/xml,454637
+https://blog.frizk.net/atom.xml,frizk.net,media,XX,en,200,https://blog.frizk.net/atom.xml,1,11,2021-10-20,4084,,application/atom+xml; charset=UTF-8,241697
+https://frontofficesports.com/feed/,frontofficesports.com,media,XX,en,200,https://frontofficesports.com/feed/,1,50,2026-11-19,11699,,application/rss+xml; charset=UTF-8,320844
+https://fuzzinglabs.com/feed/,fuzzinglabs.com,media,XX,en,200,https://fuzzinglabs.com/feed/,1,10,2026-10-20,890,,application/rss+xml; charset=UTF-8,10848
+https://fyr.io/feed,fyr.io,media,XX,en,200,https://fyr.io/feed,1,99,2026-08-15,2111,,application/xml,59412
+https://g3tsyst3m.com/feed.xml,g3tsyst3m.com,media,XX,en,200,https://g3tsyst3m.com/feed.xml,1,10,2026-10-30,9322,,application/xml,745294
+https://www.gabrielvasseur.com/blog-feed.xml,gabrielvasseur.com,media,XX,en,200,https://www.gabrielvasseur.com/blog-feed.xml,1,20,2026-09-15,978,,text/xml; charset=UTF-8,18934
+https://www.gamingonlinux.com/article_rss.php,gamingonlinux.com,media,XX,en,200,https://www.gamingonlinux.com/article_rss.php,1,50,2026-11-19,2101,,application/rss+xml; charset=utf-8,60062
+https://garrettmills.dev/blog/atom.xml,garrettmills.dev,media,XX,en,200,https://garrettmills.dev/blog/atom.xml,1,37,2026-08-02,8545,,text/xml,688628
+https://garrit.xyz/rss.xml,garrit.xyz,media,XX,en,200,https://garrit.xyz/rss.xml,1,10,2026-11-11,853,,application/xml,43288
+https://gatari.dev/index.xml,gatari.dev,media,XX,en,200,https://gatari.dev/index.xml,1,7,2025-03-21,730,,application/xml,6125
+https://www.geekwire.com/feed,geekwire.com,media,XX,en,200,https://www.geekwire.com/feed/,1,35,2026-11-18,4092,,application/rss+xml; charset=UTF-8,348519
+https://www.generalist.com/feed,generalist.com,media,XX,en,200,https://www.generalist.com/feed,1,20,2026-11-17,9984,,application/xml; charset=utf-8,649158
+https://www.gentlemansgazette.com/feed/,gentlemansgazette.com,media,XX,en,200,https://www.gentlemansgazette.com/feed/,1,6,2026-11-15,7325,,application/rss+xml; charset=UTF-8,320592
+https://www.geopoliticalmonitor.com/feed/,geopoliticalmonitor.com,media,XX,en,200,https://www.geopoliticalmonitor.com/feed/,1,10,2026-11-19,545,,application/rss+xml; charset=UTF-8,13182
+http://georgelakoff.com/feed/,georgelakoff.com,media,XX,en,200,https://broadwayvision.nyc,0,0,,9570,,text/html,15562
+https://gergelykalman.com/feeds/all.atom.xml,gergelykalman.com,media,XX,en,200,https://gergelykalman.com/feeds/all.atom.xml,1,16,2026-07-10,4416,,application/xml,377976
+https://www.ghacks.net/category/software/security/feed,ghacks.net,media,XX,en,200,https://www.ghacks.net/category/software/security/feed/,1,40,2026-11-11,6030,,application/rss+xml; charset=UTF-8,278517
+http://www.gironsec.com/blog/feed/,gironsec.com,media,XX,en,404,https://www.gironsec.com/blog/feed/,0,0,,772,,text/html,564
+https://levelup.gitconnected.com/feed,gitconnected.com,media,XX,en,200,https://levelup.gitconnected.com/feed,1,10,2026-11-18,3192,,text/xml; charset=UTF-8,107956
+https://github.blog/category/security/feed/,github.blog,media,XX,en,200,https://github.blog/security/feed/,1,10,2026-11-10,17127,,application/rss+xml; charset=UTF-8,1009809
+https://raw.githubusercontent.com/scripting/feedsForJournalists/master/list.opml,githubusercontent.com,media,XX,en,200,https://raw.githubusercontent.com/scripting/feedsForJournalists/master/list.opml,0,0,,603,,text/plain; charset=utf-8,13963
+https://0xdf.gitlab.io/feed.xml,gitlab.io,media,XX,en,200,https://0xdf.gitlab.io/feed.xml,1,50,2026-11-14,1564,,text/xml; charset=utf-8,67277
+https://www.glamour.com/feed/rss,glamour.com,media,XX,en,200,https://www.glamour.com/feed/rss,1,30,2026-11-19,1285,,application/xml,23747
+https://www.glitchcat.xyz/feed,glitchcat.xyz,media,XX,en,200,https://www.glitchcat.xyz/feed,1,20,2024-11-27,4488,,application/xml; charset=utf-8,242846
+https://www.globalencryption.org/feed/,globalencryption.org,media,XX,en,200,https://www.globalencryption.org/feed/,1,10,2026-11-16,1256,,application/rss+xml; charset=UTF-8,35678
+https://www.globalsecurity.org/globalsecurity-rss.xml,globalsecurity.org,media,XX,en,402,https://www.globalsecurity.org/globalsecurity-rss.xml,0,0,,461,,application/json,664
+https://globalvoices.org/feed/,globalvoices.org,media,XX,en,0,,0,0,,1763,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",,0
+https://abcnews.go.com/abcnews/internationalheadlines,go.com,media,XX,en,200,https://abcnews.com/abcnews/internationalheadlines,1,25,2026-11-19,2042,,text/xml;charset=UTF-8,47004
+https://goggleheadedhacker.com/feed.xml,goggleheadedhacker.com,media,XX,en,200,https://goggleheadedhacker.com/feed.xml,1,10,2023-05-11,9389,,application/xml,323192
+https://goncalomb.com/blog/rss.xml,goncalomb.com,media,XX,en,200,https://goncalomb.com/blog/rss.xml,1,16,2025-12-12,6223,,application/xml,98757
+https://good.example/feed,good.example,media,XX,en,0,,0,0,,123,"ConnectionError: HTTPSConnectionPool(host='good.example', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPSConnection(host='good.example', port=443): Failed to r",,0
+https://goodonyou.eco/feed/,goodonyou.eco,media,XX,en,200,https://goodonyou.eco/feed/,1,25,2026-11-18,5096,,application/rss+xml; charset=UTF-8,191242
+http://goodworkaround.com/rss.xml,goodworkaround.com,media,XX,en,200,https://goodworkaround.com/feed/,1,10,2026-09-22,4683,,application/rss+xml; charset=UTF-8,230514
+https://security.googleblog.com/feeds/posts/default,googleblog.com,media,XX,en,200,http://feeds.feedburner.com/GoogleOnlineSecurityBlog,1,25,2026-04-23,9672,,text/xml; charset=utf-8,514319
+https://www.goonhammer.com/feed,goonhammer.com,media,XX,en,200,https://www.tabletopbattles.com/feed,1,10,2026-11-18,3025,,application/rss+xml; charset=utf-8,8582
+https://www.govinfosecurity.com/rssFeeds.php?type=main,govinfosecurity.com,media,XX,en,200,https://www.govinfosecurity.com/rssFeeds.php?type=main,1,20,,1801,,text/xml;charset=UTF-8,13315
+https://www.govtech.com/rss/,govtech.com,media,XX,en,200,https://www.govtech.com/rss,0,0,,1701,,text/html;charset=UTF-8,119107
+https://www.gq.com/feed/rss,gq.com,media,XX,en,200,https://www.gq.com/feed/rss,1,30,2026-11-19,3758,,application/xml,24120
+https://grack.com/atom.xml,grack.com,media,XX,en,200,https://grack.com/atom.xml,1,20,2026-06-25,11138,,application/xml,319869
+https://grahamcluley.com/feed/,grahamcluley.com,media,XX,en,200,https://grahamcluley.com/feed/,1,20,2026-11-19,5780,,application/rss+xml; charset=UTF-8,31068
+https://grahamhelton.com/rss.xml,grahamhelton.com,media,XX,en,200,https://grahamhelton.com/rss.xml,1,38,2026-10-31,22045,,application/xml,1487720
+https://www.gremwell.com/rss.xml,gremwell.com,media,XX,en,200,https://www.gremwell.com/rss.xml,1,10,2021-09-30,3142,,application/xml,6875
+https://www.greyhatdev.com/feed/,greyhatdev.com,media,XX,en,0,,0,0,,16187,timeout,,0
+https://www.greynoise.io/blog/rss.xml,greynoise.io,media,XX,en,200,https://www.greynoise.io/blog/rss.xml,1,100,2026-11-18,3425,,application/rss+xml; charset=utf-8,91576
+https://www.grimdarkmagazine.com/feed,grimdarkmagazine.com,media,XX,en,202,https://www.grimdarkmagazine.com/feed,0,0,,1783,,text/html,1285
+https://grimmie.net/feed/,grimmie.net,media,XX,en,200,https://grimmie.net/feed/,1,10,2024-02-24,1972,,application/rss+xml; charset=UTF-8,207447
+https://grist.org/feed/,grist.org,media,XX,en,200,https://grist.org/feed/,1,20,2026-11-19,5505,,application/rss+xml; charset=UTF-8,467367
+https://grsecurity.net/blog.rss,grsecurity.net,media,XX,en,200,https://grsecurity.net/blog.rss,1,33,2024-10-18,1767,,application/x-rss+xml,21398
+https://www.gtworek.com/rss/,gtworek.com,media,XX,en,200,https://www.gtworek.com/rss/,1,15,2025-08-10,4302,,application/rss+xml; charset=utf-8,57384
+https://www.guernicamag.com/feed/,guernicamag.com,media,XX,en,200,https://www.guernicamag.com/feed/,1,20,2026-11-15,7374,,application/rss+xml; charset=UTF-8,422899
+https://gum3t.xyz/atom.xml,gum3t.xyz,media,XX,en,200,https://gum3t.xyz/atom.xml,1,1,2024-06-30,5084,,application/xml,111570
+https://www.gzeromedia.com/feeds/feed.rss,gzeromedia.com,media,XX,en,200,https://www.gzeromedia.com/feeds/feed.rss,1,50,2026-11-18,2846,,text/xml; charset=utf-8,227681
+http://feeds.haacked.com/haacked/,haacked.com,media,XX,en,200,http://feeds.haacked.com/haacked/,1,10,2026-07-20,5671,,text/xml; charset=utf-8,152174
+https://www.hacefresko.com/feed.xml,hacefresko.com,media,XX,en,200,https://www.hacefresko.com/feed.xml,1,5,2026-06-01,1197,,application/xml,139106
+https://hackcompute.com/rss/,hackcompute.com,media,XX,en,200,https://hackcompute.com/rss/,1,2,2023-06-12,1855,,application/rss+xml; charset=utf-8,40624
+https://hackernoon.com/tagged/cybersecurity/feed,hackernoon.com,media,XX,en,200,https://hackernoon.com/tagged/cybersecurity/feed,1,50,2026-11-19,3213,,application/rss+xml,95242
+https://hackers-arise.com/feed/,hackers-arise.com,media,XX,en,415,https://hackers-arise.com/feed/,0,0,,536,,text/html,1688
+http://blog.hackersonlineclub.com/feeds/posts/default,hackersonlineclub.com,media,XX,en,200,http://blog.hackersonlineclub.com/feeds/posts/default,1,25,2020-04-20,3427,,application/atom+xml; charset=UTF-8,315032
+https://hackingthe.cloud/feed_rss_created.xml,hackingthe.cloud,media,XX,en,200,https://hackingthe.cloud/feed_rss_created.xml,1,94,2026-05-05,4500,,application/xml,63629
+http://www.hackmageddon.com/feed/,hackmageddon.com,media,XX,en,202,http://www.hackmageddon.com/feed/,0,0,,861,,text/html,174
+https://en.hackndo.com/feed.xml,hackndo.com,media,XX,en,200,https://en.hackndo.com/feed.xml,1,10,2024-06-04,8254,,application/xml,441817
+https://www.hackread.com/feed,hackread.com,media,XX,en,415,https://www.hackread.com/feed,0,0,,998,,text/html,1701
+https://www.hacktivesecurity.com/feed/,hacktivesecurity.com,media,XX,en,200,https://www.hacktivesecurity.com/feed/,1,10,2026-11-05,3449,,application/rss+xml; charset=UTF-8,205293
+https://haircutfish.com/feed.xml,haircutfish.com,media,XX,en,200,https://haircutfish.com/feed.xml,1,5,2026-03-15,1081,,application/xml,5888
+https://blog.harmj0y.net/feed/,harmj0y.net,media,XX,en,415,https://blog.harmj0y.net/feed/,0,0,,936,,text/html,587
+https://harpers.org/feed/,harpers.org,media,XX,en,200,https://harpers.org/feed/,1,10,2026-11-17,5220,,application/rss+xml; charset=UTF-8,117064
+https://www.harpersbazaar.com/rss/all.xml/,harpersbazaar.com,media,XX,en,200,https://www.harpersbazaar.com/rss/all.xml/,1,50,2026-11-19,4697,,text/xml; charset=utf-8,40632
+http://feeds.harvardbusiness.org/harvardbusiness/ideacast,harvardbusiness.org,media,XX,en,200,http://feeds.harvardbusiness.org/harvardbusiness/ideacast,1,250,2026-11-19,5615,,text/xml; charset=utf-8,634785
+https://rafa.hashnode.dev/rss.xml,hashnode.dev,media,XX,en,200,https://rafa.hashnode.dev/rss.xml,1,3,2025-11-17,3306,,application/xml; charset=utf-8,64534
+https://hatless1der.com/feed/,hatless1der.com,media,XX,en,200,https://hatless1der.com/feed/,1,10,2025-03-28,5285,,application/rss+xml; charset=UTF-8,172608
+https://hausec.com/feed/,hausec.com,media,XX,en,200,https://hausec.com/feed/,1,10,2025-12-15,1330,,application/rss+xml; charset=UTF-8,33858
+https://haxolot.com/index.xml,haxolot.com,media,XX,en,200,https://haxolot.com/index.xml,1,7,2022-01-10,3981,,application/xml,6564
+https://haxrob.net/rss.xml,haxrob.net,media,XX,en,200,https://haxrob.net/rss.xml,1,18,2025-07-13,3842,,application/xml,8335
+https://haymiz.dev/feed.xml,haymiz.dev,media,XX,en,200,https://haymiz.dev/feed.xml,1,7,2025-05-23,3515,,application/xml,97286
+https://heated.world/feed,heated.world,media,XX,en,200,https://heated.world/feed,1,20,2026-11-17,6440,,application/xml; charset=utf-8,618979
+http://www.hecfblog.com/feeds/posts/default,hecfblog.com,media,XX,en,200,https://www.hecfblog.com/feeds/posts/default,1,25,2025-04-23,5567,,application/atom+xml; charset=UTF-8,528632
+https://sean.heelan.io/feed/,heelan.io,media,XX,en,200,https://sean.heelan.io/feed/,1,10,2026-01-18,3423,,application/rss+xml; charset=UTF-8,19056
+https://heimdalsecurity.com/blog/feed,heimdalsecurity.com,media,XX,en,200,https://heimdalsecurity.com/blog/feed/,1,15,2026-11-16,3832,,application/rss+xml; charset=UTF-8,21309
+https://helpmewithhipaa.com/feed/,helpmewithhipaa.com,media,XX,en,200,https://helpmewithhipaa.com/feed/,1,10,2026-11-13,6262,,application/rss+xml; charset=UTF-8,195556
+https://www.helpnetsecurity.com/feed,helpnetsecurity.com,media,XX,en,200,https://www.helpnetsecurity.com/feed/,1,10,2026-11-19,1264,,application/rss+xml; charset=UTF-8,17907
+https://www.herbiez.com/?feed=rss2,herbiez.com,media,XX,en,0,,0,0,,15336,timeout,,0
+https://hespokestyle.com/feed/,hespokestyle.com,media,XX,en,200,https://hespokestyle.com/feed/,1,10,2026-08-10,4999,,application/rss+xml; charset=UTF-8,361388
+https://www.hexacorn.com/blog/feed/,hexacorn.com,media,XX,en,0,,0,0,,15363,timeout,,0
+https://www.hezmatt.org/~mpalmer/blog/rss.xml,hezmatt.org,media,XX,en,200,https://www.hezmatt.org/~mpalmer/blog/rss.xml,1,10,2025-08-27,2875,,text/xml; charset=utf-8,83274
+http://highaltitudehacks.com/feed.xml,highaltitudehacks.com,media,XX,en,200,https://highaltitudehacks.com/feed.xml,1,10,2020-09-06,7825,,application/xml,567463
+https://highon.coffee/feed.xml,highon.coffee,media,XX,en,200,https://highon.coffee/feed.xml,1,53,2024-06-10,20347,,application/xml,1525438
+https://www.highsnobiety.com/feed/,highsnobiety.com,media,XX,en,200,https://www.highsnobiety.com/feeds/rss,1,11,2026-11-19,3724,,application/octet-stream,64659
+https://www.historyisnowmagazine.com/blog?format=RSS,historyisnowmagazine.com,media,XX,en,200,https://www.historyisnowmagazine.com/blog?format=RSS,1,98,2026-11-18,22052,,application/rss+xml; charset=UTF-8,2000000
+http://www.historynet.com/feed,historynet.com,media,XX,en,200,https://historynet.com/feed/,1,20,2024-06-21,7410,,application/rss+xml; charset=UTF-8,455213
+https://www.hkcert.org/getrss/security-bulletin,hkcert.org,media,XX,en,200,https://www.hkcert.org/getrss/security-bulletin,1,20,2026-11-19,2120,,application/rss+xml;charset=utf-8;,49370
+https://www.home-assistant.io/atom.xml,home-assistant.io,media,XX,en,200,https://www.home-assistant.io/atom.xml,1,20,2026-11-18,8142,,application/xml,608672
+https://www.honest-broker.com/feed,honest-broker.com,media,XX,en,200,https://www.honest-broker.com/feed,1,20,2026-11-16,5589,,application/xml; charset=utf-8,573036
+https://www.hopinfosec.com/atom.xml,hopinfosec.com,media,XX,en,200,https://www.hopinfosec.com/atom.xml,1,8,2023-02-22,2528,,application/xml,68514
+https://horizon3.ai/feed/,horizon3.ai,media,XX,en,200,https://horizon3.ai/feed/,1,10,2026-11-19,903,,application/rss+xml; charset=UTF-8,17005
+https://hothardware.com/rss,hothardware.com,media,XX,en,200,https://hothardware.com/rss,1,25,2026-11-18,2291,,application/rss+xml; charset=utf-8,31974
+https://www.hunters.security/en/blog/rss.xml,hunters.security,media,XX,en,200,https://www.hunters.security/en/blog/rss.xml,1,10,2025-09-22,2317,,text/xml; charset=UTF-8,44800
+https://www.huntress.com/blog/rss.xml,huntress.com,media,XX,en,403,https://www.huntress.com/blog/rss.xml,0,0,,1458,,text/html; charset=UTF-8,4546
+https://hybridkey.me/index.xml,hybridkey.me,media,XX,en,200,https://hybridkey.me/index.xml,1,10,2025-02-20,1475,,application/xml,12921
+https://www.hyperstack.cloud/blog/rss.xml,hyperstack.cloud,media,XX,en,200,https://www.hyperstack.cloud/blog/rss.xml,1,0,,1381,,text/xml; charset=UTF-8,522
+https://iacr.org/news/rss,iacr.org,media,XX,en,200,https://iacr.org/news/rss/,1,64,2026-11-19,3390,,application/rss+xml,132227
+http://www.ibm.com/developerworks/views/opensource/rss/libraryview.jsp?site_id=1&contentarea_by=Linux&topic_by=All%20Linux%20Topics&product_by=&type_by=All%20Linux%20Types&search_by=&industry_by=&sort_by=Date&series_title_by=,ibm.com,media,XX,en,200,https://developer.ibm.com/devpractices/open-source-development/,0,0,,2099,,text/html; charset=utf-8,123727
+https://ichi.global/api/alerts,ichi.global,media,XX,en,200,https://ichi.global/api/alerts,1,29,2026-11-19,2237,,application/rss+xml; charset=utf-8,26902
+https://www.icij.org/feed/,icij.org,media,XX,en,200,https://www.icij.org/feed/,1,11,2026-11-18,1713,,application/rss+xml; charset=UTF-8,98511
+http://www.ictsecuritymagazine.com/feed/,ictsecuritymagazine.com,media,XX,en,200,https://www.ictsecuritymagazine.com/feed/,1,10,2026-11-17,4069,,application/rss+xml; charset=UTF-8,186414
+https://ieeexplore.ieee.org/rss/TOC10206.XML,ieee.org,media,XX,en,200,https://ieeexplore.ieee.org/rss/TOC10206.XML,1,50,2026-11-05,2547,,text/xml,113453
+https://www.ihteam.net/feed/,ihteam.net,media,XX,en,200,https://www.ihteam.net/feed/,1,10,2025-09-20,1623,,application/rss+xml; charset=UTF-8,14319
+https://ijustwannared.team/feed/,ijustwannared.team,media,XX,en,200,https://ijustwannared.team/feed/,1,10,2020-08-01,3568,,application/rss+xml; charset=UTF-8,145486
+https://blog.ikuamike.io/index.xml,ikuamike.io,media,XX,en,200,https://blog.ikuamike.io/index.xml,1,31,2024-11-17,6367,,application/xml,525876
+https://www.ilyakobzar.com/feed/,ilyakobzar.com,media,XX,en,200,https://www.ilyakobzar.com/feed/,0,0,,2006,,text/html; charset=utf-8,110410
+https://blog.impalabs.com/feed.xml,impalabs.com,media,XX,en,200,https://blog.impalabs.com/feed.xml,1,32,2023-09-19,1831,,text/xml,23984
+https://www.imperialviolet.org/iv-rss.xml,imperialviolet.org,media,XX,en,200,https://www.imperialviolet.org/iv-rss.xml,1,10,2026-11-15,3089,,text/xml; charset=utf-8,165335
+https://www.imperva.com/blog/feed/,imperva.com,media,XX,en,200,https://www.imperva.com/blog/feed/,1,10,2026-11-18,6682,,application/rss+xml; charset=UTF-8,142740
+https://blog.includesecurity.com/feed/,includesecurity.com,media,XX,en,200,https://blog.includesecurity.com/feed/,1,10,2026-11-09,6865,,application/rss+xml; charset=UTF-8,327334
+https://www.infosecnoodle.com/feed,infosecnoodle.com,media,XX,en,200,https://www.infosecnoodle.com/feed,1,4,2025-05-09,1929,,application/xml; charset=utf-8,83460
+https://www.infosecurity-magazine.com/rss/news,infosecurity-magazine.com,media,XX,en,200,https://www.infosecurity-magazine.com/rss/news/,1,250,2026-11-19,2891,,text/xml; charset=utf-8,132571
+https://infosecwriteups.com/feed,infosecwriteups.com,media,XX,en,200,https://infosecwriteups.com/feed,1,10,2026-11-18,3144,,text/xml; charset=UTF-8,103222
+https://www.infostealers.com/feed/,infostealers.com,media,XX,en,200,https://www.infostealers.com/feed/,1,10,2026-11-17,9605,,application/rss+xml; charset=UTF-8,728883
+https://www.infoworld.com/feed/,infoworld.com,media,XX,en,200,https://www.infoworld.com/feed/,1,20,2026-11-19,5334,,application/rss+xml; charset=UTF-8,207723
+http://scadamag.infracritical.com/index.php/feed/,infracritical.com,media,XX,en,200,https://scadamag.infracritical.com/index.php/feed/,1,10,2026-09-24,2409,,application/rss+xml; charset=UTF-8,67990
+https://insecuremode.com/feed.xml,insecuremode.com,media,XX,en,200,https://insecuremode.com/feed.xml,1,6,2023-01-19,2689,,application/xml,101413
+https://insinuator.net/index.xml,insinuator.net,media,XX,en,200,https://insinuator.net/index.xml,1,898,2026-11-04,12944,,application/xml,1250994
+http://candrews.integralblue.com/feed/,integralblue.com,media,XX,en,200,https://candrews.integralblue.com/feed/,1,10,2025-12-19,3920,,application/rss+xml; charset=UTF-8,292800
+https://intel471.com/blog/feed,intel471.com,media,XX,en,200,https://www.intel471.com/blog/feed,1,50,2026-11-18,2432,,application/rss+xml; charset=utf-8,31673
+http://www.intelligentexploit.com/feed/,intelligentexploit.com,media,XX,en,403,https://www.hugedomains.com/domain_profile.cfm?d=intelligentexploit.com,0,0,,1326,,text/html; charset=UTF-8,5906
+https://inteltechniques.com/blog/feed/,inteltechniques.com,media,XX,en,200,https://inteltechniques.com/blog/rss.xml,1,19,2026-10-18,3155,,application/xml,100436
+https://www.interconnects.ai/feed,interconnects.ai,media,XX,en,200,https://www.interconnects.ai/feed,1,20,2026-11-14,10089,,application/xml; charset=utf-8,522948
+https://interestingengineering.com/feed,interestingengineering.com,media,XX,en,200,https://interestingengineering.com/feed,1,10,2026-11-19,3474,,application/rss+xml; charset=UTF-8,62206
+http://www.internethistorypodcast.com/feed/,internethistorypodcast.com,media,XX,en,0,,0,0,,15254,timeout,,0
+http://www.intezer.com/feed/,intezer.com,media,XX,en,200,https://intezer.com/robots.txt,0,0,,1994,,text/plain; charset=utf-8,40
+http://intranet/feed,intranet,media,XX,en,0,,0,0,,56,"ConnectionError: HTTPConnectionPool(host='intranet', port=80): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPConnection(host='intranet', port=80): Failed to resolve 'intr",,0
+https://www.investing.com/rss/news.rss,investing.com,media,XX,en,200,https://www.investing.com/rss/news.rss,1,10,2026-11-19,1312,,application/rss+xml,4776
+https://investor.fm/feed/,investor.fm,media,XX,en,200,https://investor.fm/feed/,1,250,2026-11-19,12255,,application/rss+xml; charset=UTF-8,1518609
+https://www.ioactive.com/feed/,ioactive.com,media,XX,en,200,https://www.ioactive.com/feed/,1,10,2026-11-17,3486,,application/rss+xml; charset=UTF-8,260766
+https://www.iot-tests.org/feed/,iot-tests.org,media,XX,en,200,https://www.iot-tests.org/feed/,1,10,2026-11-19,1935,,application/rss+xml; charset=UTF-8,94250
+https://www.iotinsights.com/feed/,iotinsights.com,media,XX,en,415,https://www.iotinsights.com/feed/,0,0,,1258,,text/html,587
+https://ip3c4c.com/index.xml,ip3c4c.com,media,XX,en,200,https://ip3c4c.com/index.xml,1,47,2026-11-08,1828,,application/xml,39368
+https://ipurple.team/feed/,ipurple.team,media,XX,en,200,https://ipurple.team/feed/,1,10,2026-11-11,5342,,application/rss+xml; charset=UTF-8,559362
+http://www.ire.org/feed/,ire.org,media,XX,en,200,https://www.ire.org/feed/,1,10,2026-11-16,5768,,application/rss+xml; charset=UTF-8,106521
+https://www.iru.com/blog/archive/rss.xml,iru.com,media,XX,en,200,https://www.iru.com/blog/archive/rss.xml,1,10,2025-09-26,1746,,text/xml; charset=UTF-8,27360
+https://www.isac.bio/blog-feed.xml,isac.bio,media,XX,en,200,https://www.isac.bio/blog-feed.xml,1,20,2026-08-03,1824,,text/xml; charset=UTF-8,17650
+https://isocpp.org/blog/rss/category/news,isocpp.org,media,XX,en,403,https://isocpp.org/blog/rss/category/news,0,0,,1205,,text/html; charset=UTF-8,5775
+https://blog.isosceles.com/rss/,isosceles.com,media,XX,en,200,https://blog.isosceles.com/rss/,1,10,2024-08-23,2129,,application/rss+xml; charset=utf-8,195135
+https://rsshub.isrss.com/github/repos/mutur4,isrss.com,media,XX,en,200,https://rsshub.isrss.com/github/repos/mutur4,1,27,2026-07-15,1616,,application/xml; charset=utf-8,9241
+https://blog.itarow.xyz/index.xml,itarow.xyz,media,XX,en,200,https://blog.itarow.xyz/index.xml,1,27,2025-04-27,1828,,text/xml,24252
+https://www.itnews.asia/rss/rss.ashx,itnews.asia,media,XX,en,200,https://www.itnews.asia/rss/rss.ashx,1,20,2026-11-18,2699,,application/xml,16797
+https://www.itpro.com/feeds/tag/security,itpro.com,media,XX,en,200,https://www.itpro.com/feeds/tag/security,1,50,2026-11-19,10069,,application/xml,832256
+https://www.itsecurityguru.org/feed/,itsecurityguru.org,media,XX,en,403,https://www.itsecurityguru.org/feed/,0,0,,1065,,text/html; charset=UTF-8,5630
+https://itsfoss.com/rss/,itsfoss.com,media,XX,en,200,https://feed.itsfoss.com/,1,15,2026-11-19,5266,,text/xml,178247
+https://ittavern.com/rss.xml,ittavern.com,media,XX,en,200,https://ittavern.com/rss.xml,1,62,2026-03-29,1636,,text/xml,27519
+https://iximiuz.com/feed.atom,iximiuz.com,media,XX,en,200,https://iximiuz.com/feed.atom,1,82,2026-01-19,6677,,application/atom+xml,142695
+https://www.j4vv4d.com/feed/,j4vv4d.com,media,XX,en,200,https://javvadmalik.com/feed/,1,10,2026-11-18,4004,,application/rss+xml; charset=UTF-8,56972
+https://jacobin.com/feed/,jacobin.com,media,XX,en,200,https://jacobin.com/feed/,1,20,2026-11-19,6640,,application/xml,385910
+http://jakearchibald.com/posts.rss,jakearchibald.com,media,XX,en,200,http://jakearchibald.com/posts.rss,1,10,2026-10-15,13640,,application/rss+xml,1351353
+https://jakewnuk.com/index.xml,jakewnuk.com,media,XX,en,200,https://jakewnuk.com/index.xml,1,18,2026-10-27,1586,,application/xml,18774
+https://jamchamb.net/feed.xml,jamchamb.net,media,XX,en,200,https://jamchamb.net/feed.xml,1,7,2022-01-02,4654,,application/xml,220309
+https://james-clee.com/feed/,james-clee.com,media,XX,en,200,https://james-clee.com/feed/,1,3,2020-11-01,3202,,application/rss+xml; charset=UTF-8,64888
+https://jamesclear.com/feed,jamesclear.com,media,XX,en,200,https://jamesclear.com/feed,1,10,2020-01-06,3842,,application/rss+xml; charset=UTF-8,127952
+https://jamvie.net/posts/index.xml,jamvie.net,media,XX,en,200,https://jamvie.net/posts/index.xml,1,10,2026-08-10,1253,,application/xml,12045
+https://www.janes.com/feeds/rss,janes.com,media,XX,en,404,https://www.janes.com/feeds/rss,0,0,,1837,,text/html; charset=utf-8,79634
+https://javvadmalik.com/feed/;,javvadmalik.com,media,XX,en,200,https://javvadmalik.com/feed/,1,10,2026-11-18,3354,,application/rss+xml; charset=UTF-8,56972
+https://www.jbecker.dev/research/feed.xml,jbecker.dev,media,XX,en,200,https://www.jbecker.dev/research/feed.xml,1,19,2026-08-01,2959,,application/rss+xml; charset=utf-8,14329
+https://jc0b.computer/index.xml,jc0b.computer,media,XX,en,200,https://jc0b.computer/index.xml,1,26,2026-11-05,2088,,application/xml,10989
+https://jcjc-dev.com/atom.xml,jcjc-dev.com,media,XX,en,200,https://jcjc-dev.com/atom.xml,1,13,2024-07-22,6610,,application/xml,265994
+https://jeffhuang.com/feed.xml,jeffhuang.com,media,XX,en,200,https://jeffhuang.com/feed.xml,1,1,2020-01-31,1240,,application/xml,1853
+https://www.jefftk.com/news.rss,jefftk.com,media,XX,en,200,https://www.jefftk.com/news.rss,1,30,2026-11-18,4667,,application/rss+xml,342443
+https://jellevergeer.com/feed/,jellevergeer.com,media,XX,en,415,https://jellevergeer.com/feed/,0,0,,995,,text/html,587
+http://jerrygamblin.com/feed/,jerrygamblin.com,media,XX,en,200,https://jerrygamblin.com/feed/,1,10,2026-10-04,4551,,application/rss+xml; charset=UTF-8,202238
+https://jfrog.com/blog/feed/,jfrog.com,media,XX,en,200,https://jfrog.com/blog/feed/,1,10,2026-11-17,3490,,application/rss+xml; charset=UTF-8,153670
+https://jm33.me/feeds/all.atom.xml,jm33.me,media,XX,en,200,https://jm33.me/feeds/all.atom.xml,1,85,2026-10-15,27136,,application/xml,1833025
+https://jmpesp.me/rss/,jmpesp.me,media,XX,en,504,https://jmpesp.me/rss/,0,0,,10695,,text/html,1937
+http://blog.joeware.net/feed/,joeware.net,media,XX,en,200,http://blog.joeware.net/feed/,1,100,2026-11-15,2780,,application/rss+xml; charset=UTF-8,82232
+https://johnjhacking.com/index.xml,johnjhacking.com,media,XX,en,200,https://johnjhacking.com/index.xml,1,30,2023-01-22,3012,,application/xml,25309
+https://johnstawinski.com/feed/,johnstawinski.com,media,XX,en,200,https://johnstawinski.com/feed/,1,10,2026-06-18,4188,,application/rss+xml; charset=UTF-8,217976
+https://joho-todai.com/tag/security/rss/,joho-todai.com,media,XX,en,200,https://joho-todai.com/tag/security/rss/,1,15,2026-11-19,2775,,application/rss+xml; charset=utf-8,35410
+https://www.jordanbpeterson.com/feed,jordanbpeterson.com,media,XX,en,415,https://www.jordanbpeterson.com/feed/,0,0,,2294,,text/html,574
+https://jorenar.com/feed.xml,jorenar.com,media,XX,en,200,https://jorenar.com/feed.xml,1,10,2026-08-22,5578,,application/xml,191122
+http://blog.josefsson.org/feed/,josefsson.org,media,XX,en,200,https://blog.josefsson.org/feed/,1,143,2026-09-04,14847,,application/rss+xml; charset=UTF-8,1143224
+https://jtsylve.blog/feed.xml,jtsylve.blog,media,XX,en,200,https://jtsylve.blog/feed.xml,1,10,2026-06-12,3508,,application/xml,139352
+https://jub0bs.com/posts/index.xml,jub0bs.com,media,XX,en,200,https://jub0bs.com/posts/index.xml,1,23,2025-05-29,25359,,application/xml,993436
+https://labs.jumpsec.com/feed,jumpsec.com,media,XX,en,200,https://labs.jumpsec.com/feed,1,10,2025-12-18,5284,,application/xml,195082
+https://www.justsecurity.org/feed/,justsecurity.org,media,XX,en,200,https://www.justsecurity.org/feed/,1,10,2026-11-19,17719,,application/rss+xml; charset=UTF-8,2000000
+https://justwomenssports.com/feed/,justwomenssports.com,media,XX,en,200,https://justwomenssports.com/feed/,1,10,2026-11-18,3747,,application/rss+xml; charset=UTF-8,43604
+https://jwgoerlich.com/feed/,jwgoerlich.com,media,XX,en,200,https://jwgoerlich.com/feed/,1,10,2026-08-20,2695,,application/rss+xml; charset=UTF-8,32914
+https://blog.k3170makan.com/feeds/posts/default,k3170makan.com,media,XX,en,0,,0,0,,15554,"ConnectionError: HTTPSConnectionPool(host='blog.k3170makan.com', port=443): Max retries exceeded with url: /feeds/posts/default (Caused by NewConnectionError(""HTTPSConnection(host='blog.k3170makan.",,0
+https://www.kali.org/rss.xml,kali.org,media,XX,en,200,https://www.kali.org/rss.xml,1,10,2026-11-04,6712,,application/xml,221253
+http://www.kamilonurozkaleli.com/index.xml,kamilonurozkaleli.com,media,XX,en,200,http://www.kamilonurozkaleli.com/index.xml,1,4,2024-09-14,489,,application/xml,4953
+https://kanenarraway.com/index.xml,kanenarraway.com,media,XX,en,200,https://kanenarraway.com/index.xml,1,23,2026-08-17,1904,,application/xml,10960
+https://blog.karims.cloud/feed.xml,karims.cloud,media,XX,en,200,https://blog.karims.cloud/feed.xml,1,10,2024-04-30,3965,,application/xml,91786
+https://ics-cert.kaspersky.com/feed/,kaspersky.com,media,XX,en,200,https://ics-cert.kaspersky.com/feed/,1,475,2026-11-10,6789,,application/rss+xml; charset=UTF-8,408466
+https://www.kdnuggets.com/feed,kdnuggets.com,media,XX,en,200,https://www.kdnuggets.com/feed,1,10,2026-11-19,2004,,application/rss+xml; charset=UTF-8,9255
+https://www.keengamer.com/feed/,keengamer.com,media,XX,en,200,https://www.keengamer.com/feed/,1,20,2026-11-19,6720,,application/rss+xml; charset=UTF-8,327614
+https://keowu.re/feed.xml,keowu.re,media,XX,en,200,https://keowu.re/feed.xml,1,23,2026-07-19,2640,,application/rss+xml; charset=utf-8,29714
+https://www.kernel.org/feeds/kdist.xml,kernel.org,media,XX,en,200,https://www.kernel.org/feeds/kdist.xml,1,10,2026-11-18,1927,,text/xml; charset=utf-8,13934
+http://www.kernelpicnic.net/feed.xml,kernelpicnic.net,media,XX,en,200,http://www.kernelpicnic.net/feed.xml,1,10,2023-03-25,3071,,application/xml,191164
+https://keymaterial.net/feed/,keymaterial.net,media,XX,en,200,https://keymaterial.net/feed/,1,10,2026-06-18,4695,,application/rss+xml; charset=UTF-8,300267
+https://www.kguttag.com/feed,kguttag.com,media,XX,en,200,https://kguttag.com/feed/,1,10,2026-11-13,9217,,application/rss+xml; charset=UTF-8,558545
+https://khronokernel.com/feed.xml,khronokernel.com,media,XX,en,200,https://khronokernel.com/feed.xml,1,10,2025-06-20,3647,,application/xml,158848
+https://kibty.town/blog.rss,kibty.town,media,XX,en,200,https://eva.ac/blog.rss,1,7,2026-11-01,5049,,application/rss+xml,61062
+https://kicksec.io/feed/,kicksec.io,media,XX,en,525,https://kicksec.io/feed/,0,0,,2414,,text/html; charset=UTF-8,7713
+https://kirbyidau.com/feed/,kirbyidau.com,media,XX,en,200,https://kirbyidau.com/feed/,1,100,2026-11-06,5282,,application/rss+xml; charset=UTF-8,357074
+https://kiwidog.me/feed/,kiwidog.me,media,XX,en,200,https://kiwidog.me/feed/,1,10,2024-09-06,5530,,application/rss+xml; charset=UTF-8,73745
+https://klarsen.net/feed/,klarsen.net,media,XX,en,200,https://klarsen.net/feed/,1,3,2026-03-04,2387,,application/rss+xml; charset=UTF-8,79941
+https://knowablemagazine.org/rss,knowablemagazine.org,media,XX,en,200,https://knowablemagazine.org/rss,1,20,2026-11-18,2102,,application/rss+xml;charset=UTF-8,18681
+https://www.koreaherald.com/rss/newsAll,koreaherald.com,media,XX,en,200,https://www.koreaherald.com/rss/newsAll,1,50,2026-11-19,3650,,xml;charset=UTF-8,59247
+http://blog.kotowicz.net/feeds/posts/default,kotowicz.net,media,XX,en,200,http://feeds.feedburner.com/TheWorldAccordingToKoto,1,25,2016-06-28,3433,,text/xml; charset=utf-8,299883
+https://kqx.io/index.xml,kqx.io,media,XX,en,200,https://kqx.io/index.xml,1,25,2026-11-11,938,,application/xml,8342
+http://krebsonsecurity.com/feed/,krebsonsecurity.com,media,XX,en,200,https://krebsonsecurity.com/feed/,1,10,2026-11-18,6657,,application/rss+xml; charset=UTF-8,120398
+https://ktln2.org/rss.xml,ktln2.org,media,XX,en,200,https://ktln2.org/rss.xml,1,10,2025-12-20,940,,text/xml,10726
+https://blog.kylebot.net/atom.xml,kylebot.net,media,XX,en,200,https://blog.kylebot.net/atom.xml,1,8,2022-10-22,943,,application/xml,13971
+https://blog.kyntra.io/feed.xml,kyntra.io,media,XX,en,200,https://blog.kyntra.io/feed.xml,1,4,2026-02-17,7624,,text/xml,422789
+https://www.l3harris.com/feeds/newsroom/rss.xml,l3harris.com,media,XX,en,200,https://www.l3harris.com/feeds/newsroom/rss.xml,1,75,2026-11-18,3829,,application/rss+xml; charset=utf-8,65519
+https://lab52.io/blog/feed/,lab52.io,media,XX,en,0,,0,0,,1066,"SSLError: HTTPSConnectionPool(host='lab52.io', port=443): Max retries exceeded with url: /blog/feed/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in v",,0
+https://labmuffin.com/feed/,labmuffin.com,media,XX,en,200,https://labmuffin.com/feed/,1,10,2026-10-16,2979,,application/rss+xml; charset=UTF-8,27651
+http://www.labofapenetrationtester.com/feeds/posts/default,labofapenetrationtester.com,media,XX,en,200,http://www.labofapenetrationtester.com/feeds/posts/default,1,25,2019-08-23,7503,,application/atom+xml; charset=UTF-8,682993
+https://lambda.ai/blog/rss.xml,lambda.ai,media,XX,en,200,https://lambda.com/blog/rss.xml,1,10,2026-11-16,2912,,text/xml; charset=UTF-8,29053
+https://lambda.com/blog/rss.xml;,lambda.com,media,XX,en,404,https://lambda.com/blog/rss.xml;,0,0,,3676,,text/html;charset=utf-8,38115
+https://landaire.net/atom.xml,landaire.net,media,XX,en,200,https://landaire.net/atom.xml,1,14,2026-07-14,15048,,application/xml,1598027
+https://landave.io/post/index.xml,landave.io,media,XX,en,200,https://landave.io/post/index.xml,1,8,2020-11-10,2707,,text/xml,7657
+https://www.lares.com/feed/,lares.com,media,XX,en,415,https://www.lares.com/feed/,0,0,,804,empty body (status 415),,0
+https://www.lastwatchdog.com/feed/,lastwatchdog.com,media,XX,en,202,https://www.lastwatchdog.com/feed/,0,0,,810,,text/html,174
+https://www.lastweekinaws.com/feed/,lastweekinaws.com,media,XX,en,200,https://www.lastweekinaws.com/feed.xml,1,12,2026-09-24,2747,,application/rss+xml; charset=UTF-8,119107
+https://latent.space/feed,latent.space,media,XX,en,200,https://latent.space/feed,1,20,2026-11-19,15641,,application/rss+xml; charset=utf-8,816359
+https://pulse.latio.tech/feed,latio.tech,media,XX,en,200,https://pulse.latio.tech/feed,1,20,2026-10-23,6329,,application/xml; charset=utf-8,416405
+https://laurencetennant.com/feed.xml,laurencetennant.com,media,XX,en,200,https://laurencetennant.com/feed.xml,1,10,2026-10-14,4145,,application/xml,76096
+http://www.legacyy.xyz/feed.xml,legacyy.xyz,media,XX,en,200,http://www.legacyy.xyz/feed.xml,1,7,2025-04-16,6147,,application/xml,289054
+https://www.legitsecurity.com/blog/rss.xml,legitsecurity.com,media,XX,en,200,https://www.legitsecurity.com/blog,0,0,,1620,,text/html; charset=utf-8,103127
+https://www.lennysnewsletter.com/feed,lennysnewsletter.com,media,XX,en,200,https://www.lennysnewsletter.com/feed,1,20,2026-11-17,6638,,application/xml; charset=utf-8,566779
+https://lessonsec.com/index.xml,lessonsec.com,media,XX,en,200,https://lessonsec.com/index.xml,1,19,2026-10-11,5550,,application/xml,276611
+https://www.letsrun.com/feed/,letsrun.com,media,XX,en,200,https://www.letsrun.com/feed/,1,10,2026-11-18,2918,,application/rss+xml; charset=UTF-8,24498
+https://www.levelblue.com/blogs/spiderlabs-blog/rss.xml,levelblue.com,media,XX,en,200,https://www.levelblue.com/blogs/spiderlabs-blog/rss.xml,1,10,2026-11-18,2467,,text/xml; charset=UTF-8,64371
+https://www.lexsi.com/securityhub/feed/,lexsi.com,media,XX,en,0,,0,0,,476,"ConnectionError: HTTPSConnectionPool(host='www.lexsi.com', port=443): Max retries exceeded with url: /securityhub/feed/ (Caused by NameResolutionError(""HTTPSConnection(host='www.lexsi.com', port=44",,0
+http://thegrowthshow.hubspot.libsynpro.com/,libsynpro.com,media,XX,en,200,https://feeds.megaphone.fm/HS8360247339,1,214,2024-12-13,6018,,application/xml; charset=utf-8,564583
+http://lifeinhex.com/feed/,lifeinhex.com,media,XX,en,200,http://lifeinhex.com/feed/,1,10,2026-07-20,2717,,application/rss+xml; charset=UTF-8,58928
+http://www.lightbluetouchpaper.org/feed/,lightbluetouchpaper.org,media,XX,en,0,,0,0,,1490,"SSLError: HTTPSConnectionPool(host='www.lightbluetouchpaper.org', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_F",,0
+https://ligniform.blog/posts/index.xml,ligniform.blog,media,XX,en,200,https://ligniform.blog/posts/index.xml,1,61,2026-02-24,1160,,text/xml; charset=utf-8,22590
+https://liliputing.com/feed/,liliputing.com,media,XX,en,200,https://liliputing.com/feed/,1,20,2026-11-17,2365,,text/xml; charset=UTF-8,53568
+https://limitedresults.com/api/rss,limitedresults.com,media,XX,en,200,https://limitedresults.com/api/rss,1,13,2021-06-22,1820,,application/xml; charset=utf-8,8732
+https://linderud.dev/index.xml,linderud.dev,media,XX,en,200,https://linderud.dev/index.xml,1,32,2026-08-01,7716,,text/xml; charset=utf-8,39915
+https://www.linux.com/feeds/rss,linux.com,media,XX,en,200,https://www.linux.com/news/rss-10-released/,0,0,,2720,,text/html; charset=UTF-8,130340
+https://linuxgizmos.com/feed,linuxgizmos.com,media,XX,en,202,https://linuxgizmos.com/feed,0,0,,504,,text/html,171
+https://linuxsecurity.com/advisories/debian?format=feed&type=rss,linuxsecurity.com,media,XX,en,200,https://linuxsecurity.com/advisories/debian?format=feed&type=rss,1,5,2026-11-19,770,,application/rss+xml; charset=utf-8,5606
+https://www.linuxtoday.com/feed,linuxtoday.com,media,XX,en,200,https://www.linuxtoday.com/feed/,1,10,2026-11-18,2021,,application/rss+xml; charset=UTF-8,18299
+https://logicaltrust.net/feed.xml,logicaltrust.net,media,XX,en,200,https://logicaltrust.net/feed.xml,1,10,2025-06-24,1909,,application/xml,135686
+https://longreads.com/feed/,longreads.com,media,XX,en,200,https://longreads.com/feed/,1,25,2026-11-19,7276,,application/rss+xml; charset=UTF-8,254271
+https://www.longwarjournal.org/feed,longwarjournal.org,media,XX,en,200,https://www.longwarjournal.org/feed,1,30,2026-11-18,3035,,application/rss+xml; charset=UTF-8,44272
+http://www.loopinsight.com/feed/,loopinsight.com,media,XX,en,200,https://loopinsight.com/feed/,1,20,2026-11-13,4256,,application/rss+xml; charset=UTF-8,92868
+https://louderwithcrowder.com/feed,louderwithcrowder.com,media,XX,en,200,https://www.louderwithcrowder.com/feeds/feed.rss,1,30,2026-11-19,11985,,application/rss+xml; charset=utf-8,166345
+https://lowrisc.org/feed/,lowrisc.org,media,XX,en,200,https://lowrisc.org/feed/,1,10,2026-11-17,3442,,application/rss+xml; charset=UTF-8,133932
+https://lucasteske.dev/feed.xml,lucasteske.dev,media,XX,en,200,https://lucasteske.dev/feed.xml,1,10,2026-08-08,7155,,application/xml,445707
+https://www.lucavallin.com/feed.xml,lucavallin.com,media,XX,en,200,https://www.lucavallin.com/feed.xml,1,48,2026-11-05,2013,,application/xml,39263
+http://blog.lukaszolejnik.com/rss/,lukaszolejnik.com,media,XX,en,200,https://blog.lukaszolejnik.com/rss/,1,15,2026-11-12,3336,,application/rss+xml; charset=utf-8,149123
+https://lukesmith.xyz/rss.xml,lukesmith.xyz,media,XX,en,200,https://lukesmith.xyz/rss.xml,1,50,2026-10-29,6789,,text/xml,642028
+https://lwn.net/headlines/rss,lwn.net,media,XX,en,200,https://lwn.net/headlines/rss,1,15,2026-11-19,1746,,application/xml,25645
+https://lyra.horse/blog/index.xml,lyra.horse,media,XX,en,200,https://lyra.horse/blog/index.xml,1,7,2026-11-11,1813,,text/xml; charset=UTF-8,3244
+https://m417z.com/feed.xml,m417z.com,media,XX,en,200,https://m417z.com/feed.xml,1,10,2024-02-12,4189,,application/xml,176694
+http://www.mac4n6.com/blog?format=rss,mac4n6.com,media,XX,en,200,http://www.mac4n6.com/blog?format=rss,1,20,2025-03-18,7852,,application/rss+xml; charset=UTF-8,610282
+http://feeds.macosxhints.com/macosxhints/recent,macosxhints.com,media,XX,en,0,,0,0,,832,"ConnectionError: HTTPConnectionPool(host='hints.macworld.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPConnection(host='hints.macworld.com', port=80): Failed ",,0
+https://macrosec.tech/index.php/feed/,macrosec.tech,media,XX,en,200,https://macrosec.tech/index.php/feed/,1,10,2022-06-01,7165,,application/rss+xml; charset=UTF-8,459037
+https://www.madamasr.com/en/feed/,madamasr.com,media,XX,en,200,https://www.madamasr.com/en/feed/,1,10,2026-10-27,3649,,application/rss+xml; charset=UTF-8,175480
+https://www.madfientist.com/feed/,madfientist.com,media,XX,en,429,https://www.madfientist.com/feed/,0,0,,1780,,text/html; charset=iso-8859-1,267
+http://www.madirish.net/rss.php,madirish.net,media,XX,en,403,https://www.madirish.net/rss.php,0,0,,1562,,text/html; charset=iso-8859-1,318
+https://malacupa.com/atom.xml,malacupa.com,media,XX,en,200,https://malacupa.com/atom.xml,1,10,2026-06-14,5495,,application/xml,76442
+https://malicious.dev/index.xml,malicious.dev,media,XX,en,200,https://malicious.dev/index.xml,1,3,2025-08-18,1415,,application/xml,3864
+https://malicious.group/rss/,malicious.group,media,XX,en,200,https://malicious.group/rss/,1,8,2026-05-30,7414,,application/rss+xml; charset=utf-8,297998
+https://malicious.life/feed/podcast/,malicious.life,media,XX,en,200,https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f,1,265,2024-12-10,5619,,text/xml,581079
+https://malicious.link/post/index.xml,malicious.link,media,XX,en,200,https://malicious.link/posts/index.xml,1,10,2023-04-16,2171,,text/xml,9100
+https://malicious.pro/index.xml,malicious.pro,media,XX,en,200,https://malicious.pro/index.xml,1,6,2025-01-29,2070,,application/xml,3769
+https://www.malware-traffic-analysis.net/blog-entries.rss,malware-traffic-analysis.net,media,XX,en,200,https://www.malware-traffic-analysis.net/blog-entries.rss,1,7,,4277,,application/x-rss+xml,2139
+https://malware.news/latest.rss,malware.news,media,XX,en,200,https://malware.news/latest.rss,1,30,2026-11-19,7013,,application/rss+xml; charset=utf-8,289283
+https://malware.pizza/feed/,malware.pizza,media,XX,en,200,https://malware.pizza/feed/,1,2,2020-06-19,2059,,application/rss+xml; charset=UTF-8,104059
+https://www.malwarebytes.com/blog/feed/index.xml,malwarebytes.com,media,XX,en,200,https://www.malwarebytes.com/blog/feed/index.xml,1,20,2026-11-19,6324,,text/xml; charset=UTF-8,237959
+https://blog.malwarebytes.org/feed/,malwarebytes.org,media,XX,en,200,https://www.malwarebytes.com/blog/feed/index.xml,1,20,2026-11-19,7462,,text/xml; charset=UTF-8,237959
+http://blog.malwaremustdie.org/atom.xml,malwaremustdie.org,media,XX,en,200,https://blog.malwaremustdie.org/feeds/posts/default?alt=atom,1,25,2026-11-13,4992,,application/atom+xml; charset=UTF-8,43437
+https://malwaretech.com/feed,malwaretech.com,media,XX,en,200,https://malwaretech.com/feed,1,10,2026-09-03,2597,,text/xml,10134
+https://malwarewerewolf.com/posts/index.xml,malwarewerewolf.com,media,XX,en,200,https://malwarewerewolf.com/posts/index.xml,1,22,2024-08-17,3875,,application/xml,271415
+https://www.mandiant.com/resources/blog/rss.xml,mandiant.com,media,XX,en,200,https://cloud.google.com/security/mandiant,0,0,,14974,,text/html; charset=utf-8,1756331
+http://manifestsecurity.com/feed/,manifestsecurity.com,media,XX,en,200,http://manifestsecurity.com/feed/,1,10,2016-03-23,2000,,text/html,29419
+http://marcrogers.org/feed/,marcrogers.org,media,XX,en,403,https://marcrogers.org/feed/,0,0,,775,,text/html,1762
+https://www.marctomarket.com/feeds/posts/default,marctomarket.com,media,XX,en,200,https://www.marctomarket.com/feeds/posts/default,1,25,2026-11-19,6667,,application/atom+xml; charset=UTF-8,527393
+https://margin.re/blog/rss/,margin.re,media,XX,en,200,https://margin.re/blog/rss/,1,15,2026-08-19,4375,,application/rss+xml; charset=utf-8,364825
+https://marginalrevolution.com/feed,marginalrevolution.com,media,XX,en,200,https://marginalrevolution.com/feed,1,15,2026-11-19,2207,,application/rss+xml; charset=UTF-8,57763
+https://mariokartwii.com/syndication.php?type=atom1.0,mariokartwii.com,media,XX,en,200,https://mariokartwii.com/syndication.php?type=atom1.0,1,15,2026-11-13,3968,,"application/atom+xml; charset=""UTF-8""",81747
+https://markitzeroday.com/feed.xml,markitzeroday.com,media,XX,en,200,https://markitzeroday.com/feed.xml,1,10,2026-11-04,3489,,application/xml,90393
+https://markuta.com/index.xml,markuta.com,media,XX,en,200,https://markuta.com/index.xml,1,37,2026-03-24,2480,,application/xml,18641
+http://www.martinvigo.com/feed/,martinvigo.com,media,XX,en,0,,0,0,,15388,timeout,,0
+https://mastersplinter.work/research/index.xml,mastersplinter.work,media,XX,en,200,https://mastersplinter.work/research/index.xml,1,5,2025-06-08,5374,,application/xml,3615
+https://www.matiassoler.com/index.xml,matiassoler.com,media,XX,en,200,https://www.matiassoler.com/index.xml,1,1,2025-07-11,3317,,application/xml,1735
+https://www.matteomalvica.com/index.xml,matteomalvica.com,media,XX,en,200,https://www.matteomalvica.com/index.xml,1,20,2024-06-05,3639,,application/xml,18318
+https://www.mattjay.com/feed.xml,mattjay.com,media,XX,en,200,https://www.mattjay.com/feed.xml,1,10,2024-09-19,3007,,application/xml,112916
+https://maxwelldulin.com/api/rss/blog,maxwelldulin.com,media,XX,en,200,https://maxwelldulin.com/api/rss/blog,1,5,2026-11-17,4385,,application/rss+xml; charset=utf-8,82536
+https://mayakaczorowski.com/feed.xml,mayakaczorowski.com,media,XX,en,200,https://mayakaczorowski.com/feed.xml,1,10,2025-09-12,4687,,application/xml,173415
+https://mbgsec.com/feed.xml,mbgsec.com,media,XX,en,200,https://mbgsec.com/feed.xml,1,10,2026-08-06,4461,,application/xml,165236
+http://blogs.mcafee.com/feed,mcafee.com,media,XX,en,0,,0,0,,31,"ConnectionError: HTTPConnectionPool(host='blogs.mcafee.com', port=80): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPConnection(host='blogs.mcafee.com', port=80): Failed ",,0
+https://www.mckinsey.com/rss,mckinsey.com,media,XX,en,200,https://www.mckinsey.com/insights/rss,1,50,2026-11-19,2538,,application/xml,41654
+https://mcuoneclipse.com/feed/,mcuoneclipse.com,media,XX,en,200,https://mcuoneclipse.com/feed/,1,10,2026-11-19,1177,,application/rss+xml; charset=UTF-8,37064
+https://mcyoung.xyz/feed.xml,mcyoung.xyz,media,XX,en,200,https://mcyoung.xyz/feed.xml,1,24,2026-05-04,26797,,application/xml,2000000
+https://www.mdpi.com/rss/journal/electronics,mdpi.com,media,XX,en,403,https://www.mdpi.com/rss/journal/electronics,0,0,,734,,text/html,397
+http://mediagazer.com/feed.xml,mediagazer.com,media,XX,en,200,https://mediagazer.com/feed.xml,1,15,2026-11-19,3516,,text/xml,21242
+https://mehmetince.net/feed/,mehmetince.net,media,XX,en,200,https://mehmetince.net/feed/,1,10,2026-11-09,13211,,application/rss+xml; charset=UTF-8,1005321
+http://www.memeorandum.com/feed.xml,memeorandum.com,media,XX,en,200,https://www.memeorandum.com/feed.xml,1,15,2026-11-19,3140,,text/xml,20144
+https://memorycorruption.net/index.xml,memorycorruption.net,media,XX,en,200,https://memorycorruption.net/index.xml,1,1,2024-06-29,2662,,application/xml,1386
+https://en.mercopress.com/rss/,mercopress.com,media,XX,en,200,https://en.mercopress.com/rss/,1,10,2026-11-19,1008,,application/xml; charset=utf-8,16355
+https://rtx.meta.security/feed.xml,meta.security,media,XX,en,200,https://rtx.meta.security/feed.xml,1,9,2026-11-09,4095,,application/xml,227853
+https://mez0.cc/rss.xml,mez0.cc,media,XX,en,200,https://mez0.cc/rss.xml,1,16,2026-07-09,1334,,application/xml,8626
+https://mgeeky.tech/feed/,mgeeky.tech,media,XX,en,404,https://mgeeky.tech/feed/,0,0,,1031,,text/html; charset=utf-8,4559
+https://blog.mggross.com/atom.xml,mggross.com,media,XX,en,200,https://blog.mggross.com/atom.xml,1,5,2025-01-05,2890,,text/xml,105950
+https://micahvandeusen.com/blog/rss.xml,micahvandeusen.com,media,XX,en,200,https://micahvandeusen.com/blog/rss.xml,1,7,2022-07-28,4129,,application/xml,97845
+https://latacora.micro.blog/feed.xml,micro.blog,media,XX,en,200,https://www.latacora.com/blog/index.xml,1,35,2026-10-14,3379,,application/xml,44176
+https://www.middleeasteye.net/rss,middleeasteye.net,media,XX,en,200,https://www.middleeasteye.net/rss,1,20,2026-11-19,1361,,application/rss+xml; charset=utf-8,95425
+https://miloserdov.org/?feed=rss2,miloserdov.org,media,XX,en,200,https://hackware.ru/?p=miloserdovorg,0,0,,2412,,text/html; charset=UTF-8,21073
+http://blog.mindedsecurity.com/feeds/posts/default,mindedsecurity.com,media,XX,en,200,https://blog.mindedsecurity.com/feeds/posts/default,1,25,2024-05-07,16050,,application/atom+xml; charset=UTF-8,1375436
+http://miniflux.internal/feed,miniflux.internal,media,XX,en,0,,0,0,,118,"ConnectionError: HTTPConnectionPool(host='miniflux.internal', port=80): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPConnection(host='miniflux.internal', port=80): Faile",,0
+https://www.mishtalk.com/feed/,mishtalk.com,media,XX,en,200,https://mishtalk.com/feed/,1,10,2026-11-19,2732,,application/rss+xml; charset=UTF-8,10575
+https://misinfocon.com/feed,misinfocon.com,media,XX,en,0,,0,0,,180547,timeout,,0
+https://news.mit.edu/topic/mitcyber-security-rss.xml,mit.edu,media,XX,en,200,https://news.mit.edu/topic/mitcyber-security-rss.xml,1,50,2026-11-12,4722,,application/rss+xml; charset=utf-8,544636
+https://www.mlb.com/feeds/news/rss.xml,mlb.com,media,XX,en,200,https://www.mlb.com/feeds/news/rss.xml,1,25,2026-11-19,2264,,text/xml; charset=utf-8,15995
+https://www.mlbtraderumors.com/feed/,mlbtraderumors.com,media,XX,en,200,https://www.mlbtraderumors.com/feed,1,15,2026-11-19,4235,,text/html; charset=UTF-8,123522
+https://www.mmafighting.com/rss/index.xml,mmafighting.com,media,XX,en,200,https://www.mmafighting.com/rss/index.xml,1,10,2026-11-19,3636,,application/xml; charset=UTF-8,69600
+https://modernciso.com/feed/,modernciso.com,media,XX,en,200,https://kudelskisecurity.com/modern-ciso,0,0,,2544,,text/html; charset=utf-8,65853
+https://modzero.com/en/blog/index.xml,modzero.com,media,XX,en,200,https://modzero.com/en/blog/index.xml,1,17,2026-06-03,6328,,text/xml,416739
+https://greg.molnar.io/feed.xml,molnar.io,media,XX,en,200,https://greg.molnar.io/feed.xml,1,10,2026-11-07,1304,,text/xml,10431
+https://momo5502.com/posts/index.xml,momo5502.com,media,XX,en,200,https://momo5502.com/posts/index.xml,1,12,2026-10-09,1852,,application/xml,14584
+http://mondaynote.com/feed,mondaynote.com,media,XX,en,0,,0,0,,180887,timeout,,0
+https://mondediplo.com/backend,mondediplo.com,media,XX,en,200,https://mondediplo.com/backend,1,10,2026-11-12,1123,,text/xml; charset=utf-8,10111
+https://monevator.com/feed/,monevator.com,media,XX,en,200,https://monevator.com/feed/,1,12,2026-11-19,2576,,application/rss+xml; charset=UTF-8,145707
+https://news.mongabay.com/feed/,mongabay.com,media,XX,en,200,https://news.mongabay.com/feed/,1,32,2026-11-19,2899,,text/xml; charset=UTF-8,122672
+http://blog.mozilla.com/security/feed/,mozilla.com,media,XX,en,200,https://blog.mozilla.org/security/feed/,1,10,2026-11-10,3443,,application/rss+xml; charset=UTF-8,116067
+https://mrbruh.com/index.xml,mrbruh.com,media,XX,en,200,https://mrbruh.com/index.xml,1,16,2026-10-22,1582,,application/xml; charset=utf-8,15101
+https://mrvar0x.com/feed/,mrvar0x.com,media,XX,en,200,https://mrvar0x.com/feed/,1,10,2026-05-19,3405,,application/rss+xml; charset=UTF-8,168396
+http://www.msreverseengineering.com/blog?format=RSS,msreverseengineering.com,media,XX,en,200,https://www.msreverseengineering.com/blog?format=RSS,1,20,2024-08-22,3818,,application/rss+xml; charset=UTF-8,598758
+https://mtlynch.io/feed.xml,mtlynch.io,media,XX,en,200,https://mtlynch.io/index.xml,1,45,2026-11-17,20881,,application/xml,2000000
+https://mwl.io/feed,mwl.io,media,XX,en,0,,0,0,,15586,timeout,,0
+https://blog.mzfr.me/index.xml,mzfr.me,media,XX,en,200,https://blog.mzfr.me/index.xml,1,37,2026-04-01,1401,,application/xml,27481
+https://n.example/feed,n.example,media,XX,en,0,,0,0,,105,"ConnectionError: HTTPSConnectionPool(host='n.example', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPSConnection(host='n.example', port=443): Failed to resolve",,0
+https://n0.lol/index.xml,n0.lol,media,XX,en,200,https://n0.lol/index.xml,1,99,2025-11-25,10577,,application/xml,716505
+https://www.n00py.io/feed/,n00py.io,media,XX,en,200,https://www.n00py.io/feed/,1,10,2025-04-21,2398,,application/rss+xml; charset=UTF-8,143727
+https://n4r1b.com/index.xml,n4r1b.com,media,XX,en,200,https://n4r1b.com/index.xml,1,10,2023-03-04,1165,,application/xml,8869
+https://nahamsec.com/posts?format=rss,nahamsec.com,media,XX,en,200,https://www.nahamsec.com/posts?format=rss,1,8,2025-02-05,2609,,application/rss+xml; charset=UTF-8,134639
+https://www.naksyn.com/atom.xml,naksyn.com,media,XX,en,200,https://www.naksyn.com/atom.xml,1,6,2024-07-02,2838,,text/xml,175593
+https://nao-sec.org/feed.xml,nao-sec.org,media,XX,en,200,https://nao-sec.org/feed.xml,1,10,2024-10-16,5903,,application/xml,420063
+https://nasm.re/rss.xml,nasm.re,media,XX,en,200,https://nasm.re/rss.xml,1,28,2026-11-10,7006,,application/xml,707257
+https://www.nature.com/nature.rss,nature.com,media,XX,en,200,https://www.nature.com/nature.rss,1,75,2026-11-19,8867,,application/rss+xml; charset=utf-8,131850
+https://blog.nature.org/feed/,nature.org,media,XX,en,200,https://blog.nature.org/feed/,1,10,2026-10-15,773,,application/rss+xml; charset=UTF-8,13518
+https://nautil.us/feed/,nautil.us,media,XX,en,200,https://nautil.us/feed,1,10,2026-11-19,1118,,application/rss+xml; charset=UTF-8,11214
+https://navendu.me/index.xml,navendu.me,media,XX,en,200,https://navendu.me/index.xml,1,106,2026-08-11,1816,,application/xml,61940
+https://feeds.nbcnews.com/nbcnews/public/world,nbcnews.com,media,XX,en,200,https://feeds.nbcnews.com/nbcnews/public/world,1,25,2026-11-19,1873,,text/xml; charset=UTF-8,65754
+https://www.nbcsandiego.com/?rss=y,nbcsandiego.com,media,XX,en,200,https://www.nbcsandiego.com/?rss=y,1,51,2026-11-19,15267,,text/xml;charset=utf-8,456554
+https://profootballtalk.nbcsports.com/feed/,nbcsports.com,media,XX,en,200,https://www.nbcsports.com/profootballtalk.rss,1,30,2026-11-19,3230,,application/xml;charset=utf-8,184968
+https://nebelwelt.net/blog/feeds/all.atom.xml,nebelwelt.net,media,XX,en,200,https://nebelwelt.net/blog/feeds/all.atom.xml,1,100,2026-09-17,10179,,application/xml,941540
+https://status.nebius.com/history.rss,nebius.com,media,XX,en,200,https://status.nebius.com/history.rss,1,25,2026-11-11,1860,,application/rss+xml; charset=utf-8,33008
+https://nebusec.ai/rss.xml,nebusec.ai,media,XX,en,200,https://nebusec.ai/rss.xml,1,13,2026-11-16,941,,application/xml,9351
+https://neimanslab.org/feed.xml,neimanslab.org,media,XX,en,200,https://neimanslab.org/feed.xml,1,10,2026-11-03,3062,,application/xml,84737
+https://neodyme.io/rss.xml,neodyme.io,media,XX,en,200,https://neodyme.io/rss.xml,1,40,2026-11-19,1881,,text/xml,27415
+https://www.neowin.net/news/rss,neowin.net,media,XX,en,200,https://www.neowin.net/news/rss/,1,40,2026-11-19,1930,,application/xml,54236
+https://neroteam.com/blog/feed,neroteam.com,media,XX,en,200,https://neroteam.com/blog/feed,1,22,2026-03-23,6796,,application/rss+xml; charset=UTF-8,280225
+https://netblocks.org/feed,netblocks.org,media,XX,en,200,https://netblocks.org/feed,1,10,2023-08-26,1645,,application/rss+xml; charset=UTF-8,102022
+https://www.netflixinvestor.com/rss/pressrelease.aspx,netflixinvestor.com,media,XX,en,200,https://ir.netflix.net/rss/pressrelease.aspx,1,10,2026-09-14,2399,,text/xml; charset=utf-8,4314
+http://www.netmeister.org/blog/rss.xml,netmeister.org,media,XX,en,200,https://www.netmeister.org/blog/rss.xml,1,259,2026-11-13,2332,,application/xml,106420
+http://www.netresec.com/rss.ashx,netresec.com,media,XX,en,200,http://www.netresec.com/rss.ashx,1,8,2026-10-19,1598,,application/rss+xml; charset=utf-8,74025
+https://www.netspi.com/blog/rssid/1,netspi.com,media,XX,en,200,https://www.netspi.com/feed/,1,10,2026-11-19,4789,,application/rss+xml; charset=UTF-8,413764
+https://labs.nettitude.com/feed/,nettitude.com,media,XX,en,200,https://labs.nettitude.com/feed/,1,10,2024-09-18,4830,,application/rss+xml; charset=UTF-8,330161
+https://new.example/feed,new.example,media,XX,en,0,,0,0,,178,"ConnectionError: HTTPSConnectionPool(host='new.example', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPSConnection(host='new.example', port=443): Failed to res",,0
+https://www.newarab.com/rss,newarab.com,media,XX,en,403,https://www.newarab.com/rss,0,0,,904,,text/html,372
+https://www.newscientist.com/feed/home/,newscientist.com,media,XX,en,406,https://www.newscientist.com/feed/home/,0,0,,642,empty body (status 406),text/html; charset=utf-8,0
+https://www.newsweek.com/rss,newsweek.com,media,XX,en,406,https://www.newsweek.com/rss,0,0,,589,empty body (status 406),,0
+https://www.newyorker.com/feed/rss,newyorker.com,media,XX,en,200,https://www.newyorker.com/feed/rss,1,30,2026-11-19,1195,,application/xml,22510
+https://www.nextron-systems.com/feed/,nextron-systems.com,media,XX,en,200,https://www.nextron-systems.com/feed/,1,10,2026-10-29,3637,,application/rss+xml; charset=UTF-8,139491
+http://blog.nibblesec.org/feeds/posts/default,nibblesec.org,media,XX,en,200,http://feeds2.feedburner.com/NibbleSecurity,1,25,2016-10-02,4052,,text/xml; charset=utf-8,340972
+https://nicolo.dev/index.xml,nicolo.dev,media,XX,en,200,https://nicolo.dev/index.xml,1,24,2026-03-09,1411,,application/xml,28876
+http://www.niemanlab.org/feed/,niemanlab.org,media,XX,en,200,https://www.niemanlab.org/feed/,1,30,2026-11-18,8274,,application/rss+xml; charset=UTF-8,468231
+https://wwws.nightwatchcybersecurity.com/feed/,nightwatchcybersecurity.com,media,XX,en,403,https://wwws.nightwatchcybersecurity.com/feed/,0,0,,1136,,text/html,1762
+https://nixintel.info/feed/,nixintel.info,media,XX,en,200,https://nixintel.info/feed/,1,10,2026-01-11,6036,,application/rss+xml; charset=UTF-8,207675
+http://luke.abq.nm.us/feed.xml,nm.us,media,XX,en,200,http://luke.abq.nm.us/feed.xml,1,3,2026-06-14,1763,,application/xml,92622
+http://zitstif.no-ip.org/?feed=rss2,no-ip.org,media,XX,en,0,,0,0,,15499,timeout,,0
+https://www.noahpinion.blog/feed,noahpinion.blog,media,XX,en,200,https://www.noahpinion.blog/feed,1,20,2026-11-18,9063,,application/xml; charset=utf-8,989821
+http://cavallette.noblogs.org/feed,noblogs.org,media,XX,en,0,,0,0,,2091,"ConnectionError: HTTPConnectionPool(host='cavallette.noblogs.org', port=80): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPConnection(host='cavallette.noblogs.org', port=",,0
+https://blog.nody.cc/index.xml,nody.cc,media,XX,en,200,https://blog.nody.cc/index.xml,1,16,2024-12-11,1443,,application/xml,8080
+https://www.noemamag.com/feed/,noemamag.com,media,XX,en,200,https://www.noemamag.com/?feed=noemarss,1,10,2026-11-19,6128,,application/rss+xml; charset=UTF-8,269684
+https://noncombatant.org/feed/,noncombatant.org,media,XX,en,200,https://noncombatant.org/feed/,1,90,2024-12-18,7735,,application/xml,662767
+http://www.noob.ninja/feeds/posts/default?alt=rss,noob.ninja,media,XX,en,200,https://www.noob.ninja/feeds/posts/default?alt=rss,1,5,2019-12-08,4657,,application/rss+xml; charset=UTF-8,228479
+https://noperator.dev/index.xml,noperator.dev,media,XX,en,200,https://noperator.dev/index.xml,1,15,2026-09-25,1793,,application/xml,21981
+https://www.nordic-offsec.com/rss/,nordic-offsec.com,media,XX,en,200,https://www.nordic-offsec.com/rss/,1,3,2024-10-29,1785,,application/rss+xml; charset=utf-8,66058
+https://www.nortonlifelock.com/api/v1/blogs/rss/rss.xml/231,nortonlifelock.com,media,XX,en,200,https://www.nortonlifelock.com/api/v1/blogs/rss/rss.xml/231,1,10,2022-08-17,1024,,application/rss+xml; charset=utf-8,5314
+https://nosecurity.blog/feed.xml,nosecurity.blog,media,XX,en,200,https://nosecurity.blog/feed.xml,1,17,2026-09-16,9225,,application/xml,649827
+https://notrelated.xyz/rss,notrelated.xyz,media,XX,en,200,https://notrelated.xyz/rss,1,17,2022-03-31,2516,,text/xml,110501
+https://www.nowness.com/rss,nowness.com,media,XX,en,200,https://www.nowness.com/rss,1,20,2026-11-19,2530,,application/rss+xml; charset=utf-8,54922
+https://www.noxcivis.com/feed/,noxcivis.com,media,XX,en,502,https://www.noxcivis.com/feed/,0,0,,4154,,text/html; charset=UTF-8,6410
+https://nstperfume.com/feed/,nstperfume.com,media,XX,en,200,https://nstperfume.com/feed/,1,10,2026-11-18,2999,,application/rss+xml; charset=UTF-8,24029
+https://ntietz.com/atom.xml,ntietz.com,media,XX,en,200,https://ntietz.com/atom.xml,1,143,2026-06-17,17619,,text/xml,2000000
+https://nullcathedral.com/feed.xml,nullcathedral.com,media,XX,en,0,,0,0,,15676,timeout,,0
+https://nullsec.us/rss/,nullsec.us,media,XX,en,200,https://nullsec.us/rss/,1,15,2026-04-30,3818,,application/rss+xml; charset=utf-8,175061
+https://nuxx.net/blog/feed/,nuxx.net,media,XX,en,200,https://nuxx.net/blog/feed/,1,10,2026-11-13,3241,,application/rss+xml; charset=UTF-8,72419
+https://nypost.com/feed/,nypost.com,media,XX,en,200,https://nypost.com/feed/,1,24,2026-11-19,3927,,application/rss+xml; charset=UTF-8,73755
+https://nzt-48.org/feed,nzt-48.org,media,XX,en,200,https://nzt-48.org/feed,1,10,2025-05-15,3831,,application/rss+xml; charset=UTF-8,240564
+https://objective-see.com/rss.xml,objective-see.com,media,XX,en,200,https://objective-see.org/rss.xml,1,137,2026-10-18,3184,,application/xml,58899
+http://www.observer.com/feed,observer.com,media,XX,en,200,https://observer.com/feed/,1,20,2026-11-19,8759,,application/rss+xml; charset=UTF-8,476627
+https://oddlama.org/atom.xml,oddlama.org,media,XX,en,200,https://oddlama.org/atom.xml,1,3,2026-02-22,4270,,text/xml,239902
+https://oddvar.moe/feed/,oddvar.moe,media,XX,en,200,https://oddvar.moe/feed/,1,10,2025-07-03,3821,,application/rss+xml; charset=UTF-8,121876
+https://adepts.of0x.cc/feed.xml,of0x.cc,media,XX,en,200,https://adepts.of0x.cc/feed.xml,1,10,2026-09-28,13140,,application/xml,1237198
+https://ofdollarsanddata.com/feed/,ofdollarsanddata.com,media,XX,en,200,https://ofdollarsanddata.com/feed/,1,10,2026-11-17,2593,,application/rss+xml; charset=UTF-8,303608
+https://offensi.com/feed/,offensi.com,media,XX,en,200,https://offensi.com/feed/,1,7,2020-08-18,1781,,application/rss+xml; charset=UTF-8,85346
+http://www.offensive-security.com/feed/,offensive-security.com,media,XX,en,200,https://www.offsec.com/feed/,1,16,2026-11-17,2679,,application/rss+xml; charset=UTF-8,13884
+https://www.offensiveosint.io/rss/,offensiveosint.io,media,XX,en,200,https://www.offensiveosint.io/rss/,1,15,2026-08-16,5313,,application/rss+xml; charset=utf-8,482727
+https://offlinemark.com/feed/,offlinemark.com,media,XX,en,200,https://offlinemark.com/feed/,1,10,2026-10-28,1148,,application/rss+xml; charset=UTF-8,12420
+https://old.example/feed,old.example,media,XX,en,0,,0,0,,134,"ConnectionError: HTTPSConnectionPool(host='old.example', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPSConnection(host='old.example', port=443): Failed to res",,0
+https://olegkutkov.me/feed/,olegkutkov.me,media,XX,en,200,https://olegkutkov.me/feed/,1,10,2025-06-14,1933,,application/rss+xml; charset=UTF-8,17727
+https://www.omeronsecurity.com/feed,omeronsecurity.com,media,XX,en,200,https://www.omeronsecurity.com/feed,1,20,2024-08-22,9090,,application/xml; charset=utf-8,664157
+https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss,omnycontent.com,media,XX,en,200,https://feeds.megaphone.fm/VMP6255701211,1,300,2026-11-17,9371,,application/xml; charset=utf-8,1190121
+https://www.onekey.com/resource/rss.xml,onekey.com,media,XX,en,200,https://www.onekey.com/resource/rss.xml,1,100,2026-11-09,2426,,application/rss+xml; charset=utf-8,84107
+https://www.oneusefulthing.org/feed,oneusefulthing.org,media,XX,en,200,https://www.oneusefulthing.org/feed,1,20,2026-11-09,9920,,application/xml; charset=utf-8,921345
+https://oobs.io/research/index.xml,oobs.io,media,XX,en,200,https://oobs.io/research/index.xml,1,3,2026-11-09,1638,,text/xml,4165
+https://www.opendemocracy.net/rss/,opendemocracy.net,media,XX,en,200,https://www.opendemocracy.net/rss/,1,15,2026-11-19,3532,,application/rss+xml; charset=utf-8,153787
+https://www.openrce.org/rss/feeds/forum_topics,openrce.org,media,XX,en,200,https://www.openrce.org/rss/feeds/forum_topics,1,10,2023-03-12,1383,,text/xml,4521
+https://openssf.org/feed/,openssf.org,media,XX,en,200,https://openssf.org/feed/,1,10,2026-11-18,5452,,application/rss+xml; charset=UTF-8,162666
+https://blog.openthreatresearch.com/rss/,openthreatresearch.com,media,XX,en,200,https://blog.openthreatresearch.com/rss/,1,5,2026-01-11,3197,,application/rss+xml; charset=utf-8,390963
+https://opnsec.com/feed/,opnsec.com,media,XX,en,200,https://opnsec.com/feed/,1,9,2020-05-03,3311,,text/html; charset=utf-8,109799
+https://www.oreilly.com/radar/feed/index.xml,oreilly.com,media,XX,en,200,https://www.oreilly.com/radar/feed/,1,15,2026-11-19,3301,,application/rss+xml; charset=UTF-8,255533
+http://www.orenh.com/feeds/posts/default,orenh.com,media,XX,en,202,http://www.orenh.com/feeds/posts/default,0,0,,456,,text/html,190
+https://orphan.example/feed,orphan.example,media,XX,en,0,,0,0,,201,"ConnectionError: HTTPSConnectionPool(host='orphan.example', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPSConnection(host='orphan.example', port=443): Failed ",,0
+https://osandamalith.com/feed/,osandamalith.com,media,XX,en,200,https://osandamalith.com/feed/,1,10,2026-07-17,2430,,application/rss+xml; charset=UTF-8,209815
+https://osec.io/rss.xml,osec.io,media,XX,en,200,https://osec.io/rss.xml,1,37,2026-10-15,1550,,application/xml,20744
+https://osintcurio.us/feed/,osintcurio.us,media,XX,en,404,https://www.osintcurio.us/feed/,0,0,,1801,,text/html; charset=utf-8,9379
+https://www.osintme.com/index.php/feed/,osintme.com,media,XX,en,200,https://osintme.com/index.php/feed/,1,10,2026-11-04,4076,,application/rss+xml; charset=UTF-8,227195
+https://osintnewsletter.com/feed,osintnewsletter.com,media,XX,en,200,https://osintnewsletter.com/feed,1,20,2026-11-10,6235,,application/xml; charset=utf-8,522868
+https://osxdaily.com/feed/,osxdaily.com,media,XX,en,200,https://osxdaily.com/feed/,1,15,2026-11-18,1497,,application/rss+xml; charset=UTF-8,27807
+https://otbase.com/feed/,otbase.com,media,XX,en,200,https://otbase.com/feed/,1,12,2026-06-23,2902,,application/rss+xml; charset=UTF-8,101618
+https://other.example/feed,other.example,media,XX,en,0,,0,0,,67,"ConnectionError: HTTPSConnectionPool(host='other.example', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(""HTTPSConnection(host='other.example', port=443): Failed to",,0
+https://blog.ovhcloud.com/en/feed.xml,ovhcloud.com,media,XX,en,200,https://blog.ovhcloud.com/en/feed.xml,1,20,2026-11-19,1526,,text/xml,14418
+https://tech.ovoenergy.com/rss/,ovoenergy.com,media,XX,en,200,https://tech.ovoenergy.com/rss/,1,15,2024-10-01,4450,,application/rss+xml; charset=utf-8,226392
+https://oxide.computer/blog/feed,oxide.computer,media,XX,en,200,https://oxide.computer/blog/feed,1,35,2026-11-16,7916,,application/xml,763414
+https://rss.packetstormsecurity.com/,packetstormsecurity.com,media,XX,en,0,,0,0,,782,"SSLError: HTTPSConnectionPool(host='rss.packetstormsecurity.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED",,0
+http://packetstormsecurity.org/headlines.xml,packetstormsecurity.org,media,XX,en,404,https://packetstorm.news/headlines.xml,0,0,,1265,,text/html; charset=utf-8,9
+https://pagedout.institute/rss.xml,pagedout.institute,media,XX,en,200,https://pagedout.institute/rss.xml,1,9,2026-07-27,1648,,application/rss+xml,4040
+https://pakobserver.net/feed,pakobserver.net,media,XX,en,200,https://pakobserver.net/feed/,1,10,2026-11-19,3356,,application/rss+xml; charset=UTF-8,36401
+https://palant.info/rss.xml,palant.info,media,XX,en,200,https://palant.info/rss.xml,1,10,2026-02-03,5739,,text/xml,578459
+https://www.palladiummag.com/feed/,palladiummag.com,media,XX,en,200,https://www.palladiummag.com/feed/index.xml,1,18,2026-11-17,5012,,text/xml,498471
+http://researchcenter.paloaltonetworks.com/feed/,paloaltonetworks.com,media,XX,en,200,https://www.paloaltonetworks.com/blog/feed/,1,10,2026-11-17,3903,,application/rss+xml; charset=UTF-8,111548
+https://parsiya.net/index.xml,parsiya.net,media,XX,en,200,https://parsiya.net/index.xml,1,170,2026-09-17,4552,,application/xml,221019
+https://chris.partridge.tech/feed.xml,partridge.tech,media,XX,en,200,https://chris.partridge.tech/feed.xml,1,13,2026-10-24,2110,,text/xml,11353
+http://blog.passivetotal.org/rss/,passivetotal.org,media,XX,en,0,,0,0,,110,"ConnectionError: HTTPConnectionPool(host='blog.passivetotal.org', port=80): Max retries exceeded with url: /rss/ (Caused by NameResolutionError(""HTTPConnection(host='blog.passivetotal.org', port=80",,0
+http://www.payatu.com/feed/,payatu.com,media,XX,en,404,https://payatu.ai/feed,0,0,,1156,,text/html; charset=utf-8,19631
+https://www.pbs.org/newshour/feeds/rss/politics,pbs.org,media,XX,en,202,https://www.pbs.org/newshour/feeds/rss/politics,0,0,,996,empty body (status 202),text/html; charset=UTF-8,0
