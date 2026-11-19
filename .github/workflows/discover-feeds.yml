@@ -1,0 +1,93 @@
+name: discover-feeds
+
+# 政府/智库官网 feed 自动发现。
+# 用法：Actions → discover-feeds → Run workflow → offset（起点，默认 0）+ limit（本批站点数，默认 400）。
+# 从 sites/gov_sites.csv 切片，先读首页 <link rel="alternate" type="application/rss+xml">，
+# 再试 /feed /rss /rss.xml /atom.xml /feed.xml /index.xml；每个候选都真拉一遍并用 feedparser 解析。
+# 结果写 results/discovered_<offset>.csv（只含命中行）与 results/discovered_all_<offset>.csv（全部尝试）。
+
+on:
+  workflow_dispatch:
+    inputs:
+      offset:
+        description: '起点下标（0 起）'
+        required: false
+        type: number
+        default: 0
+      limit:
+        description: '本批站点数（默认 400）'
+        required: false
+        type: number
+        default: 400
+      workers:
+        description: '并发数（默认 24）'
+        required: false
+        type: number
+        default: 24
+
+run-name: discover-feeds offset ${{ inputs.offset }} limit ${{ inputs.limit }}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover-feeds-${{ inputs.offset }}
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: python -m pip install --quiet requests feedparser
+
+      - name: Discover offset ${{ inputs.offset }}
+        run: |
+          python .github/scripts/discover_feeds.py \
+            --sites sites/gov_sites.csv \
+            --offset "${{ inputs.offset }}" \
+            --limit "${{ inputs.limit }}" \
+            --workers "${{ inputs.workers }}" \
+            --out "results/discovered_${{ inputs.offset }}.csv" \
+            --out-all "results/discovered_all_${{ inputs.offset }}.csv"
+
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: discovered-${{ inputs.offset }}
+          path: |
+            results/discovered_${{ inputs.offset }}.csv
+            results/discovered_all_${{ inputs.offset }}.csv
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "discover-bot"
+          git config user.email "discover-bot@users.noreply.github.com"
+          git add results
+          if git diff --cached --quiet; then
+            echo "结果无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "discover: offset ${{ inputs.offset }} limit ${{ inputs.limit }} $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            if git push; then
+              echo "pushed"
+              exit 0
+            fi
+            echo "push 失败，rebase 后重试（第 $i 次）"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            sleep 5
+          done
+          echo "三次 push 均失败"
+          exit 1
